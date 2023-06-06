@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>media on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/media/</link>
+    <description>Recent content in media on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Mar 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/media/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technically randy</title>
+      <link>https://www.desinerd.com/posts/technically-randy/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/technically-randy/</guid>
+      <description>Must ask ! Are you “technically randy&amp;quot; ?
+I definitely am :), i just figured out that i must come out in the open for a change [as if the blog name is not a good indicator]. I love technology and apply it anywhere and everywhere there is an opportunity. Though this obviously has its pitfalls, well being randy has its pitfalls. Lets see some of the obvious ones [feel free to comment and fill in the non-obvious ones] Depending on what makes your day, you will end up spending up more time than the average joe on simple things !</description>
+    </item>
+    
+    <item>
+      <title>Social media primer for politicians</title>
+      <link>https://www.desinerd.com/posts/social-media-primer-for-politicians/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/social-media-primer-for-politicians/</guid>
+      <description>It has been something that has been going on in my head for a significant amount of time and I believe that it is the right time for politicians and famous individuals to take their online reputation management as seriously as the offline one. Here, i will outline a very basic strategy that i believe will equip celebrities and politicians to strengthen their brands. So lets start with some assumptions that will make our lives easier as the post goes on.</description>
+    </item>
+    
+    <item>
+      <title>Social Media Internships @ Electrosocial</title>
+      <link>https://www.desinerd.com/posts/social-media-internships-electrosocial/</link>
+      <pubDate>Wed, 17 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/social-media-internships-electrosocial/</guid>
+      <description>It gives me immensure pleasure to announce that Electrosocial is starting a six week internship program from the end of this month. The program is aimed at sharing the fundamentals of Social Media and imparting working knowledge with various tools and services of relevance. The internship would be completely online so that anyone from any part of the world can join it. The internship program would consist of (but not limited to) the following: Emergence of Social Media Social Media Fundamentals Social Media Tools Social Media Values/Ethics Scope of Social Media in Marketing, Customer Service, Activism etc Social Media Metrics Legal Aspect of Social Media</description>
+    </item>
+    
+    <item>
+      <title>Django : using a seperate memcached cloud for sessions</title>
+      <link>https://www.desinerd.com/posts/django-using-a-seperate-memcached-cloud-for-sessions/</link>
+      <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/django-using-a-seperate-memcached-cloud-for-sessions/</guid>
+      <description>When you are using a platform like django you realise how slow sessions can get when you are using the database as a backend. The problem of using a memory cache like memcached is the fact that when you restart the server to refresh the cache or remove stale objects, the problem is that you lose your sessions data and a lot of people using your site get logged out. The only solution to this problem is to use 2 memcached instances , one for your regular python objects and another for your sessions objects … this is not a default feature in Django.</description>
+    </item>
+    
+  </channel>
+</rss>

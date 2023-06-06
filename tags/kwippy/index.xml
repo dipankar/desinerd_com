@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>kwippy on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/kwippy/</link>
+    <description>Recent content in kwippy on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Dec 2009 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/kwippy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Posts, tweets and nothing</title>
+      <link>https://www.desinerd.com/posts/posts-tweets-and-nothing/</link>
+      <pubDate>Wed, 02 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/posts-tweets-and-nothing/</guid>
+      <description>I am starting from nothing, very little tweeting @dipankarsarkar , and hardly any blog posts here. So 1st December is an attempt at reviving my non-existent web presence. So what keeps me so busy from even writing a simple blog post, i will try to summarize that over the next points Sometime a year back i realized that family was important :), so yes i definitely spend a lot more time with my family.</description>
+    </item>
+    
+    <item>
+      <title>Post on twitter/kwippy using .NET</title>
+      <link>https://www.desinerd.com/posts/post-on-twitter-kwippy-using-net/</link>
+      <pubDate>Tue, 03 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/post-on-twitter-kwippy-using-net/</guid>
+      <description>using System; using System.Collections.Generic; using System.Linq; using System.Text; using System.IO; using System.Net; using System.Web;
+namespace ConsoleApplication1 { class Program { static void Main(string[] args) { System.Net.ServicePointManager.Expect100Continue = false; Uri address = new Uri(“http://twitter.com/statuses/update.json”); // Create the web request HttpWebRequest request = WebRequest.Create(address) as HttpWebRequest; request.Method = “POST”; request.ContentType = “application/x-www-form-urlencoded”; request.Credentials = new NetworkCredential(“username”, “password”); StringBuilder data = new StringBuilder(); data.Append(“status=from%20.net”); // Create a byte array of the data we want to send byte[] byteData = UTF8Encoding.</description>
+    </item>
+    
+    <item>
+      <title>Kwippy feed for wordpress</title>
+      <link>https://www.desinerd.com/posts/kwippy-feed-for-wordpress/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/kwippy-feed-for-wordpress/</guid>
+      <description>If you notice i now have a RSS feed for kwippy on the sidebar. That is done by using RSS widget functionality within the wordpress theme section. The image below outline the complete setup which i use for my blog.
+Its really simple to set this up :).Enjoy.</description>
+    </item>
+    
+    <item>
+      <title>First wordpress plugin : Kwippy poster 1.0</title>
+      <link>https://www.desinerd.com/posts/first-wordpress-plugin-kwippy-poster-1-0/</link>
+      <pubDate>Tue, 20 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/first-wordpress-plugin-kwippy-poster-1-0/</guid>
+      <description>Just created my first wordpress plugin, from concept to implementation in 3 hours :D. This plugin basically posts an update on kwippy when you publish a new blog post. This can be a good tutorial for someone trying to build their own plugins actually. Enjoy.
+Updated: Official Wordpress plugin page :http://snipper.in/86</description>
+    </item>
+    
+    <item>
+      <title>Nginx &#43; django fcgi lessons</title>
+      <link>https://www.desinerd.com/posts/nginx-django-fcgi-lessons/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/nginx-django-fcgi-lessons/</guid>
+      <description>Today was a good day as i learned some valuable lessons about django and nginx. ALWAYS close the database cursor in django, it can lead to some pretty wierd memory issues going forward. FIND the most optimal number of database connections you initialize for you connection pooling. This will let you optimize on memory going forward. ENSURE that you do not set a very high client_timeout, this means that if connections are not explicitly not closed by the client then the web server will not timeout.</description>
+    </item>
+    
+    <item>
+      <title>Pownce gone, use kwippy</title>
+      <link>https://www.desinerd.com/posts/pownce-gone-use-kwippy/</link>
+      <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/pownce-gone-use-kwippy/</guid>
+      <description>In a blatant act of self promotion, now that pownce is finished, I can confidently write that we are the only other django based micro-blogging network with some traction. I do admit the user interface needs a bit of work, but if you interact with our community, you will realize that they are a set of amazing people.
+So keeping in mind that you want to move on from pownce, try something new … or just try kwippy.</description>
+    </item>
+    
+    <item>
+      <title>httpfuse : best way to aggregate links</title>
+      <link>https://www.desinerd.com/posts/httpfuse-best-way-to-aggregate-links/</link>
+      <pubDate>Wed, 27 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/httpfuse-best-way-to-aggregate-links/</guid>
+      <description>Httpfuse is a very simple concept which allows collaborative link aggregation. The strength lies in the fact that a significant part of the functionality is developed and it is well populated with data. I have displayed one of the fuses i developed over at httpfuse, does it not look great. I have worked upon the data collection actually well it has 4 million odd links beat that :D. Its probably one of the very few Indian sites to have this amounts of data in its system to be honest.</description>
+    </item>
+    
+    <item>
+      <title>Kwippy fireeagle</title>
+      <link>https://www.desinerd.com/posts/kwippy-fireeagle/</link>
+      <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/kwippy-fireeagle/</guid>
+      <description>Kwippy has fireeagle integration now :D …. and all done in 2 days flat. The API is not that stable to be honest, but has the potential for greatness.
+The kwippy integration basically has a small signup application that is independent of the main app, there is a signup page which integrates and then the rest is in the parent application. I should be posting a picture here, but too lazy he he ….</description>
+    </item>
+    
+    <item>
+      <title>Kwippy facebook application</title>
+      <link>https://www.desinerd.com/posts/kwippy-facebook-application/</link>
+      <pubDate>Wed, 13 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/kwippy-facebook-application/</guid>
+      <description>Hello all kwippers and people who want to archive their status application, we just released an application which lets you do just that and more if you are integrate the application with kwippy.
+here is the link http://www.new.facebook.com/apps/application.php?id=6806564434
+We need more people ;) , feel free to invite your friends too ….</description>
+    </item>
+    
+    <item>
+      <title>My first post at kwippy blog</title>
+      <link>https://www.desinerd.com/posts/my-first-post-at-kwippy-blog/</link>
+      <pubDate>Fri, 04 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/my-first-post-at-kwippy-blog/</guid>
+      <description>http://blog.kwippy.com/2008/07/03/technology-behind-kwippy-and-scaling/
+A post about how kwippy works and scaling strategies involved. Feel free to ramble and comment.</description>
+    </item>
+    
+  </channel>
+</rss>

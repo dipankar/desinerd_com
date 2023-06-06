@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>django on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/django/</link>
+    <description>Recent content in django on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 28 May 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FeinCMS and DjangoCMS</title>
+      <link>https://www.desinerd.com/posts/feincms-and-djangocms/</link>
+      <pubDate>Fri, 28 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/feincms-and-djangocms/</guid>
+      <description>Spent sometime working with both over the last month, created 2 ecommerce sites around these and here are some observations which may help people decide what works for them FeinCMS was a pain to get started with, i had to base it all on the default example as the documentation was not enough to get it all started from scratch. I was using the trunk as it has goodies [like a blog] which the stable did not have.</description>
+    </item>
+    
+    <item>
+      <title>obsessing about bdb, queues</title>
+      <link>https://www.desinerd.com/posts/obsessing-about-bdb-queues/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/obsessing-about-bdb-queues/</guid>
+      <description>So my nightmares do no cease to end, still debating queue solutions and databases. After spending a lot of time thinking about how to handle 100 million entries , concurrency and a lot of jazz here are some conclusions that I have reached. Tokyo Tyrant needs some testing personally. Can it work well within a constrained VPS ? I doubt that after reading all the test results. So need to do a benchmark for this.</description>
+    </item>
+    
+    <item>
+      <title>Nginx &#43; django fcgi lessons</title>
+      <link>https://www.desinerd.com/posts/nginx-django-fcgi-lessons/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/nginx-django-fcgi-lessons/</guid>
+      <description>Today was a good day as i learned some valuable lessons about django and nginx. ALWAYS close the database cursor in django, it can lead to some pretty wierd memory issues going forward. FIND the most optimal number of database connections you initialize for you connection pooling. This will let you optimize on memory going forward. ENSURE that you do not set a very high client_timeout, this means that if connections are not explicitly not closed by the client then the web server will not timeout.</description>
+    </item>
+    
+    <item>
+      <title>Django : Optimizations within the platform</title>
+      <link>https://www.desinerd.com/posts/django-optimizations-within-the-platform/</link>
+      <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/django-optimizations-within-the-platform/</guid>
+      <description>In my experience with both rails and django, i would have to admit that a lot of things need to be improved at the core of these platforms so that developers can truly deploy a really fast production site. Let talk about what we did at kwippy to make it that much more faster than the default Django setup. Use memcached properly : The trick in getting speed is to cache all logged out pages and heavy caching of the user objects when logged in.</description>
+    </item>
+    
+    <item>
+      <title>Django : using a seperate memcached cloud for sessions</title>
+      <link>https://www.desinerd.com/posts/django-using-a-seperate-memcached-cloud-for-sessions/</link>
+      <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/django-using-a-seperate-memcached-cloud-for-sessions/</guid>
+      <description>When you are using a platform like django you realise how slow sessions can get when you are using the database as a backend. The problem of using a memory cache like memcached is the fact that when you restart the server to refresh the cache or remove stale objects, the problem is that you lose your sessions data and a lot of people using your site get logged out. The only solution to this problem is to use 2 memcached instances , one for your regular python objects and another for your sessions objects … this is not a default feature in Django.</description>
+    </item>
+    
+    <item>
+      <title>Django : using HTTP authentication for your views</title>
+      <link>https://www.desinerd.com/posts/django-using-http-authentication-for-your-views/</link>
+      <pubDate>Sat, 15 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/django-using-http-authentication-for-your-views/</guid>
+      <description>This is a small tutorial on how to use HTTP authentication for your site. Firstly you need to copy this file to httpauth.py and place it at /httpauth.py
+import base64 from django.contrib.auth.models import User from django.http import HttpResponse from django.contrib.auth import authenticate, login
+#############################################################################
+def view_or_basicauth(view, request, test_func, realm = &amp;ldquo;&amp;rdquo;, *args, **kwargs): &amp;quot;&amp;quot;&amp;quot; This is a helper function used by both &amp;lsquo;&amp;rsquo;logged_in_or_basicauth&amp;rsquo;&amp;rsquo; and &amp;lsquo;&amp;lsquo;has_perm_or_basicauth&amp;rsquo;&amp;rsquo; that does the nitty of determining if they are already logged in or if they have provided proper http-authorization and returning the view if all goes well, otherwise responding with a 401.</description>
+    </item>
+    
+    <item>
+      <title>My first post at kwippy blog</title>
+      <link>https://www.desinerd.com/posts/my-first-post-at-kwippy-blog/</link>
+      <pubDate>Fri, 04 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/my-first-post-at-kwippy-blog/</guid>
+      <description>http://blog.kwippy.com/2008/07/03/technology-behind-kwippy-and-scaling/
+A post about how kwippy works and scaling strategies involved. Feel free to ramble and comment.</description>
+    </item>
+    
+  </channel>
+</rss>

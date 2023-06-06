@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>desinerd on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/desinerd/</link>
+    <description>Recent content in desinerd on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Feb 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/desinerd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting started</title>
+      <link>https://www.desinerd.com/posts/getting-started/</link>
+      <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/getting-started/</guid>
+      <description>This is the first post here, this will be work in progress for sometime ! So do bear with me, Going forward the attempt will be to create this personal mini-site with a on and off personal blog.
+For technical stuff do visit http://desinerd.com</description>
+    </item>
+    
+    <item>
+      <title>Kwippy feed for wordpress</title>
+      <link>https://www.desinerd.com/posts/kwippy-feed-for-wordpress/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/kwippy-feed-for-wordpress/</guid>
+      <description>If you notice i now have a RSS feed for kwippy on the sidebar. That is done by using RSS widget functionality within the wordpress theme section. The image below outline the complete setup which i use for my blog.
+Its really simple to set this up :).Enjoy.</description>
+    </item>
+    
+    <item>
+      <title>What is Pragmatism ?</title>
+      <link>https://www.desinerd.com/posts/what-is-pragmatism/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/what-is-pragmatism/</guid>
+      <description>What is Pragmatism ? Something i had little idea about it turns out. Seems i need to read up a lot more about the words i encounter. What stories they hide within their seemingly mundane meanings. The most influential philosophy in America in the first quarter of the twentieth century. Viewed against the widely diversified intellectual currents that have characterized American life, pragmatism stands out as an energetically evolved philosophical movement.</description>
+    </item>
+    
+  </channel>
+</rss>

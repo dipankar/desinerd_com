@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tweet on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/tweet/</link>
+    <description>Recent content in tweet on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Dec 2009 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/tweet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Posts, tweets and nothing</title>
+      <link>https://www.desinerd.com/posts/posts-tweets-and-nothing/</link>
+      <pubDate>Wed, 02 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/posts-tweets-and-nothing/</guid>
+      <description>I am starting from nothing, very little tweeting @dipankarsarkar , and hardly any blog posts here. So 1st December is an attempt at reviving my non-existent web presence. So what keeps me so busy from even writing a simple blog post, i will try to summarize that over the next points Sometime a year back i realized that family was important :), so yes i definitely spend a lot more time with my family.</description>
+    </item>
+    
+  </channel>
+</rss>

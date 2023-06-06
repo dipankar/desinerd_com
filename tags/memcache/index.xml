@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>memcache on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/memcache/</link>
+    <description>Recent content in memcache on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 18 Sep 2009 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/memcache/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bangalore, h1n1 and queues</title>
+      <link>https://www.desinerd.com/posts/bangalore-h1n1-and-queues/</link>
+      <pubDate>Fri, 18 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/bangalore-h1n1-and-queues/</guid>
+      <description>So for that last one week a major area of work has been queues and here are the various queues that i encountered memqueuedb - a speedy message queue based upon the memcached client protocol. The idea was to use it to cache certain objects in a system. JMS - Seems to be an integral part of my J2EE learning, this is what often defines performance in an application. Especially when good high speed JMS library implementation cost big money.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ubuntu on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/ubuntu/</link>
+    <description>Recent content in ubuntu on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing huginn on ubuntu 20.04</title>
+      <link>https://www.desinerd.com/posts/installing-huginn-on-ubuntu-20-04/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/installing-huginn-on-ubuntu-20-04/</guid>
+      <description>The default guide for Huginn installation works pretty well. The only part where you do get stuck is
+sudo bundle exec rake production:export So what really happens is that the console looks like it stuck, which is quite frustrating. Lets say you force quit this (Crtl^C). Try running it again and you will get an error like.
+root@localhost:/home/huginn/huginn# sudo bundle exec rake production:export --trace ** Invoke production:export (first_time) ** Invoke production:check (first_time) ** Execute production:check ** Execute production:export ** Execute production:stop Stopping huginn .</description>
+    </item>
+    
+    <item>
+      <title>Compiling B2G on ubuntu 64bit</title>
+      <link>https://www.desinerd.com/posts/compiling-b2g-on-ubuntu-64bit/</link>
+      <pubDate>Tue, 21 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/compiling-b2g-on-ubuntu-64bit/</guid>
+      <description>Been working on compiling B2G aka Firefox OS on ubuntu 64bit ! There have been some hiccups along the way, but a full post coming up on that soon</description>
+    </item>
+    
+    <item>
+      <title>Microsoft remote terminal from linux</title>
+      <link>https://www.desinerd.com/posts/microsoft-remote-terminal-from-linux/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/microsoft-remote-terminal-from-linux/</guid>
+      <description>I know it would be simple for a lot of people reading this blog :). But the easiest way to remote desktop into a windows machine using a X based linux distro is to install rdesktop.
+http://www.rdesktop.org
+For ubuntu and debian based distro, fire up the console and type
+sudo apt-get install rdesktop
+This would install the client.
+rdesktop &amp;lt;server IP/domain&amp;gt;
+This would fire up the windows remote desktop stuff.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>book on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/book/</link>
+    <description>Recent content in book on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 31 May 2011 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/book/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New book : Nginx web server cookbook</title>
+      <link>https://www.desinerd.com/posts/new-book-nginx-web-server-cookbook/</link>
+      <pubDate>Tue, 31 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/new-book-nginx-web-server-cookbook/</guid>
+      <description>Guys after a long break, I have come out of my slumber to talk about my first publication with Packt publishing. In short the book is about tips and tricks around the upcoming Nginx web server. You can check it out using this link. This has been published by Packt publishing, a UK based technical publishing house.
+It would not have been possible without the tremendous support of the people around me, and in specific the many people I have worked with.</description>
+    </item>
+    
+  </channel>
+</rss>

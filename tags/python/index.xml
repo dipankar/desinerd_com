@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>python on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/python/</link>
+    <description>Recent content in python on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 02 Sep 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multiple views using bottle.py</title>
+      <link>https://www.desinerd.com/posts/multiple-views-using-bottle-py/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/multiple-views-using-bottle-py/</guid>
+      <description>I have been using the micro-framework called bottle.py, and starting to write fairly complicated applications on top of it. So I have been able to put together a relatively clean structure based that serves my maintainability issues
+This setup uses redis, memcached, and mako as the templating language. Lets assume the application name is project.
+project/project/main.py - This is the core application file that loads up bottle and the pluginsproject/INSTALL - This is the readme and simple installation instructionsproject/middlewares.</description>
+    </item>
+    
+    <item>
+      <title>Python, Passenger phusion and dreamhost</title>
+      <link>https://www.desinerd.com/posts/python-passenger-phusion-and-dreamhost/</link>
+      <pubDate>Sun, 22 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/python-passenger-phusion-and-dreamhost/</guid>
+      <description>Well, had to setup some stuff on dreamhost. Turns out that they are fairly bad on django hosting. Here is a working passenger_wsgi.py that is possibly much better than the default. Please not that you must have paste [http://pythonpaste.org/] installed for this to work correctly.
+This has python2.7 locally installed in your account, with all the libraries locally. Dreamhost is quite painful, as the documentation is incomplete clearly!</description>
+    </item>
+    
+    <item>
+      <title>Listing all your blogposts</title>
+      <link>https://www.desinerd.com/posts/listing-all-your-blogposts/</link>
+      <pubDate>Tue, 30 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/listing-all-your-blogposts/</guid>
+      <description>So here is a quick snapshot at how to get all your wordpress blogposts using python [or wordpresslib to be specific]
+– #!/usr/bin/env python import wordpresslib import tinyurl wordpress = raw_input(&amp;lsquo;&amp;lsquo;Wordpress URL:&amp;rsquo;&amp;rsquo;) user = raw_input(&amp;lsquo;&amp;lsquo;Username:&amp;rsquo;&amp;rsquo;) password = raw_input(&amp;lsquo;&amp;lsquo;Password:&amp;rsquo;&amp;rsquo;)
+prepare client object wp = wordpresslib.WordPressClient(wordpress, user, password)
+select blog id wp.selectBlog(0) posts = wp.getRecentPosts(100) for p in posts: if p.title.find(&amp;ldquo;p=&amp;rdquo;)&amp;lt;0: print p.title,&amp;quot; - &amp;ldquo;,tinyurl.create_one(p.link) – Now that is real easy to use IMHO, i just started using this in one of my scripts.</description>
+    </item>
+    
+    <item>
+      <title>Jailed in FreeBSD</title>
+      <link>https://www.desinerd.com/posts/jailed-in-freebsd/</link>
+      <pubDate>Mon, 08 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/jailed-in-freebsd/</guid>
+      <description>Well, working on freeBSD right now some immediate learnings for most linux users Ports is as good as apt-get [and i would say much better, when i started installing stuff] You will need to start with installing vim and bash to make your life a lot easier
+So the target was to install python and nginx, both of which are very easy to install once you understand how the whole ports collection system works.</description>
+    </item>
+    
+    <item>
+      <title>obsessing about bdb, queues</title>
+      <link>https://www.desinerd.com/posts/obsessing-about-bdb-queues/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/obsessing-about-bdb-queues/</guid>
+      <description>So my nightmares do no cease to end, still debating queue solutions and databases. After spending a lot of time thinking about how to handle 100 million entries , concurrency and a lot of jazz here are some conclusions that I have reached. Tokyo Tyrant needs some testing personally. Can it work well within a constrained VPS ? I doubt that after reading all the test results. So need to do a benchmark for this.</description>
+    </item>
+    
+    <item>
+      <title>bangalore, h1n1 and queues</title>
+      <link>https://www.desinerd.com/posts/bangalore-h1n1-and-queues/</link>
+      <pubDate>Fri, 18 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/bangalore-h1n1-and-queues/</guid>
+      <description>So for that last one week a major area of work has been queues and here are the various queues that i encountered memqueuedb - a speedy message queue based upon the memcached client protocol. The idea was to use it to cache certain objects in a system. JMS - Seems to be an integral part of my J2EE learning, this is what often defines performance in an application. Especially when good high speed JMS library implementation cost big money.</description>
+    </item>
+    
+    <item>
+      <title>Twitter background generator version 0.1</title>
+      <link>https://www.desinerd.com/posts/twitter-background-generator-version-0-1/</link>
+      <pubDate>Fri, 18 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/twitter-background-generator-version-0-1/</guid>
+      <description>Working on a very basic twitter background generator, right now focusing on how to get the sidebar width right. It is very much under use at my twitter handle @dipankarsarkar (http://twitter.com/dipankarsarkar). The core idea is to be abe to communicate more information about what i do as a person using the background image. Some features that I personally want are Transparency for the sidebar - The image underneath should be visible, right now its a grey opaque color.</description>
+    </item>
+    
+    <item>
+      <title>Nginx &#43; django fcgi lessons</title>
+      <link>https://www.desinerd.com/posts/nginx-django-fcgi-lessons/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/nginx-django-fcgi-lessons/</guid>
+      <description>Today was a good day as i learned some valuable lessons about django and nginx. ALWAYS close the database cursor in django, it can lead to some pretty wierd memory issues going forward. FIND the most optimal number of database connections you initialize for you connection pooling. This will let you optimize on memory going forward. ENSURE that you do not set a very high client_timeout, this means that if connections are not explicitly not closed by the client then the web server will not timeout.</description>
+    </item>
+    
+  </channel>
+</rss>

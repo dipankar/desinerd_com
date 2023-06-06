@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>proto on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/proto/</link>
+    <description>Recent content in proto on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 May 2009 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/proto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nominations for Proto.in Pune, are Open!</title>
+      <link>https://www.desinerd.com/posts/nominations-for-proto-in-pune-are-open/</link>
+      <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/nominations-for-proto-in-pune-are-open/</guid>
+      <description>Amidst much excitement that is bubbling up at the Proto.in camp, we are happy to announce that the nominations for the upcoming edition are now open! The nominations will stay open till June 15th, and that is just a short stint away. Do race to it, and if you are a startup in the Indian landscape and absolutely believe that you have something to share, then this is the platform you’ve been waiting for.</description>
+    </item>
+    
+    <item>
+      <title>Awesome proto.in, jan 2009</title>
+      <link>https://www.desinerd.com/posts/awesome-proto-in-jan-2009/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/awesome-proto-in-jan-2009/</guid>
+      <description>Proto has been taking place for sometime, but Jan 2009 is my first proto.in attendance and it was worth the trip to Bangalore. I went in with some expectations and yes, they were fulfilled. The highlights of the event is given below. Awesome talks - There was one talk by Bob Young(founder of redhat) which was simply awesome. There were others as well which were informative and fun sessions. Great audience - People from all walks of professional life, met a lawyer, a HR guy, a finance guy and so on … with so much variety one can only choose to get bored of such company.</description>
+    </item>
+    
+    <item>
+      <title>Twitter feed wall - great for projectors</title>
+      <link>https://www.desinerd.com/posts/twitter-feed-wall-great-for-projectors/</link>
+      <pubDate>Thu, 22 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/twitter-feed-wall-great-for-projectors/</guid>
+      <description>Inspired by http://twistori.com/. I wrote a generic tool which will allow people to setup a simple wall where people can post and it will automatically refresh. I built this tool specifically because it was needed at proto.in. I am very sure it will be useful to a lot of people out there.
+Uses JQuery and a Queues for javascript library. Maybe someone can do some transition magic with it, i am still a javascript n00b :).</description>
+    </item>
+    
+    <item>
+      <title>Looking forward to proto</title>
+      <link>https://www.desinerd.com/posts/looking-forward-to-proto/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/looking-forward-to-proto/</guid>
+      <description>I am looking forward to attending proto @ blore, there are a lot of reasons to do so. Great set of people, will get to meet the very best entrepreneurs in India. In addition, to understanding the challenges people are trying to solve. Shotgun Startup - amazing concept and i really want to be a part of it. The feeling of implementing something in a very short time is exhilarating to say the least.</description>
+    </item>
+    
+    <item>
+      <title>Be a Shotgun Startup, at Proto.in January Edition</title>
+      <link>https://www.desinerd.com/posts/be-a-shotgun-startup-at-proto-in-january-edition/</link>
+      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/be-a-shotgun-startup-at-proto-in-january-edition/</guid>
+      <description>How many times have you had a cool idea that never saw the light? Or that amazing conversation you had with your best friends which resulted to nothing? It can be that amazing facebook application to solve all the problems of your single friends, or that Iphone game that will rock the world, or an android application, or that robot which will help elderly people remember their pill times. Whatever it is, this is a time to build it and ride the wave with the support of the entire startup community.</description>
+    </item>
+    
+    <item>
+      <title>Proto.in January&#39;09, Bangalore</title>
+      <link>https://www.desinerd.com/posts/proto-in-january-09-bangalore/</link>
+      <pubDate>Fri, 12 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/proto-in-january-09-bangalore/</guid>
+      <description>After its resounding successes in its past four editions, Proto.in is back on 23 &amp;amp; 24 january at bangalore to further strengthen its position as India’s premier start-up event. Proto.in has built a reputation of being the one event the entire entrepreneurial ecosystem looks forward to, across the length and breadth of India. Having witnessed successful past editions in Delhi and Chennai and gearing up for the next one in Bangalore, Ravi Narayanan, a well known entrepreneur and an advisor to proto.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>internet on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/internet/</link>
+    <description>Recent content in internet on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 09 Mar 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firefox operating system released!</title>
+      <link>https://www.desinerd.com/posts/firefox-operating-system-released/</link>
+      <pubDate>Sat, 09 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/firefox-operating-system-released/</guid>
+      <description>One of the first things that i wanted to implement in my university [~2006] was a operating system with only the Firefox browser as the core application. Turns out that is a popular reality now with the Chromebook and well to some extent the Firefox OS which is being released. I at that point had no idea that mobile would become that big, with the exposure that I had. Its all coming together!</description>
+    </item>
+    
+    <item>
+      <title>Posts, tweets and nothing</title>
+      <link>https://www.desinerd.com/posts/posts-tweets-and-nothing/</link>
+      <pubDate>Wed, 02 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/posts-tweets-and-nothing/</guid>
+      <description>I am starting from nothing, very little tweeting @dipankarsarkar , and hardly any blog posts here. So 1st December is an attempt at reviving my non-existent web presence. So what keeps me so busy from even writing a simple blog post, i will try to summarize that over the next points Sometime a year back i realized that family was important :), so yes i definitely spend a lot more time with my family.</description>
+    </item>
+    
+    <item>
+      <title>obsessing about bdb, queues</title>
+      <link>https://www.desinerd.com/posts/obsessing-about-bdb-queues/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/obsessing-about-bdb-queues/</guid>
+      <description>So my nightmares do no cease to end, still debating queue solutions and databases. After spending a lot of time thinking about how to handle 100 million entries , concurrency and a lot of jazz here are some conclusions that I have reached. Tokyo Tyrant needs some testing personally. Can it work well within a constrained VPS ? I doubt that after reading all the test results. So need to do a benchmark for this.</description>
+    </item>
+    
+  </channel>
+</rss>

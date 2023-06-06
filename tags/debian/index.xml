@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>debian on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/debian/</link>
+    <description>Recent content in debian on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 29 Aug 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/debian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Xen it up</title>
+      <link>https://www.desinerd.com/posts/xen-it-up/</link>
+      <pubDate>Wed, 29 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/xen-it-up/</guid>
+      <description>So been playing around for sometime now, and now officially running my own virtual machines. Not using any of the interfaces available and still having a lot of fun to be honest.
+I recently encountered the Citrix XenCenter in production and am convinced it is the right move to use commandline only, though it is not for the windows administrators ;) [atleast the ones who do not know what is the powershell].</description>
+    </item>
+    
+    <item>
+      <title>Microsoft remote terminal from linux</title>
+      <link>https://www.desinerd.com/posts/microsoft-remote-terminal-from-linux/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/microsoft-remote-terminal-from-linux/</guid>
+      <description>I know it would be simple for a lot of people reading this blog :). But the easiest way to remote desktop into a windows machine using a X based linux distro is to install rdesktop.
+http://www.rdesktop.org
+For ubuntu and debian based distro, fire up the console and type
+sudo apt-get install rdesktop
+This would install the client.
+rdesktop &amp;lt;server IP/domain&amp;gt;
+This would fire up the windows remote desktop stuff.</description>
+    </item>
+    
+  </channel>
+</rss>

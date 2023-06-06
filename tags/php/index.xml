@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>php on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/php/</link>
+    <description>Recent content in php on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Aug 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nested comments</title>
+      <link>https://www.desinerd.com/posts/nested-comments/</link>
+      <pubDate>Mon, 02 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/nested-comments/</guid>
+      <description>Comments inside comments ! That seems to be a basic issue in PHP. Lets say i am including a php file, and i comment it out using /* */ and it super freaks out when that file has comments. Simple things that can save developer pain and i am sure it is not a difficult patch</description>
+    </item>
+    
+    <item>
+      <title>Support and PHP</title>
+      <link>https://www.desinerd.com/posts/support-and-php/</link>
+      <pubDate>Mon, 02 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/support-and-php/</guid>
+      <description>So got to setting up OTRS, neat email based support system and it works pretty well it seems. There are some issues setting it up initially, but it integrates very well into your support email ! Should have thought of using it for kwippy once i think about it he he.
+Just managed to get PHP compiled from source with php-fpm patch on it, the configure string was as follows</description>
+    </item>
+    
+    <item>
+      <title>PHP &#43; nice URLS &#43; nginx</title>
+      <link>https://www.desinerd.com/posts/php-nice-urls-nginx/</link>
+      <pubDate>Fri, 26 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/php-nice-urls-nginx/</guid>
+      <description>Easiest way to get php with good looking urls running on your site . Works for drupal, wordpress and joomla.
+server { listen 80; server_name www.domain.com; index index.html index.htm index.php; root /path/to/domain/files; location / { error_page 404 = //e/index.php?q=$uri; } location ~ .php$ { include fastcgi_params; fastcgi_pass 127.0.0.1:9000; fastcgi_index index.php; fastcgi_param SCRIPT_FILENAME /path/to/domain/files$fastcgi_script_name; } access_log /usr/local/nginx/logs/domain.access_log; error_log /usr/local/nginx/logs/domain.error_log; }</description>
+    </item>
+    
+  </channel>
+</rss>

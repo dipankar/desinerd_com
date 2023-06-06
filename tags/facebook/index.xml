@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>facebook on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/facebook/</link>
+    <description>Recent content in facebook on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 19 Nov 2008 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/facebook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CodeIgniter &#43; nginx : Facebook application</title>
+      <link>https://www.desinerd.com/posts/codeigniter-nginx-facebook-application/</link>
+      <pubDate>Wed, 19 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/codeigniter-nginx-facebook-application/</guid>
+      <description>This is a basic tutorial on how to get CodeIgniter facebook application on nginx (with the gotchas). The nginx configuration would be like the following
+server { listen 80; server_name blah.com; location ~ /index.php/ { root /home/production/blah; index index.html index.htm index.php; include conf/fcgi.conf; fastcgi_param SCRIPT_FILENAME /home/production/fb_apps/quickdate/index.php; fastcgi_pass 127.0.0.1:9000; } access_log /usr/local/nginx/logs/blah.access_log; error_log /usr/local/nginx/logs/blah.error_log; }
+The critical line is the fastcgi_params parameter, that changes the whole game. In the code Igniter application you need to add the following file in [app]/system/application/libraries/FB_controller.</description>
+    </item>
+    
+    <item>
+      <title>Kwippy facebook application</title>
+      <link>https://www.desinerd.com/posts/kwippy-facebook-application/</link>
+      <pubDate>Wed, 13 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/kwippy-facebook-application/</guid>
+      <description>Hello all kwippers and people who want to archive their status application, we just released an application which lets you do just that and more if you are integrate the application with kwippy.
+here is the link http://www.new.facebook.com/apps/application.php?id=6806564434
+We need more people ;) , feel free to invite your friends too ….</description>
+    </item>
+    
+  </channel>
+</rss>

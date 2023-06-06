@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tutorial on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/tutorial/</link>
+    <description>Recent content in tutorial on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 18 Nov 2008 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Django : using a seperate memcached cloud for sessions</title>
+      <link>https://www.desinerd.com/posts/django-using-a-seperate-memcached-cloud-for-sessions/</link>
+      <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/django-using-a-seperate-memcached-cloud-for-sessions/</guid>
+      <description>When you are using a platform like django you realise how slow sessions can get when you are using the database as a backend. The problem of using a memory cache like memcached is the fact that when you restart the server to refresh the cache or remove stale objects, the problem is that you lose your sessions data and a lot of people using your site get logged out. The only solution to this problem is to use 2 memcached instances , one for your regular python objects and another for your sessions objects … this is not a default feature in Django.</description>
+    </item>
+    
+    <item>
+      <title>Django : using HTTP authentication for your views</title>
+      <link>https://www.desinerd.com/posts/django-using-http-authentication-for-your-views/</link>
+      <pubDate>Sat, 15 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/django-using-http-authentication-for-your-views/</guid>
+      <description>This is a small tutorial on how to use HTTP authentication for your site. Firstly you need to copy this file to httpauth.py and place it at /httpauth.py
+import base64 from django.contrib.auth.models import User from django.http import HttpResponse from django.contrib.auth import authenticate, login
+#############################################################################
+def view_or_basicauth(view, request, test_func, realm = &amp;ldquo;&amp;rdquo;, *args, **kwargs): &amp;quot;&amp;quot;&amp;quot; This is a helper function used by both &amp;lsquo;&amp;rsquo;logged_in_or_basicauth&amp;rsquo;&amp;rsquo; and &amp;lsquo;&amp;lsquo;has_perm_or_basicauth&amp;rsquo;&amp;rsquo; that does the nitty of determining if they are already logged in or if they have provided proper http-authorization and returning the view if all goes well, otherwise responding with a 401.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>scaling on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/scaling/</link>
+    <description>Recent content in scaling on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 04 Jul 2008 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/scaling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first post at kwippy blog</title>
+      <link>https://www.desinerd.com/posts/my-first-post-at-kwippy-blog/</link>
+      <pubDate>Fri, 04 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/my-first-post-at-kwippy-blog/</guid>
+      <description>http://blog.kwippy.com/2008/07/03/technology-behind-kwippy-and-scaling/
+A post about how kwippy works and scaling strategies involved. Feel free to ramble and comment.</description>
+    </item>
+    
+  </channel>
+</rss>

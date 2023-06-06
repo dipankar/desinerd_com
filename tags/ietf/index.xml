@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ietf on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/ietf/</link>
+    <description>Recent content in ietf on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Mar 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/ietf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RFC 6455 - The WebSocket Protocol</title>
+      <link>https://www.desinerd.com/posts/rfc-6455-the-websocket-protocol/</link>
+      <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/rfc-6455-the-websocket-protocol/</guid>
+      <description>The WebSocket Protocol enables two-way communication between a client running untrusted code in a controlled environment to a remote host that has opted-in to communications from that code. The security model used for this is the origin-based security model commonly used by web browsers. The protocol consists of an opening handshake followed by basic message framing, layered over TCP. The goal of this technology is to provide a mechanism for browser-based applications that need two-way communication with servers that does not rely on opening multiple HTTP connections (e.</description>
+    </item>
+    
+  </channel>
+</rss>

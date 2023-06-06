@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>bra on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/bra/</link>
+    <description>Recent content in bra on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Mar 2009 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/bra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BarCamp Kashmir version 1.0</title>
+      <link>https://www.desinerd.com/posts/barcamp-kashmir-version-1-0/</link>
+      <pubDate>Fri, 20 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/barcamp-kashmir-version-1-0/</guid>
+      <description>Well this is a great event hosted by awesome people. So congrats to Mir Nazim and his team :). Also noticed Supreet Sethi there :P, he was walking the ramp pretty nicely.</description>
+    </item>
+    
+  </channel>
+</rss>

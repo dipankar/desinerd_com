@@ -1,0 +1,1969 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/</link>
+    <description>Recent content on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Going from WordPress multisite to regular wordpress</title>
+      <link>https://www.desinerd.com/posts/going-from-wordpress-multisite-to-regular-wordpress/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/going-from-wordpress-multisite-to-regular-wordpress/</guid>
+      <description>We had a wordpress multi-site installation that was working just fine! However custom domain and SSL pose a clear problem, along with any specific changes one might have to make to the installation.
+NO CODE! NO SQL!
+So I decided to move back to regular wordpress. Now we are using the popular exponent theme, the challenge is that we are using a default demo setup which is modified. The goal was to make an easy shift, not make it into a week long project ;).</description>
+    </item>
+    
+    <item>
+      <title>Installing huginn on ubuntu 20.04</title>
+      <link>https://www.desinerd.com/posts/installing-huginn-on-ubuntu-20-04/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/installing-huginn-on-ubuntu-20-04/</guid>
+      <description>The default guide for Huginn installation works pretty well. The only part where you do get stuck is
+sudo bundle exec rake production:export So what really happens is that the console looks like it stuck, which is quite frustrating. Lets say you force quit this (Crtl^C). Try running it again and you will get an error like.
+root@localhost:/home/huginn/huginn# sudo bundle exec rake production:export --trace ** Invoke production:export (first_time) ** Invoke production:check (first_time) ** Execute production:check ** Execute production:export ** Execute production:stop Stopping huginn .</description>
+    </item>
+    
+    <item>
+      <title>Geeksphone Keon unboxing</title>
+      <link>https://www.desinerd.com/posts/geeksphone-keon-unboxing/</link>
+      <pubDate>Fri, 24 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/geeksphone-keon-unboxing/</guid>
+      <description>I have the using the Geeksphone Keon over the last couple of weeks and its been an interesting experience till now. Just to start things of here is the unboxing of the packed unit. The box is really beautiful and really reminds you of a great mozilla experience!
+[caption id=“attachment_604” align=“aligncenter” width=“225”] The top side of the box![/caption]
+[caption id=“attachment_605” align=“aligncenter” width=“225”] The bottom of the box![/caption]
+[caption id=“attachment_601” align=“aligncenter” width=“225”] Neatly arranged battery, and handsfree!</description>
+    </item>
+    
+    <item>
+      <title>Bijan Sabet - Who took a chance on you?</title>
+      <link>https://www.desinerd.com/posts/bijan-sabet-who-took-a-chance-on-you/</link>
+      <pubDate>Tue, 12 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/bijan-sabet-who-took-a-chance-on-you/</guid>
+      <description>Bijan Sabet on who took a chance of you Many folks get to experience some of their goals because someone, somewhere along the way, gave them a shot. They took a real chance based on something they felt or saw (vs historical evidence per se). Bijan Sabet - Who took a chance on you?.</description>
+    </item>
+    
+    <item>
+      <title>SpaceX&#39;s Autonomous &#39;Grasshopper&#39; Rocket Makes Milestone Flight | Autopia | Wired.com</title>
+      <link>https://www.desinerd.com/posts/spacex-s-autonomous-grasshopper-rocket-makes-milestone-flight-autopia-wired-com/</link>
+      <pubDate>Tue, 12 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/spacex-s-autonomous-grasshopper-rocket-makes-milestone-flight-autopia-wired-com/</guid>
+      <description>Show off ;) … great stuff @ SpaceX. Musk’s visit to SXSW was his second stop in Texas. The entrepreneur spent time talking to lawmakers about developing a space launch facility in the Lone Star State. SpaceX currently has two launch facilities for its NASA missions and commercial satellite launch customers. The current mission to the ISS was launched from Cape Canaveral, Florida. SpaceX is putting the final touches on a facility at Vandenberg Air Force Base in California.</description>
+    </item>
+    
+    <item>
+      <title>Ten things about being a founder I wish I knew two years ago. // Speaker Deck</title>
+      <link>https://www.desinerd.com/posts/ten-things-about-being-a-founder-i-wish-i-knew-two-years-ago-speaker-deck/</link>
+      <pubDate>Tue, 12 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/ten-things-about-being-a-founder-i-wish-i-knew-two-years-ago-speaker-deck/</guid>
+      <description>Ten tips and concepts that I personally value very much about being a startup founder, managing a team and a product.
+The white slides represent my speaker’s notes.
+Ten things about being a founder I wish I knew two years ago. // Speaker Deck.</description>
+    </item>
+    
+    <item>
+      <title>Career Advice From LinkedIn&#39;s Billionaire Founder - Business Insider</title>
+      <link>https://www.desinerd.com/posts/career-advice-from-linkedin-s-billionaire-founder-business-insider/</link>
+      <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/career-advice-from-linkedin-s-billionaire-founder-business-insider/</guid>
+      <description>Reid Hoffman started his professional life with the intention of becoming an academic.
+But then he realized: “in order to be a professional scholar, you have to dedicate a vast majority of your career to writing esoteric books that only 50 people will understand.” So instead, he got into the technology industry with a job at Apple, where he helped build eWorld, Apple’s version of America Online. Next, he started a company called SocialNet.</description>
+    </item>
+    
+    <item>
+      <title>RFC 6455 - The WebSocket Protocol</title>
+      <link>https://www.desinerd.com/posts/rfc-6455-the-websocket-protocol/</link>
+      <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/rfc-6455-the-websocket-protocol/</guid>
+      <description>The WebSocket Protocol enables two-way communication between a client running untrusted code in a controlled environment to a remote host that has opted-in to communications from that code. The security model used for this is the origin-based security model commonly used by web browsers. The protocol consists of an opening handshake followed by basic message framing, layered over TCP. The goal of this technology is to provide a mechanism for browser-based applications that need two-way communication with servers that does not rely on opening multiple HTTP connections (e.</description>
+    </item>
+    
+    <item>
+      <title>Zombie Startups | Danielle Morrill</title>
+      <link>https://www.desinerd.com/posts/zombie-startups-danielle-morrill/</link>
+      <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/zombie-startups-danielle-morrill/</guid>
+      <description>My greatest fear as a startup founder isn’t to fail, it is to become a zombie startup. Kind of like in the 6th Sense when Bruce Willis doesn’t realize he is dead and tries to have a nice dinner with his wife, there are startups out there who are still “operating” but might as well not be.
+Zombie Startups | Danielle Morrill.</description>
+    </item>
+    
+    <item>
+      <title>Firefox operating system released!</title>
+      <link>https://www.desinerd.com/posts/firefox-operating-system-released/</link>
+      <pubDate>Sat, 09 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/firefox-operating-system-released/</guid>
+      <description>One of the first things that i wanted to implement in my university [~2006] was a operating system with only the Firefox browser as the core application. Turns out that is a popular reality now with the Chromebook and well to some extent the Firefox OS which is being released. I at that point had no idea that mobile would become that big, with the exposure that I had. Its all coming together!</description>
+    </item>
+    
+    <item>
+      <title>bye bye kaspersky, welcome avast</title>
+      <link>https://www.desinerd.com/posts/bye-bye-kaspersky-welcome-avast/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/bye-bye-kaspersky-welcome-avast/</guid>
+      <description>Well not a marketing post, I recently bought KAV or Kaspersky anti-virus for all the windows machines that I run. Lately it has become extremely bloated and well it brought all my machines down to their knees. The goal of running lean and mean, while giving me optimal online protection seems to be lost on them.
+Being the engineer that I am, my response was to find out the leanest one around [for free].</description>
+    </item>
+    
+    <item>
+      <title>Best Samsung i9103 ROM android</title>
+      <link>https://www.desinerd.com/posts/best-samsung-i9103-rom-android/</link>
+      <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/best-samsung-i9103-rom-android/</guid>
+      <description>I have been using the Samsung i9103 for quite a while and have tried out most of the available experimental ROM out there. Most of today was spent trying to find out the right combination to make the phone usable again. Here are the steps to having a really good setup on this phone
+First follow the guide below and install the XXKPE ROM following the guide below. You will need to use Odin to flash this ROM onto your device.</description>
+    </item>
+    
+    <item>
+      <title>Loyal to airtel, not the other way around</title>
+      <link>https://www.desinerd.com/posts/loyal-to-airtel-not-the-other-way-around/</link>
+      <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/loyal-to-airtel-not-the-other-way-around/</guid>
+      <description>Mine is a dual connection household, I use one Airtel connection as the primary and the secondary MTNL one for backup. However, it seems I will need to change the order of those soon. Lately, airtel seems to have very odd bandwidth counters which always seem to never match up with my router connection monthly counters. The difference is more than 20-30% month on month [adding both up and down counters!</description>
+    </item>
+    
+    <item>
+      <title>Rooting your Samsung galaxy ace</title>
+      <link>https://www.desinerd.com/posts/rooting-your-samsung-galaxy-ace/</link>
+      <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/rooting-your-samsung-galaxy-ace/</guid>
+      <description>So have been playing around with ROMing and modding phone for most of the weekend. Here are the important posts to read to mod your Galaxy Ace.
+http://theunlockr.com/2012/11/22/how-to-root-the-samsung-galaxy-ace-s5830/
+You will need to download the root file from the following link
+http://www.droidforums.net/forum/android-forum/210957-universal-gingerbread-root-unroot-2-3-3-2-3-7-a.html#post2130907
+Successfull done on my wife’s phone!</description>
+    </item>
+    
+    <item>
+      <title>The shift!</title>
+      <link>https://www.desinerd.com/posts/the-shift/</link>
+      <pubDate>Wed, 27 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/the-shift/</guid>
+      <description>Looks like life something needs to be thought about in new color, one of those time when I can see it happen. I do read what I wrote earlier, and yet again I can see this is a point I will come back to. On to the next.</description>
+    </item>
+    
+    <item>
+      <title>Exporting MySQL tables and databases</title>
+      <link>https://www.desinerd.com/posts/exporting-mysql-tables-and-databases/</link>
+      <pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/exporting-mysql-tables-and-databases/</guid>
+      <description>Here are the ways you can export tables and databases, each of them have their advantages and disadvantages depending on the task at hand. We will list out each with examples and discuss them.
+We will assume that the database name is D and table name is T.
+Going native with SQL and generating an csv from the MySQL console Assuming that you are already logged into your mysql console using say mysql -u -p replace with your username replace with your database You can use the following command to generate an csv of pretty much any SQL.</description>
+    </item>
+    
+    <item>
+      <title>Gotcha with exporting MySQL tables for windows</title>
+      <link>https://www.desinerd.com/posts/gotcha-with-exporting-mysql-tables-for-windows/</link>
+      <pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/gotcha-with-exporting-mysql-tables-for-windows/</guid>
+      <description>I encountered some interesting issues when pulling out CSV from my MySQL databases. The core issue was the csv generated was not seemingly compatible with the various spreadsheet readers in Windows. After having a closer look at the file, it turns out to be an encoding issue clearly.
+As the database was Latin1 encoded, the carriage return was handled as r [shows up as ^M on VI] in some text blobs.</description>
+    </item>
+    
+    <item>
+      <title>Lessons in perception management</title>
+      <link>https://www.desinerd.com/posts/lessons-in-perception-management/</link>
+      <pubDate>Wed, 10 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/lessons-in-perception-management/</guid>
+      <description>One of my recent experiments with myself has lead me to the conclusion that actual objective work done is not as important as perception management. On the contrary, people who do perception management get some work done sometimes. This recent run had enough data points for me to validate my own skills, but taught me that work has no co-relation with the final perceived result.
+Some clear pointers when perception management drives your organization</description>
+    </item>
+    
+    <item>
+      <title>Midnight in Paris: Woody Allen strikes</title>
+      <link>https://www.desinerd.com/posts/midnight-in-paris-woody-allen-strikes/</link>
+      <pubDate>Tue, 11 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/midnight-in-paris-woody-allen-strikes/</guid>
+      <description>Just finished watching a fantastic Woody Allen movie “midnight in paris&amp;quot; , it is very clear that he still knows his shit! I was not expecting a lot from the movie, but ended up enjoying it with quite a few loud laughs thrown in. You had Owen Wilson, who was his usual calm self throughout and the rest really did a great job as well. The story line is about how people keep thinking the past was a better fit for them, and well it looks like people in the past also kept thinking the same.</description>
+    </item>
+    
+    <item>
+      <title>Formula 1 : Monza 2012 report</title>
+      <link>https://www.desinerd.com/posts/formula-1-monza-2012-report/</link>
+      <pubDate>Sat, 08 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/formula-1-monza-2012-report/</guid>
+      <description>As usual, formula 1 post the break becomes a bit more unpredictable. Its clear that some of the teams have got a whole bunch of new parts and seem to be making them work. Its interesting to see how McLaren has responded, and its clear that it will take the other frontrunners some more work to catch up with them. The exciting day ended with the following lineup for tomorrow’s race @ Monza.</description>
+    </item>
+    
+    <item>
+      <title>Aliexpress : Experiences and improvements</title>
+      <link>https://www.desinerd.com/posts/aliexpress-experiences-and-improvements/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/aliexpress-experiences-and-improvements/</guid>
+      <description>I have been using Aliexpress to buy parts that I am not able to locate at Nehru place [New Delhi, India] especially laptop batteries for older laptops. It has been a pretty smooth experience in terms of ordering, however it is a fairly weak experience when it comes to the shipping. I had ordered 3 items from 3 different sellers and here is the experience [I have removed all the order specific information]</description>
+    </item>
+    
+    <item>
+      <title>Multiple views using bottle.py</title>
+      <link>https://www.desinerd.com/posts/multiple-views-using-bottle-py/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/multiple-views-using-bottle-py/</guid>
+      <description>I have been using the micro-framework called bottle.py, and starting to write fairly complicated applications on top of it. So I have been able to put together a relatively clean structure based that serves my maintainability issues
+This setup uses redis, memcached, and mako as the templating language. Lets assume the application name is project.
+project/project/main.py - This is the core application file that loads up bottle and the pluginsproject/INSTALL - This is the readme and simple installation instructionsproject/middlewares.</description>
+    </item>
+    
+    <item>
+      <title>Ecommerce in India</title>
+      <link>https://www.desinerd.com/posts/ecommerce-in-india/</link>
+      <pubDate>Wed, 29 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/ecommerce-in-india/</guid>
+      <description>There has been so much talk about ecommerce in India, how it is going to revolutionize the way Indians buy/sell stuff. From all the data available it clear that no breakthrough is in sight for any of the models implemented in the market. We can have a look at the classifieds model, which seems to be broken through and through for the India market. We Indians do not like to sell our used stuff, and well do not want to buy it as well.</description>
+    </item>
+    
+    <item>
+      <title>Node.js on FreeBSD</title>
+      <link>https://www.desinerd.com/posts/node-js-on-freebsd/</link>
+      <pubDate>Wed, 29 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/node-js-on-freebsd/</guid>
+      <description>The above works like a charm when it comes to installing nodejs on FreeBSD !</description>
+    </item>
+    
+    <item>
+      <title>Xen it up</title>
+      <link>https://www.desinerd.com/posts/xen-it-up/</link>
+      <pubDate>Wed, 29 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/xen-it-up/</guid>
+      <description>So been playing around for sometime now, and now officially running my own virtual machines. Not using any of the interfaces available and still having a lot of fun to be honest.
+I recently encountered the Citrix XenCenter in production and am convinced it is the right move to use commandline only, though it is not for the windows administrators ;) [atleast the ones who do not know what is the powershell].</description>
+    </item>
+    
+    <item>
+      <title>haiku as your desktop</title>
+      <link>https://www.desinerd.com/posts/haiku-as-your-desktop/</link>
+      <pubDate>Tue, 28 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/haiku-as-your-desktop/</guid>
+      <description>For all the people who have been following the haiku project, it is truly playing out as a viable alternative to the desktop wars with Linux. In my opinion there were only a few that could have beaten the windows dominance, one was the photonGUI and then the BeOS. Turns out the Mac has won a huge chunk of the market, while BBM is killing the photonGUI slowly but steadily.</description>
+    </item>
+    
+    <item>
+      <title>Distributed transactions</title>
+      <link>https://www.desinerd.com/posts/distributed-transactions/</link>
+      <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/distributed-transactions/</guid>
+      <description>Sat in on a fascinating discussion on distributed transactions, its very clear how most people seem to underestimate at what loads contention starts to happen.
+Have been hanging out with redis over the last couple of weeks and its obvious that you can do quite a few things with it! Good stuff antirez…
+Read up a couple of things http://nosqlsummer.org/paper/life-beyond-distributed-transactions http://redis.io/topics/transactions</description>
+    </item>
+    
+    <item>
+      <title>Compiling B2G on ubuntu 64bit</title>
+      <link>https://www.desinerd.com/posts/compiling-b2g-on-ubuntu-64bit/</link>
+      <pubDate>Tue, 21 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/compiling-b2g-on-ubuntu-64bit/</guid>
+      <description>Been working on compiling B2G aka Firefox OS on ubuntu 64bit ! There have been some hiccups along the way, but a full post coming up on that soon</description>
+    </item>
+    
+    <item>
+      <title>The country and you</title>
+      <link>https://www.desinerd.com/posts/the-country-and-you/</link>
+      <pubDate>Tue, 21 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/the-country-and-you/</guid>
+      <description>I was having this debate how nationalism in India is on the wane, a whole bunch of people talk about how their houses used to have the Indian flag hoisted on independence day/Republic day. Not anymore through. Its not difficult to see why and how the country is changing.
+I do hope we understand the point of sticking it out together as a nation, and possibly be one of the greatest ever in this phase of human civilization.</description>
+    </item>
+    
+    <item>
+      <title>Python, Passenger phusion and dreamhost</title>
+      <link>https://www.desinerd.com/posts/python-passenger-phusion-and-dreamhost/</link>
+      <pubDate>Sun, 22 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/python-passenger-phusion-and-dreamhost/</guid>
+      <description>Well, had to setup some stuff on dreamhost. Turns out that they are fairly bad on django hosting. Here is a working passenger_wsgi.py that is possibly much better than the default. Please not that you must have paste [http://pythonpaste.org/] installed for this to work correctly.
+This has python2.7 locally installed in your account, with all the libraries locally. Dreamhost is quite painful, as the documentation is incomplete clearly!</description>
+    </item>
+    
+    <item>
+      <title>Whats up, world !</title>
+      <link>https://www.desinerd.com/posts/whats-up-world/</link>
+      <pubDate>Mon, 09 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/whats-up-world/</guid>
+      <description>Wow, that was a long break. Lately not spent any time on writing or thinking, guess that is usually visible in the output ! Need to make it a real habit of writing more and more. Happy new year to anyone who reads this ! Looking forward to kick starting good stuff !</description>
+    </item>
+    
+    <item>
+      <title>New book : Nginx web server cookbook</title>
+      <link>https://www.desinerd.com/posts/new-book-nginx-web-server-cookbook/</link>
+      <pubDate>Tue, 31 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/new-book-nginx-web-server-cookbook/</guid>
+      <description>Guys after a long break, I have come out of my slumber to talk about my first publication with Packt publishing. In short the book is about tips and tricks around the upcoming Nginx web server. You can check it out using this link. This has been published by Packt publishing, a UK based technical publishing house.
+It would not have been possible without the tremendous support of the people around me, and in specific the many people I have worked with.</description>
+    </item>
+    
+    <item>
+      <title>Expensive cameras</title>
+      <link>https://www.desinerd.com/posts/expensive-cameras/</link>
+      <pubDate>Thu, 26 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/expensive-cameras/</guid>
+      <description>Why why why would people keep buying expensive cameras and make sub-optimal use of them. The most common usecase photos I see of the not-talented do not need a $2000 camera. Is this the new guitar ? I do want numbers as to how many people get laid with cameras in there hands.
+I have seen the really smart nerds with it, and the other ones as well. As offensive as it is, I do not understand the logic of this buy except for the wow factor.</description>
+    </item>
+    
+    <item>
+      <title>quote #1</title>
+      <link>https://www.desinerd.com/posts/quote-1/</link>
+      <pubDate>Thu, 26 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/quote-1/</guid>
+      <description>The journey of a thousand miles must begin with a single step. Lao Tzu</description>
+    </item>
+    
+    <item>
+      <title>Take your pick</title>
+      <link>https://www.desinerd.com/posts/take-your-pick/</link>
+      <pubDate>Thu, 26 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/take-your-pick/</guid>
+      <description>We all think about what we want, not what we need to do most of the times.
+We ask about what we want, because its easier to figure it out without the complex web of relationships that surround us.
+We choose to loose data[i.e not consider possibilities] to solve a very hard problem in the shortest time possible.
+It invariable puts us in control of our world, and in ways of lesser control of the world outside.</description>
+    </item>
+    
+    <item>
+      <title>Using Motorola E6 or A1200 with kannel</title>
+      <link>https://www.desinerd.com/posts/using-motorola-e6-or-a1200-with-kannel/</link>
+      <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/using-motorola-e6-or-a1200-with-kannel/</guid>
+      <description>So for all the people who do not want to learn AT commands to get their old MotoRockr [aka motorola e6] and A1200 working with your kannel setup to send/receive MMS and SMS here is the kannel.conf and modems.conf.
+The important part is the modems.conf which has the correct AT commands to receive SMSes.
+kannel.confmodems.conf</description>
+    </item>
+    
+    <item>
+      <title>Boyd&#39;s OODA concept !</title>
+      <link>https://www.desinerd.com/posts/boyd-s-ooda-concept/</link>
+      <pubDate>Sat, 18 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/boyd-s-ooda-concept/</guid>
+      <description>Well, nothing much to say. Please see this presentation ! For more you will need to search “Boyd and OODA loop”. This definitely is something that every “art of war” fan should read about. Essential Boyd Eng View more presentations from www.kapterev.com.</description>
+    </item>
+    
+    <item>
+      <title>BSing your way through life</title>
+      <link>https://www.desinerd.com/posts/bsing-your-way-through-life/</link>
+      <pubDate>Thu, 16 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/bsing-your-way-through-life/</guid>
+      <description>One wonders how quickly time flies by ! Its pretty funny to realize that most of the times people are bull shitting other people [or worse, themselves]. The strength of the human mind seems to be its level of delusion, we all are fundamentally delusional. Some more than others.
+One way of looking at it that you keep it all in check by anchoring your thoughts in reality. Well, the anchoring bit too is relative and a human at best.</description>
+    </item>
+    
+    <item>
+      <title>Star wars arrives ? arrived ? gone .....</title>
+      <link>https://www.desinerd.com/posts/star-wars-arrives-arrived-gone/</link>
+      <pubDate>Thu, 16 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/star-wars-arrives-arrived-gone/</guid>
+      <description>One wonders what happened to the stories we used to hear about space wars and “Star wars” and so on. Recently, the IAF retired its only super high altitude flying machines capable of shooting down lower orbit spy satellites ! Are we all coming to a close end with respect to space warfare. I think that the paradigm has shifted drastically, and some research into new age technologies [plus, geo-political and financial dynamics].</description>
+    </item>
+    
+    <item>
+      <title>Peepli live ! and rural India</title>
+      <link>https://www.desinerd.com/posts/peepli-live-and-rural-india/</link>
+      <pubDate>Thu, 09 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/peepli-live-and-rural-india/</guid>
+      <description>One frustrating movie after the other, Bollywood intends to kill me ! The flavor of the season seems to be satires, especially political ones. After watching some mythology based stuff in Rajneeti, one has to deal with this other end of the spectrum. Its all good, and giving valuable exposure to the plight of our fellow citizens, the actual drivers of our still agrarian driven economy. What is disappointing is that it shows what exists, but not how to go about resolving it.</description>
+    </item>
+    
+    <item>
+      <title>Touchscreen, health effects ?</title>
+      <link>https://www.desinerd.com/posts/touchscreen-health-effects/</link>
+      <pubDate>Tue, 07 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/touchscreen-health-effects/</guid>
+      <description>Well, I was thinking today the whole world is suddenly all about touch screens ! Just like all other devices, I am sure it has some effect on humans. I started doing some research as to the published papers on this topic, turns out that there are none. So here is my take on what can be the potential issues with touchscreens ergonomic issues, it can lead to issues with your finger with longer term use of such devices.</description>
+    </item>
+    
+    <item>
+      <title>Why does ebay india suck !</title>
+      <link>https://www.desinerd.com/posts/why-does-ebay-india-suck/</link>
+      <pubDate>Tue, 07 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/why-does-ebay-india-suck/</guid>
+      <description>This would definitely count as a rant post ! I am a gadget freak and it seems that all the good stuff is only available at an affordable cost [even after USD to INR conversion] on ebay US or UK. No matter how much one says, ebay India or formerly bazee is a whole lota noise, and little auction. Lets do a small study on what I am talking about here</description>
+    </item>
+    
+    <item>
+      <title>Nested comments</title>
+      <link>https://www.desinerd.com/posts/nested-comments/</link>
+      <pubDate>Mon, 02 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/nested-comments/</guid>
+      <description>Comments inside comments ! That seems to be a basic issue in PHP. Lets say i am including a php file, and i comment it out using /* */ and it super freaks out when that file has comments. Simple things that can save developer pain and i am sure it is not a difficult patch</description>
+    </item>
+    
+    <item>
+      <title>Support and PHP</title>
+      <link>https://www.desinerd.com/posts/support-and-php/</link>
+      <pubDate>Mon, 02 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/support-and-php/</guid>
+      <description>So got to setting up OTRS, neat email based support system and it works pretty well it seems. There are some issues setting it up initially, but it integrates very well into your support email ! Should have thought of using it for kwippy once i think about it he he.
+Just managed to get PHP compiled from source with php-fpm patch on it, the configure string was as follows</description>
+    </item>
+    
+    <item>
+      <title>FeinCMS and DjangoCMS</title>
+      <link>https://www.desinerd.com/posts/feincms-and-djangocms/</link>
+      <pubDate>Fri, 28 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/feincms-and-djangocms/</guid>
+      <description>Spent sometime working with both over the last month, created 2 ecommerce sites around these and here are some observations which may help people decide what works for them FeinCMS was a pain to get started with, i had to base it all on the default example as the documentation was not enough to get it all started from scratch. I was using the trunk as it has goodies [like a blog] which the stable did not have.</description>
+    </item>
+    
+    <item>
+      <title>Wold clock extension: Google chrome</title>
+      <link>https://www.desinerd.com/posts/wold-clock-extension-google-chrome/</link>
+      <pubDate>Fri, 28 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/wold-clock-extension-google-chrome/</guid>
+      <description>https://chrome.google.com/extensions/detail/loilmadfanbmmecbmjfcopplelaikmjc
+So here i present the google chome world clock extension ! Simple but works great. Developed it in January and has seen over 500 downloads.
+So go get the beta google chrome and install this cool plugin to keep track of time ;).</description>
+    </item>
+    
+    <item>
+      <title>The good ol&#39; gel pen</title>
+      <link>https://www.desinerd.com/posts/the-good-ol-gel-pen/</link>
+      <pubDate>Sun, 16 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/the-good-ol-gel-pen/</guid>
+      <description>Well this is a post about something very common, the gel pen. Yesterday, i bought yet another one of them and i should say that my affair with them continues. It all goes back to school, at least in India when i started writing with an “adult” pen it was a messy ink pen, definitely something that would not lend itself to rough handling. Then the discovery of new lands in the form of the ball pen happened, in around 1997 there was a whole range of cool new pen which arrived one of them was the Mitsubishi ball point, one fine pen it was [still is].</description>
+    </item>
+    
+    <item>
+      <title>Rain Malayasia Redbull &amp; fun</title>
+      <link>https://www.desinerd.com/posts/rain-malayasia-redbull-fun/</link>
+      <pubDate>Sun, 04 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/rain-malayasia-redbull-fun/</guid>
+      <description>The qualifying today has opened up the Grid completely, with the Ferraris and McLaren way behind this race of attrition will bring together the magic of what weather can do to the best of teams [and plans]. If you followed the qualifying today [12.30 IST] it was clear that something fun was going to happen. Some crucial things that are becoming a regular Good qualifying performance from Kubica and Sutil. These guys seem to have mastered qualifying in a mid-field car and seem to do it consistently.</description>
+    </item>
+    
+    <item>
+      <title>GD Library Error: Imagecreatetruecolor Does Not Exist</title>
+      <link>https://www.desinerd.com/posts/gd-library-error-imagecreatetruecolor-does-not-exist/</link>
+      <pubDate>Sat, 03 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/gd-library-error-imagecreatetruecolor-does-not-exist/</guid>
+      <description>Well the simplest way of solving this is to run
+sudo apt-get install php5-gd
+That will install the necessary libraries that you need to keep continuing. If you are in windows then you need to go to your php.ini and uncomment the following lines
+;extension=php_gd.dll ;extension=php_gd2.dll
+[just remove the ; to uncomment them]
+Hope that solves your image issues.</description>
+    </item>
+    
+    <item>
+      <title>Cron issues on drupal</title>
+      <link>https://www.desinerd.com/posts/cron-issues-on-drupal/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/cron-issues-on-drupal/</guid>
+      <description>Well here are some quick ways of solving your “cron not working properly issues in drupal”
+It has a semaphore which blocks the cron running, in my case the PHP script ran for too long and ate up too much memory. I needed to modify my php.ini to ensure that it could take up more memory.
+Another issue was that you needed to delete a certain variable in the Drupal database, use the following for a quick resolution to the problem.</description>
+    </item>
+    
+    <item>
+      <title>Installing Solr &#43; Tomcat on RHEL5</title>
+      <link>https://www.desinerd.com/posts/installing-solr-tomcat-on-rhel5/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/installing-solr-tomcat-on-rhel5/</guid>
+      <description>Installing JDK
+Download the latest Sun JDK RPM. Go to java.sun.com and navigate to the downloads page. As of this writing it is http://java.sun.com/javase/downloads/index.jsp If you are on a text console, you may want to use the “links” text browser rather than wget or curl. The Sun site requires you to accept a license agreement before it will allow you to access the download. Navigate to the downloads for a recent version of the JDK (e.</description>
+    </item>
+    
+    <item>
+      <title>Listing all your blogposts</title>
+      <link>https://www.desinerd.com/posts/listing-all-your-blogposts/</link>
+      <pubDate>Tue, 30 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/listing-all-your-blogposts/</guid>
+      <description>So here is a quick snapshot at how to get all your wordpress blogposts using python [or wordpresslib to be specific]
+– #!/usr/bin/env python import wordpresslib import tinyurl wordpress = raw_input(&amp;lsquo;&amp;lsquo;Wordpress URL:&amp;rsquo;&amp;rsquo;) user = raw_input(&amp;lsquo;&amp;lsquo;Username:&amp;rsquo;&amp;rsquo;) password = raw_input(&amp;lsquo;&amp;lsquo;Password:&amp;rsquo;&amp;rsquo;)
+prepare client object wp = wordpresslib.WordPressClient(wordpress, user, password)
+select blog id wp.selectBlog(0) posts = wp.getRecentPosts(100) for p in posts: if p.title.find(&amp;ldquo;p=&amp;rdquo;)&amp;lt;0: print p.title,&amp;quot; - &amp;ldquo;,tinyurl.create_one(p.link) – Now that is real easy to use IMHO, i just started using this in one of my scripts.</description>
+    </item>
+    
+    <item>
+      <title>Chuck : Season 3 episode 10</title>
+      <link>https://www.desinerd.com/posts/chuck-season-3-episode-10/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/chuck-season-3-episode-10/</guid>
+      <description>Well, chuck with his flashing is good fun … but his kung fu is not funny. I was okay with flashing about intelligence, but all this new flashing shit is irritating !
+This episode revolved around the much in the background John Casey [good man blah blah] who at the end is relegated to civilian life [how tragic]. It finally goes into the machine he is, his patriotism and all that which we all already knew about.</description>
+    </item>
+    
+    <item>
+      <title>Effy - Skins season 4 Episode 7</title>
+      <link>https://www.desinerd.com/posts/effy-skins-season-4-episode-7/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/effy-skins-season-4-episode-7/</guid>
+      <description>So i just finished watching skins 04E07 and it was okay, me and Maitrayee were not looking forward to it as Skins to be honest has become super dark [beats dexter] and painful to watch. But surprise it was good and they threw in the google about Freddie at the end.
+Effy Stonem is shown as a very dark character in this particular season, and with some help from her counselor has managed to get Freddie killed !</description>
+    </item>
+    
+    <item>
+      <title>RHEL5 : Yum to munin</title>
+      <link>https://www.desinerd.com/posts/rhel5-yum-to-munin/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/rhel5-yum-to-munin/</guid>
+      <description>So here are some dead easy ways of getting munin and munin-node installed on your RHEL5 server.
+First add RPM Forge repository rpm -Uhv http://apt.sw.be/redhat/el5/en/i386/rpmforge/RPMS/rpmforge-release-0.3.6-1.el5.rf.i386.rpm
+Then just fire
+yum install munin munin-node
+Now, you have your munin running. Lets turn our attention to monit.
+First add this new repo to you rpm -Uvh http://download.fedora.redhat.com/pub/epel/5/i386/epel-release-5-3.noarch.rpm
+Then go ahead and install monit using yum install monit
+Now this my friend was real easy !</description>
+    </item>
+    
+    <item>
+      <title>Technically randy</title>
+      <link>https://www.desinerd.com/posts/technically-randy/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/technically-randy/</guid>
+      <description>Must ask ! Are you “technically randy&amp;quot; ?
+I definitely am :), i just figured out that i must come out in the open for a change [as if the blog name is not a good indicator]. I love technology and apply it anywhere and everywhere there is an opportunity. Though this obviously has its pitfalls, well being randy has its pitfalls. Lets see some of the obvious ones [feel free to comment and fill in the non-obvious ones] Depending on what makes your day, you will end up spending up more time than the average joe on simple things !</description>
+    </item>
+    
+    <item>
+      <title>ESPN F1 fantasy league : India league</title>
+      <link>https://www.desinerd.com/posts/espn-f1-fantasy-league-india-league/</link>
+      <pubDate>Thu, 11 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/espn-f1-fantasy-league-india-league/</guid>
+      <description>So i finally paid for playing a fantasy league, been following F1 news quite closely. Very excited about the new teams and their approaches to car design. Nick Wirth is a rockstar who will define CFD to be the game changer in F1 for sure. I am a big supporter of such changes which can potentially make F1 budgets much lesser and who know maybe we can have the entry of much smaller teams in the future.</description>
+    </item>
+    
+    <item>
+      <title>Must reads for entrepreneurs !</title>
+      <link>https://www.desinerd.com/posts/must-reads-for-entrepreneurs/</link>
+      <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/must-reads-for-entrepreneurs/</guid>
+      <description>I would recommend the following books for all into strategy and value creation. The list of course is bloody subjective and intends to put across my perspective Entrepreneur journeys by Sramana mitra - Its a good book, though a bit out-dated in the context of the fast paced internet market [its 2007 writing]. The interviews were exceptional and there were numbers which really gives someone like me something to objectively thinking about.</description>
+    </item>
+    
+    <item>
+      <title>genderless technology</title>
+      <link>https://www.desinerd.com/posts/genderless-technology/</link>
+      <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/genderless-technology/</guid>
+      <description>Why one must ask is technology gendered ?
+Are 1s and 0s, gendered !
+Technology, if we look at only digital technology would count as one of crucial blocks of enabling all [of all colors, of all sizes] to take a pot shot at being successful [in various degrees]. It is hilarious to see how old school individuals who run our country want to empower every class by giving them subsidies [jobs, ration] and not fostering an environment where all can achieve self respect by working towards individual goals.</description>
+    </item>
+    
+    <item>
+      <title>Road : the movie ! What was it about again ?</title>
+      <link>https://www.desinerd.com/posts/road-the-movie-what-was-it-about-again/</link>
+      <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/road-the-movie-what-was-it-about-again/</guid>
+      <description>Just watched Road the movie at PVR priya ! For one i am a fan of weekday movie watching … Much better the crowd is less and i can hear everything real loud and clear.
+It turns out that this movie with all its “starbucks” lines is clearly meant to be an art movie of the US and European audiences. It is highly improbable that a kid in middle of Rajisthan is talking about this particular brand and over it actually moves on that easily from his current dhaba employer.</description>
+    </item>
+    
+    <item>
+      <title>Jailed in FreeBSD</title>
+      <link>https://www.desinerd.com/posts/jailed-in-freebsd/</link>
+      <pubDate>Mon, 08 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/jailed-in-freebsd/</guid>
+      <description>Well, working on freeBSD right now some immediate learnings for most linux users Ports is as good as apt-get [and i would say much better, when i started installing stuff] You will need to start with installing vim and bash to make your life a lot easier
+So the target was to install python and nginx, both of which are very easy to install once you understand how the whole ports collection system works.</description>
+    </item>
+    
+    <item>
+      <title>Dragflick gods : Abbas and Taekema</title>
+      <link>https://www.desinerd.com/posts/dragflick-gods-abbas-and-taekema/</link>
+      <pubDate>Wed, 03 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/dragflick-gods-abbas-and-taekema/</guid>
+      <description>Now this Hockey world cup has one convert in me ! I saw what pakistan’s Sohail Abbas can do with his dragflicks … he is god when it comes to that skill. Taekema is as good, in the first Holland match it was fairly obvious why you need quality penalty corner players.
+I am surely not like to be the one who defends when either of them is taking a potshot at the net.</description>
+    </item>
+    
+    <item>
+      <title>Technology driven MPD : Karthik calling karthik</title>
+      <link>https://www.desinerd.com/posts/technology-driven-mpd-karthik-calling-karthik/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/technology-driven-mpd-karthik-calling-karthik/</guid>
+      <description>So i watched this interesting hindi movie today Karthik calling karthik, which should also be be called the watered down Indian version of the cult book &amp;amp; movie ‘Fight club’. [Stop here if you don’t want to know what the movie is]
+Unlike say fight club where i would say that the plot was beyond most of us ! This movie tries to explain itself too much and loses out on what could have been too easily.</description>
+    </item>
+    
+    <item>
+      <title>Formula 1: A season start preview</title>
+      <link>https://www.desinerd.com/posts/formula-1-a-season-start-preview/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/formula-1-a-season-start-preview/</guid>
+      <description>I realise that i am an extremely obsessive person ! So i ended up following formula 1 [the drama that it has become] over the last 2 months. A small recap for the uninitiated End of last season saw the exit of many engine manufacturers namely Toyota, BMW, &amp;amp; nearly Renault. So the engines on the grid are Ferrari, Mercedes, Cosworth[due to the new teams] &amp;amp; Renault. It would count as a huge loss, as most of the engines have very similar specs, though certain other things like reliability &amp;amp; fuel consumption are still going to be the game changers.</description>
+    </item>
+    
+    <item>
+      <title>Skins season 4 : zero connectivity</title>
+      <link>https://www.desinerd.com/posts/skins-season-4-zero-connectivity/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/skins-season-4-zero-connectivity/</guid>
+      <description>Been watching skins for quite some time and i must admit that this current season is a let down from before ! Even the fat segal’s inital tune is all mumbled up, not that cool anymore. Some very easy reasons as to why this is not working for me Most of the episodes are very very disconnected, the notion of time that was so seamless in the earlier 3 seasons is completely missing.</description>
+    </item>
+    
+    <item>
+      <title>Wii sport - Competition @ home</title>
+      <link>https://www.desinerd.com/posts/wii-sport-competition-home/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/wii-sport-competition-home/</guid>
+      <description>Just made it to PRO in Wii sports bowling ! he he … I love the wii to be honest, all i need it the wii fit board. I think we will soon have a home tournament in tennis shall post the results soon.
+225 is my highest in bowling ! What is urs</description>
+    </item>
+    
+    <item>
+      <title>Getting started</title>
+      <link>https://www.desinerd.com/posts/getting-started/</link>
+      <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/getting-started/</guid>
+      <description>This is the first post here, this will be work in progress for sometime ! So do bear with me, Going forward the attempt will be to create this personal mini-site with a on and off personal blog.
+For technical stuff do visit http://desinerd.com</description>
+    </item>
+    
+    <item>
+      <title>Playing with corenetworks</title>
+      <link>https://www.desinerd.com/posts/playing-with-corenetworks/</link>
+      <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/playing-with-corenetworks/</guid>
+      <description>Just got a new server to play with the corenetworks guys are awesome ! The bandwidth is good, they are bloody straight forward about what works and what does not.</description>
+    </item>
+    
+    <item>
+      <title>Starting dipankar.name finally !</title>
+      <link>https://www.desinerd.com/posts/starting-dipankar-name-finally/</link>
+      <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/starting-dipankar-name-finally/</guid>
+      <description>I have been lately thinking about what to do with my “real” site, i figured out that i can cut out some of the more personal post into dipankar.name :). So see you there for more subjective crap.</description>
+    </item>
+    
+    <item>
+      <title>Posts, tweets and nothing</title>
+      <link>https://www.desinerd.com/posts/posts-tweets-and-nothing/</link>
+      <pubDate>Wed, 02 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/posts-tweets-and-nothing/</guid>
+      <description>I am starting from nothing, very little tweeting @dipankarsarkar , and hardly any blog posts here. So 1st December is an attempt at reviving my non-existent web presence. So what keeps me so busy from even writing a simple blog post, i will try to summarize that over the next points Sometime a year back i realized that family was important :), so yes i definitely spend a lot more time with my family.</description>
+    </item>
+    
+    <item>
+      <title>Clear and present danger</title>
+      <link>https://www.desinerd.com/posts/clear-and-present-danger/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/clear-and-present-danger/</guid>
+      <description>This title is reminiscent of the Harrison Ford movie, but is very applicable to how my country (India) goes about its foreign policy. As a rather naive spectator to the global policy game, here are some conclusions that I have based my current statement on. Being rather country-locked, and especially nations that are in a constant state of political flux. We are in a tremendous disadvantage, unable to appease them or take control of them.</description>
+    </item>
+    
+    <item>
+      <title>obsessing about bdb, queues</title>
+      <link>https://www.desinerd.com/posts/obsessing-about-bdb-queues/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/obsessing-about-bdb-queues/</guid>
+      <description>So my nightmares do no cease to end, still debating queue solutions and databases. After spending a lot of time thinking about how to handle 100 million entries , concurrency and a lot of jazz here are some conclusions that I have reached. Tokyo Tyrant needs some testing personally. Can it work well within a constrained VPS ? I doubt that after reading all the test results. So need to do a benchmark for this.</description>
+    </item>
+    
+    <item>
+      <title>Social media primer for politicians</title>
+      <link>https://www.desinerd.com/posts/social-media-primer-for-politicians/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/social-media-primer-for-politicians/</guid>
+      <description>It has been something that has been going on in my head for a significant amount of time and I believe that it is the right time for politicians and famous individuals to take their online reputation management as seriously as the offline one. Here, i will outline a very basic strategy that i believe will equip celebrities and politicians to strengthen their brands. So lets start with some assumptions that will make our lives easier as the post goes on.</description>
+    </item>
+    
+    <item>
+      <title>bangalore, h1n1 and queues</title>
+      <link>https://www.desinerd.com/posts/bangalore-h1n1-and-queues/</link>
+      <pubDate>Fri, 18 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/bangalore-h1n1-and-queues/</guid>
+      <description>So for that last one week a major area of work has been queues and here are the various queues that i encountered memqueuedb - a speedy message queue based upon the memcached client protocol. The idea was to use it to cache certain objects in a system. JMS - Seems to be an integral part of my J2EE learning, this is what often defines performance in an application. Especially when good high speed JMS library implementation cost big money.</description>
+    </item>
+    
+    <item>
+      <title>Twitter background generator version 0.1</title>
+      <link>https://www.desinerd.com/posts/twitter-background-generator-version-0-1/</link>
+      <pubDate>Fri, 18 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/twitter-background-generator-version-0-1/</guid>
+      <description>Working on a very basic twitter background generator, right now focusing on how to get the sidebar width right. It is very much under use at my twitter handle @dipankarsarkar (http://twitter.com/dipankarsarkar). The core idea is to be abe to communicate more information about what i do as a person using the background image. Some features that I personally want are Transparency for the sidebar - The image underneath should be visible, right now its a grey opaque color.</description>
+    </item>
+    
+    <item>
+      <title>STIR-e : Inspire.Innovate.Integrate</title>
+      <link>https://www.desinerd.com/posts/stir-e-inspire-innovate-integrate/</link>
+      <pubDate>Thu, 17 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/stir-e-inspire-innovate-integrate/</guid>
+      <description>Stimulating Innovation, Resource &amp;amp; Entreprise (STIR-e) is a Not-for-Profit Organization, which aims to promote social entrepreneurship and inspire entrepreneurial minds to bring economic transformation and measurable social impact by integrating innovation with pattern-breaking ideas and focused mentoring. STIR-e aims to become a niche strategic advisory for social enterprises that create innovative, market based solutions to poverty, environment and sustainable development. STIR-e integrates the challenges of access to appropriate resources, investments and investment risk mitigation with a robust social entrepreneurship model adaptable to multiple texts and sub-texts of the market economy.</description>
+    </item>
+    
+    <item>
+      <title>Nginx upload module - efficient uploads</title>
+      <link>https://www.desinerd.com/posts/nginx-upload-module-efficient-uploads/</link>
+      <pubDate>Thu, 20 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/nginx-upload-module-efficient-uploads/</guid>
+      <description>I was just having a look at some forums and saw some people talking about how to handle large parallel uploads. I have been having a look at this plugin which comes with NGINX and played around with it. Extremely useful if you use nginx in your stack and are getting killed by massive uploads.
+Have fun!!
+http://www.grid.net.ru/nginx/upload.en.html</description>
+    </item>
+    
+    <item>
+      <title>Delhi airport : good infrastructure, bad people</title>
+      <link>https://www.desinerd.com/posts/delhi-airport-good-infrastructure-bad-people/</link>
+      <pubDate>Fri, 17 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/delhi-airport-good-infrastructure-bad-people/</guid>
+      <description>On the 15th, I landed at the new IGI terminal from Hyderabad at about 12.10. Hyderabad was a good experience, but most importantly i realized the most striking things about Delhi as soon as I landed.
+The Delhi IGI airport is truly international now (at least by the looks of it), swank restaurants, shops and more. The saddest part is that the people have failed to change their attitude. This is reflected in the what happened when i went to the pre-paid taxi booth (manned by the Delhi police)</description>
+    </item>
+    
+    <item>
+      <title>Green peace action : future actions</title>
+      <link>https://www.desinerd.com/posts/green-peace-action-future-actions/</link>
+      <pubDate>Wed, 15 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/green-peace-action-future-actions/</guid>
+      <description>Green peace taking on the various challenges we face in our country.
+–
+Friday, July 17, 2009, 10 am onwards, RBI Why To highlight the fact that irregular monsoons which can make life hell for mankind, acute water, power and agrarian crisis are few of many impacts that climate change can have. What The threat of drought is looming large over Northern India, Delhi has received less rainfall than normal and the city if facing acute water crisis, to highlight the impact of climate change on the City on July 17, Friday around 30 volunteers will queue up outside RBI with buckets filled with water to deposit in the Bank.</description>
+    </item>
+    
+    <item>
+      <title>Hyderabad : heat relief - #hyderabad</title>
+      <link>https://www.desinerd.com/posts/hyderabad-heat-relief-hyderabad/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/hyderabad-heat-relief-hyderabad/</guid>
+      <description>Today, i reached Hyderabad on a one day stay (well, i am out by tomorrow evening). The weather here is so f**king awesome that it had to be documented. For the last one week, I have been trying to locate cities where I can live without getting a heat stroke. Reaching Hyderabad today really made my day, now i have located a city which is not going to become a desert any time soon.</description>
+    </item>
+    
+    <item>
+      <title>Pimp your blog up in an hour</title>
+      <link>https://www.desinerd.com/posts/pimp-your-blog-up-in-an-hour/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/pimp-your-blog-up-in-an-hour/</guid>
+      <description>Today, after a long time I decided that my blog needed a revamp. Hope you guys like what I have tried with it. The goals at the start of this exercise were as follows: Neat looking template reflecting my minimalist style Good quality SEO, and clean permanent URLs (same as before) Move from the last host (as they are shutting down) Feel fresh and upgrade all the moving parts of the blog</description>
+    </item>
+    
+    <item>
+      <title>My first beats :D</title>
+      <link>https://www.desinerd.com/posts/my-first-beats-d/</link>
+      <pubDate>Sun, 21 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/my-first-beats-d/</guid>
+      <description>Just created my first trance beat, its great fun. More on this soon. Till then try my first beat out.
+firstbeat - Download the MP3 using this link
+Have fun.</description>
+    </item>
+    
+    <item>
+      <title>Mozilla design challenge 2009</title>
+      <link>https://www.desinerd.com/posts/mozilla-design-challenge-2009/</link>
+      <pubDate>Sat, 20 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/mozilla-design-challenge-2009/</guid>
+      <description>Mozilla design challenge 2009 View more presentations or Upload your own.
+This is a presentation for the mozilla design challenge 2009, though the images are not very clear feel free to ask me at me@dipankar.name about any doubts. http://design-challenge.mozilla.com/summer09/ Note: I need to work on my GIMPing skills :) , so please be kind on me.</description>
+    </item>
+    
+    <item>
+      <title>Social Media Internships @ Electrosocial</title>
+      <link>https://www.desinerd.com/posts/social-media-internships-electrosocial/</link>
+      <pubDate>Wed, 17 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/social-media-internships-electrosocial/</guid>
+      <description>It gives me immensure pleasure to announce that Electrosocial is starting a six week internship program from the end of this month. The program is aimed at sharing the fundamentals of Social Media and imparting working knowledge with various tools and services of relevance. The internship would be completely online so that anyone from any part of the world can join it. The internship program would consist of (but not limited to) the following: Emergence of Social Media Social Media Fundamentals Social Media Tools Social Media Values/Ethics Scope of Social Media in Marketing, Customer Service, Activism etc Social Media Metrics Legal Aspect of Social Media</description>
+    </item>
+    
+    <item>
+      <title>Green olympiad 2009</title>
+      <link>https://www.desinerd.com/posts/green-olympiad-2009/</link>
+      <pubDate>Mon, 25 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/green-olympiad-2009/</guid>
+      <description>GREEN Olympiad is an international environment quiz programme which targets school students from classes 8th to 10th. The idea is to inculcate a sense of responsibility for mother Earth among the future citizens of India.
+Students need to enroll through their respective schools. The state, country and global winners are awarded exclusive prizes. Each and every participant also gets a certificate of participation from Ministry of Environment and Forests.
+GREEN Olympiad also culminates into a 13 episode programme called the TERRAQUIZ which is televised every year.</description>
+    </item>
+    
+    <item>
+      <title>Nominations for Proto.in Pune, are Open!</title>
+      <link>https://www.desinerd.com/posts/nominations-for-proto-in-pune-are-open/</link>
+      <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/nominations-for-proto-in-pune-are-open/</guid>
+      <description>Amidst much excitement that is bubbling up at the Proto.in camp, we are happy to announce that the nominations for the upcoming edition are now open! The nominations will stay open till June 15th, and that is just a short stint away. Do race to it, and if you are a startup in the Indian landscape and absolutely believe that you have something to share, then this is the platform you’ve been waiting for.</description>
+    </item>
+    
+    <item>
+      <title>Mosambe for starters</title>
+      <link>https://www.desinerd.com/posts/mosambe-for-starters/</link>
+      <pubDate>Wed, 15 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/mosambe-for-starters/</guid>
+      <description>Mosambe is a one-stop shop to find the right jobs and the right talent. It is a platform for you to network with your colleagues, gain greater visibility and find new opportunities. For companies- setting up a branded account, posting a job and finding the right talent is simple, easy, effective and hassle free. Mosambe(http://mosambe.com) is the creation of Kaasu info ventures private limited, a small team based out of Hyderabad.</description>
+    </item>
+    
+    <item>
+      <title>Thinking about different things</title>
+      <link>https://www.desinerd.com/posts/thinking-about-different-things/</link>
+      <pubDate>Tue, 07 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/thinking-about-different-things/</guid>
+      <description>I have been wondering how to write better things, and faster things. But more often than not I realize technology is nothing more than a tool to enable living things (like humans) perform more than their physical abilities (or extend the limitations).
+The idea is to focus on the core ideas of human needs, which are fundamentally simple anyways. Not everything needs a google search and most of the Earth’s population seems to survive without it.</description>
+    </item>
+    
+    <item>
+      <title>Waltz in bugland</title>
+      <link>https://www.desinerd.com/posts/waltz-in-bugland/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/waltz-in-bugland/</guid>
+      <description>I have been working on other people’s bugs for the last couple of weeks and it has been a terribly painful experience. This has been a great experience which has taught me a lot of corrective measures for the roadmap ahead for me. Some basic observations are Not everyone can program or should program - Conceptually it is really easy to type in read a tutorial or 2. But what i saw is pure torture for a guy like me , you need some talent to write a decent application.</description>
+    </item>
+    
+    <item>
+      <title>Student&#39;s death triggers violence in Kharagpur IIT</title>
+      <link>https://www.desinerd.com/posts/student-s-death-triggers-violence-in-kharagpur-iit/</link>
+      <pubDate>Mon, 23 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/student-s-death-triggers-violence-in-kharagpur-iit/</guid>
+      <description>The death of a student sparked off violence in the IIT Kharagpur campus on Sunday as angry students damaged the residence of institute Director Damodar Acharya, demanding suspension of the superintendent of the institute-run hospital for alleged negligence.
+http://www.hindu.com/thehindu/holnus/000200903222024.htm
+Sad to see all this happening at the most elite institutions of our nation. Hope we get our act right soon.</description>
+    </item>
+    
+    <item>
+      <title>BarCamp Kashmir version 1.0</title>
+      <link>https://www.desinerd.com/posts/barcamp-kashmir-version-1-0/</link>
+      <pubDate>Fri, 20 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/barcamp-kashmir-version-1-0/</guid>
+      <description>Well this is a great event hosted by awesome people. So congrats to Mir Nazim and his team :). Also noticed Supreet Sethi there :P, he was walking the ramp pretty nicely.</description>
+    </item>
+    
+    <item>
+      <title>uncyclopedia on IIT</title>
+      <link>https://www.desinerd.com/posts/uncyclopedia-on-iit/</link>
+      <pubDate>Wed, 18 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/uncyclopedia-on-iit/</guid>
+      <description>http://uncyclopedia.wikia.com/wiki/IIT (Awesomely funny)
+“Couldn’t you secure admission in ITI?”
+~ What every IITian acutally hears from ‘people having no clue’</description>
+    </item>
+    
+    <item>
+      <title>QOTD : quote of the day</title>
+      <link>https://www.desinerd.com/posts/qotd-quote-of-the-day/</link>
+      <pubDate>Tue, 10 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/qotd-quote-of-the-day/</guid>
+      <description>“What gets measured gets done. What gets measured and fed back gets done well. What gets rewarded gets repeated.”John Earl Jones</description>
+    </item>
+    
+    <item>
+      <title>&#34;Ghost in the shell&#34; : The laughing man</title>
+      <link>https://www.desinerd.com/posts/ghost-in-the-shell-the-laughing-man/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/ghost-in-the-shell-the-laughing-man/</guid>
+      <description>Well due to one of my best friends i have got rather addicted to GITS :) or “The ghost in the shell”, an awesome japanese anime series. There is a concept or rather a case of the laughing man, and the basis for that is a JD Salinger short story of the same name. I take this post to link up to that story, hope you all have a great week ahead.</description>
+    </item>
+    
+    <item>
+      <title>Europe : Vanishing Mediator</title>
+      <link>https://www.desinerd.com/posts/europe-vanishing-mediator/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/europe-vanishing-mediator/</guid>
+      <description>Very interesting article, and something that has appeared as a reference in “The ghost in the shell”. Allow me to begin these considerations on the uncertainties of Europe’s political identity at the beginning of the 21st century by referring to celebrated formulations from another European writer who, although belonging to a previous generation and writing along quite different lines, nevertheless shared some of the same experiences, namely exile and antifascist intellectual commitment: I am thinking of Thomas Mann.</description>
+    </item>
+    
+    <item>
+      <title>Post on twitter/kwippy using .NET</title>
+      <link>https://www.desinerd.com/posts/post-on-twitter-kwippy-using-net/</link>
+      <pubDate>Tue, 03 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/post-on-twitter-kwippy-using-net/</guid>
+      <description>using System; using System.Collections.Generic; using System.Linq; using System.Text; using System.IO; using System.Net; using System.Web;
+namespace ConsoleApplication1 { class Program { static void Main(string[] args) { System.Net.ServicePointManager.Expect100Continue = false; Uri address = new Uri(“http://twitter.com/statuses/update.json”); // Create the web request HttpWebRequest request = WebRequest.Create(address) as HttpWebRequest; request.Method = “POST”; request.ContentType = “application/x-www-form-urlencoded”; request.Credentials = new NetworkCredential(“username”, “password”); StringBuilder data = new StringBuilder(); data.Append(“status=from%20.net”); // Create a byte array of the data we want to send byte[] byteData = UTF8Encoding.</description>
+    </item>
+    
+    <item>
+      <title>scale or not to scale</title>
+      <link>https://www.desinerd.com/posts/scale-or-not-to-scale/</link>
+      <pubDate>Thu, 26 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/scale-or-not-to-scale/</guid>
+      <description>Well, for lack of better topics i will take this opportunity to talk about some cool things that i have started to learn namely the .NET platform. The best part is that i finally get exposed to complete GUI based tools to do nearly everything, (i am sure i will find a way to do most things on the commadline). Well new things and seems i need to scale than the applications i work on ;).</description>
+    </item>
+    
+    <item>
+      <title>Teja drops real bombs (finally)</title>
+      <link>https://www.desinerd.com/posts/teja-drops-real-bombs-finally/</link>
+      <pubDate>Sat, 07 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/teja-drops-real-bombs-finally/</guid>
+      <description>Tejas crosses a milestone
+Ravi Sharma
+BANGALORE: In a milestone, a Light Combat Aircraft (LCA) Tejas took off from here and for the first time dropped live stores (bombs) at a firing range.
+The dropping of two 25-pounder bombs, with one striking the target and the other falling within the inner 25 yard circle, was undertaken by Prototype Vehicle-3 of the LCA programme.
+The successful dropping of the light, marker bombs will enable the Aeronautical Development Agency (ADA) – designers of the fly-by-wire LCA – to not only prove the working of the aircraft’s flight control software for weapon drops and aiming, but also take forward the LCA’s weaponisation programme.</description>
+    </item>
+    
+    <item>
+      <title>Awesome proto.in, jan 2009</title>
+      <link>https://www.desinerd.com/posts/awesome-proto-in-jan-2009/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/awesome-proto-in-jan-2009/</guid>
+      <description>Proto has been taking place for sometime, but Jan 2009 is my first proto.in attendance and it was worth the trip to Bangalore. I went in with some expectations and yes, they were fulfilled. The highlights of the event is given below. Awesome talks - There was one talk by Bob Young(founder of redhat) which was simply awesome. There were others as well which were informative and fun sessions. Great audience - People from all walks of professional life, met a lawyer, a HR guy, a finance guy and so on … with so much variety one can only choose to get bored of such company.</description>
+    </item>
+    
+    <item>
+      <title>Kwippy feed for wordpress</title>
+      <link>https://www.desinerd.com/posts/kwippy-feed-for-wordpress/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/kwippy-feed-for-wordpress/</guid>
+      <description>If you notice i now have a RSS feed for kwippy on the sidebar. That is done by using RSS widget functionality within the wordpress theme section. The image below outline the complete setup which i use for my blog.
+Its really simple to set this up :).Enjoy.</description>
+    </item>
+    
+    <item>
+      <title>Twitter feed wall - great for projectors</title>
+      <link>https://www.desinerd.com/posts/twitter-feed-wall-great-for-projectors/</link>
+      <pubDate>Thu, 22 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/twitter-feed-wall-great-for-projectors/</guid>
+      <description>Inspired by http://twistori.com/. I wrote a generic tool which will allow people to setup a simple wall where people can post and it will automatically refresh. I built this tool specifically because it was needed at proto.in. I am very sure it will be useful to a lot of people out there.
+Uses JQuery and a Queues for javascript library. Maybe someone can do some transition magic with it, i am still a javascript n00b :).</description>
+    </item>
+    
+    <item>
+      <title>First wordpress plugin : Kwippy poster 1.0</title>
+      <link>https://www.desinerd.com/posts/first-wordpress-plugin-kwippy-poster-1-0/</link>
+      <pubDate>Tue, 20 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/first-wordpress-plugin-kwippy-poster-1-0/</guid>
+      <description>Just created my first wordpress plugin, from concept to implementation in 3 hours :D. This plugin basically posts an update on kwippy when you publish a new blog post. This can be a good tutorial for someone trying to build their own plugins actually. Enjoy.
+Updated: Official Wordpress plugin page :http://snipper.in/86</description>
+    </item>
+    
+    <item>
+      <title>Looking forward to proto</title>
+      <link>https://www.desinerd.com/posts/looking-forward-to-proto/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/looking-forward-to-proto/</guid>
+      <description>I am looking forward to attending proto @ blore, there are a lot of reasons to do so. Great set of people, will get to meet the very best entrepreneurs in India. In addition, to understanding the challenges people are trying to solve. Shotgun Startup - amazing concept and i really want to be a part of it. The feeling of implementing something in a very short time is exhilarating to say the least.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft remote terminal from linux</title>
+      <link>https://www.desinerd.com/posts/microsoft-remote-terminal-from-linux/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/microsoft-remote-terminal-from-linux/</guid>
+      <description>I know it would be simple for a lot of people reading this blog :). But the easiest way to remote desktop into a windows machine using a X based linux distro is to install rdesktop.
+http://www.rdesktop.org
+For ubuntu and debian based distro, fire up the console and type
+sudo apt-get install rdesktop
+This would install the client.
+rdesktop &amp;lt;server IP/domain&amp;gt;
+This would fire up the windows remote desktop stuff.</description>
+    </item>
+    
+    <item>
+      <title>Nginx &#43; django fcgi lessons</title>
+      <link>https://www.desinerd.com/posts/nginx-django-fcgi-lessons/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/nginx-django-fcgi-lessons/</guid>
+      <description>Today was a good day as i learned some valuable lessons about django and nginx. ALWAYS close the database cursor in django, it can lead to some pretty wierd memory issues going forward. FIND the most optimal number of database connections you initialize for you connection pooling. This will let you optimize on memory going forward. ENSURE that you do not set a very high client_timeout, this means that if connections are not explicitly not closed by the client then the web server will not timeout.</description>
+    </item>
+    
+    <item>
+      <title>The Screen Savers! - NES PC</title>
+      <link>https://www.desinerd.com/posts/the-screen-savers-nes-pc/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/the-screen-savers-nes-pc/</guid>
+      <description>Very cool … though i seem to be nearly 4 years late.</description>
+    </item>
+    
+    <item>
+      <title>What is Pragmatism ?</title>
+      <link>https://www.desinerd.com/posts/what-is-pragmatism/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/what-is-pragmatism/</guid>
+      <description>What is Pragmatism ? Something i had little idea about it turns out. Seems i need to read up a lot more about the words i encounter. What stories they hide within their seemingly mundane meanings. The most influential philosophy in America in the first quarter of the twentieth century. Viewed against the widely diversified intellectual currents that have characterized American life, pragmatism stands out as an energetically evolved philosophical movement.</description>
+    </item>
+    
+    <item>
+      <title>Be a Shotgun Startup, at Proto.in January Edition</title>
+      <link>https://www.desinerd.com/posts/be-a-shotgun-startup-at-proto-in-january-edition/</link>
+      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/be-a-shotgun-startup-at-proto-in-january-edition/</guid>
+      <description>How many times have you had a cool idea that never saw the light? Or that amazing conversation you had with your best friends which resulted to nothing? It can be that amazing facebook application to solve all the problems of your single friends, or that Iphone game that will rock the world, or an android application, or that robot which will help elderly people remember their pill times. Whatever it is, this is a time to build it and ride the wave with the support of the entire startup community.</description>
+    </item>
+    
+    <item>
+      <title>Top 10 events in 2008</title>
+      <link>https://www.desinerd.com/posts/top-10-events-in-2008/</link>
+      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/top-10-events-in-2008/</guid>
+      <description>There were a lot of important events in 2008, which can be defined as good or bad. Here is a list from what i remember of the year gone by. Mumbai attacks - India hardens as a state, we have a new look in our diplomacy. We want action and not reactions from our under-performing politicians. J&amp;amp;K elections - Another great event for our democracy. Finally, a new young CM who can make a difference if he chooses to.</description>
+    </item>
+    
+    <item>
+      <title>Web startup strategy in times of recession</title>
+      <link>https://www.desinerd.com/posts/web-startup-strategy-in-times-of-recession/</link>
+      <pubDate>Sat, 03 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/web-startup-strategy-in-times-of-recession/</guid>
+      <description>I think that a lot of people think that its easy to start a web startup and get funding, well part of that is true. Yes, the barrier to start something on the web is extremely low, but lately with the recession getting money for the same is way more difficult than before. So if you are hooked into the web business, here are some simple tips to get through these difficult times.</description>
+    </item>
+    
+    <item>
+      <title>PHP &#43; nice URLS &#43; nginx</title>
+      <link>https://www.desinerd.com/posts/php-nice-urls-nginx/</link>
+      <pubDate>Fri, 26 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/php-nice-urls-nginx/</guid>
+      <description>Easiest way to get php with good looking urls running on your site . Works for drupal, wordpress and joomla.
+server { listen 80; server_name www.domain.com; index index.html index.htm index.php; root /path/to/domain/files; location / { error_page 404 = //e/index.php?q=$uri; } location ~ .php$ { include fastcgi_params; fastcgi_pass 127.0.0.1:9000; fastcgi_index index.php; fastcgi_param SCRIPT_FILENAME /path/to/domain/files$fastcgi_script_name; } access_log /usr/local/nginx/logs/domain.access_log; error_log /usr/local/nginx/logs/domain.error_log; }</description>
+    </item>
+    
+    <item>
+      <title>Proto.in January&#39;09, Bangalore</title>
+      <link>https://www.desinerd.com/posts/proto-in-january-09-bangalore/</link>
+      <pubDate>Fri, 12 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/proto-in-january-09-bangalore/</guid>
+      <description>After its resounding successes in its past four editions, Proto.in is back on 23 &amp;amp; 24 january at bangalore to further strengthen its position as India’s premier start-up event. Proto.in has built a reputation of being the one event the entire entrepreneurial ecosystem looks forward to, across the length and breadth of India. Having witnessed successful past editions in Delhi and Chennai and gearing up for the next one in Bangalore, Ravi Narayanan, a well known entrepreneur and an advisor to proto.</description>
+    </item>
+    
+    <item>
+      <title>Pownce gone, use kwippy</title>
+      <link>https://www.desinerd.com/posts/pownce-gone-use-kwippy/</link>
+      <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/pownce-gone-use-kwippy/</guid>
+      <description>In a blatant act of self promotion, now that pownce is finished, I can confidently write that we are the only other django based micro-blogging network with some traction. I do admit the user interface needs a bit of work, but if you interact with our community, you will realize that they are a set of amazing people.
+So keeping in mind that you want to move on from pownce, try something new … or just try kwippy.</description>
+    </item>
+    
+    <item>
+      <title>Language of politics</title>
+      <link>https://www.desinerd.com/posts/language-of-politics/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/language-of-politics/</guid>
+      <description>After the tragic terrorist attacks in Mumbai, we see all the political parties starting their games. Lets have a closer look at what they said and where they went wrong.
+Manmohan Singh - A speech which lacked character, though it did not lack the objectivity. In a time of crisis when this was televised what we needed was a stong speech, not this verbal powerpoint. If i had to rate this, it would get a 5 out of 10.</description>
+    </item>
+    
+    <item>
+      <title>Mumbai, terror and NSG</title>
+      <link>https://www.desinerd.com/posts/mumbai-terror-and-nsg/</link>
+      <pubDate>Thu, 27 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/mumbai-terror-and-nsg/</guid>
+      <description>Its been a really long 24 hours, I have been following it all on TV or the internet (twitter to be specific). In this process I have see yet another intelligence lapse where probably 200+ people will lose their life on the final count and this will create a dent in our national image. England conveniently goes back home after not even coming close to winning their matches in cricket, a whole host of articles being published about how India will lose its “terror free” south Asia image, and finally how it affects the Delhi elections coming up.</description>
+    </item>
+    
+    <item>
+      <title>government aka sarkar</title>
+      <link>https://www.desinerd.com/posts/government-aka-sarkar/</link>
+      <pubDate>Wed, 26 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/government-aka-sarkar/</guid>
+      <description>Well, my name is Dipankar Sarkar. And Sarkar is hindi for goverment … so one my friends (specifically Varun Gulshan) would keep calling me that which to be honest is a fantastic nickname ;). Jokes apart, I guess i am a bit frustrated with how things work around me. As an individual who says “chop, chop” as he is in a perennial hurry, it kills me to see how things work.</description>
+    </item>
+    
+    <item>
+      <title>The darwin awards - A Chronicle of Enterprising Demises</title>
+      <link>https://www.desinerd.com/posts/the-darwin-awards-a-chronicle-of-enterprising-demises/</link>
+      <pubDate>Sun, 23 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/the-darwin-awards-a-chronicle-of-enterprising-demises/</guid>
+      <description>The darwin awards - A Chronicle of Enterprising Demises
+Came across this due to my good friend Mr. Samir … well it turns out that there is an award for people who do wierd stuff and end up seriously injured or dead. I salute the guy who is running this … who says there is no humor in death :). Honoring those who improve the species…by accidentally removing themselves from it!</description>
+    </item>
+    
+    <item>
+      <title>Rumors and more ....</title>
+      <link>https://www.desinerd.com/posts/rumors-and-more/</link>
+      <pubDate>Thu, 20 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/rumors-and-more/</guid>
+      <description>To be honest, I am a very conspiracy theory kind of a guy. Always believe things after i can validate certain things personally, that invariably leads to me getting too involved (call it the observer effect). But then again there are certain things that are much bigger than me which i believe are absolute frauds, i will state some of the most obvious ones. Humans landing on the moon (yeah right, NASA is struggling now … wonder why they need to design what already works) NGOs are for the greater good (from what i hear they are only for their own good, time we stopped using the tax payers money for them) Net neutrality (impossible, DNS servers still in the USA … the point is lost on me as to how is it fair, internet as we know is still very much controlled by americans) United Nations / World Bank are global organizations (now that is just BS, if we see the UN with its veto powers ….</description>
+    </item>
+    
+    <item>
+      <title>CodeIgniter &#43; nginx : Facebook application</title>
+      <link>https://www.desinerd.com/posts/codeigniter-nginx-facebook-application/</link>
+      <pubDate>Wed, 19 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/codeigniter-nginx-facebook-application/</guid>
+      <description>This is a basic tutorial on how to get CodeIgniter facebook application on nginx (with the gotchas). The nginx configuration would be like the following
+server { listen 80; server_name blah.com; location ~ /index.php/ { root /home/production/blah; index index.html index.htm index.php; include conf/fcgi.conf; fastcgi_param SCRIPT_FILENAME /home/production/fb_apps/quickdate/index.php; fastcgi_pass 127.0.0.1:9000; } access_log /usr/local/nginx/logs/blah.access_log; error_log /usr/local/nginx/logs/blah.error_log; }
+The critical line is the fastcgi_params parameter, that changes the whole game. In the code Igniter application you need to add the following file in [app]/system/application/libraries/FB_controller.</description>
+    </item>
+    
+    <item>
+      <title>Django : Optimizations within the platform</title>
+      <link>https://www.desinerd.com/posts/django-optimizations-within-the-platform/</link>
+      <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/django-optimizations-within-the-platform/</guid>
+      <description>In my experience with both rails and django, i would have to admit that a lot of things need to be improved at the core of these platforms so that developers can truly deploy a really fast production site. Let talk about what we did at kwippy to make it that much more faster than the default Django setup. Use memcached properly : The trick in getting speed is to cache all logged out pages and heavy caching of the user objects when logged in.</description>
+    </item>
+    
+    <item>
+      <title>Django : using a seperate memcached cloud for sessions</title>
+      <link>https://www.desinerd.com/posts/django-using-a-seperate-memcached-cloud-for-sessions/</link>
+      <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/django-using-a-seperate-memcached-cloud-for-sessions/</guid>
+      <description>When you are using a platform like django you realise how slow sessions can get when you are using the database as a backend. The problem of using a memory cache like memcached is the fact that when you restart the server to refresh the cache or remove stale objects, the problem is that you lose your sessions data and a lot of people using your site get logged out. The only solution to this problem is to use 2 memcached instances , one for your regular python objects and another for your sessions objects … this is not a default feature in Django.</description>
+    </item>
+    
+    <item>
+      <title>IIT versus everyone</title>
+      <link>https://www.desinerd.com/posts/iit-versus-everyone/</link>
+      <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/iit-versus-everyone/</guid>
+      <description>“Life’s fair if you don’t compare”
+The basis of article is the above quote which has no known author. Yesterday, i was sitting with my friends and i was the only IITian sitting there. When these guys started talking about their university life, well I started to realize that the golden years of fun for them were the toughest years for me and my batch. To start this all out, lets go back to the end of 12th and then college life.</description>
+    </item>
+    
+    <item>
+      <title>Django : using HTTP authentication for your views</title>
+      <link>https://www.desinerd.com/posts/django-using-http-authentication-for-your-views/</link>
+      <pubDate>Sat, 15 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/django-using-http-authentication-for-your-views/</guid>
+      <description>This is a small tutorial on how to use HTTP authentication for your site. Firstly you need to copy this file to httpauth.py and place it at /httpauth.py
+import base64 from django.contrib.auth.models import User from django.http import HttpResponse from django.contrib.auth import authenticate, login
+#############################################################################
+def view_or_basicauth(view, request, test_func, realm = &amp;ldquo;&amp;rdquo;, *args, **kwargs): &amp;quot;&amp;quot;&amp;quot; This is a helper function used by both &amp;lsquo;&amp;rsquo;logged_in_or_basicauth&amp;rsquo;&amp;rsquo; and &amp;lsquo;&amp;lsquo;has_perm_or_basicauth&amp;rsquo;&amp;rsquo; that does the nitty of determining if they are already logged in or if they have provided proper http-authorization and returning the view if all goes well, otherwise responding with a 401.</description>
+    </item>
+    
+    <item>
+      <title>httpfuse : best way to aggregate links</title>
+      <link>https://www.desinerd.com/posts/httpfuse-best-way-to-aggregate-links/</link>
+      <pubDate>Wed, 27 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/httpfuse-best-way-to-aggregate-links/</guid>
+      <description>Httpfuse is a very simple concept which allows collaborative link aggregation. The strength lies in the fact that a significant part of the functionality is developed and it is well populated with data. I have displayed one of the fuses i developed over at httpfuse, does it not look great. I have worked upon the data collection actually well it has 4 million odd links beat that :D. Its probably one of the very few Indian sites to have this amounts of data in its system to be honest.</description>
+    </item>
+    
+    <item>
+      <title>Kwippy fireeagle</title>
+      <link>https://www.desinerd.com/posts/kwippy-fireeagle/</link>
+      <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/kwippy-fireeagle/</guid>
+      <description>Kwippy has fireeagle integration now :D …. and all done in 2 days flat. The API is not that stable to be honest, but has the potential for greatness.
+The kwippy integration basically has a small signup application that is independent of the main app, there is a signup page which integrates and then the rest is in the parent application. I should be posting a picture here, but too lazy he he ….</description>
+    </item>
+    
+    <item>
+      <title>Kwippy facebook application</title>
+      <link>https://www.desinerd.com/posts/kwippy-facebook-application/</link>
+      <pubDate>Wed, 13 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/kwippy-facebook-application/</guid>
+      <description>Hello all kwippers and people who want to archive their status application, we just released an application which lets you do just that and more if you are integrate the application with kwippy.
+here is the link http://www.new.facebook.com/apps/application.php?id=6806564434
+We need more people ;) , feel free to invite your friends too ….</description>
+    </item>
+    
+    <item>
+      <title>Yet another URL shortening tool</title>
+      <link>https://www.desinerd.com/posts/yet-another-url-shortening-tool/</link>
+      <pubDate>Wed, 13 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/yet-another-url-shortening-tool/</guid>
+      <description>So here i post to introduce yet another short URL service …. snipper.in
+So i started this service for fun, built it in a record 3 hours he he … will open-source the code by the weekend. The service is dead simple … you get a short url and you can view stats about how many click / last 5 IPs who clicked.
+example:
+http://www.kwippy.com/rane/kwips/2008/aug/05/121113/ has the short url http://snipper.in/y</description>
+    </item>
+    
+    <item>
+      <title>Twitworth - find your twitter worth</title>
+      <link>https://www.desinerd.com/posts/twitworth-find-your-twitter-worth/</link>
+      <pubDate>Wed, 06 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/twitworth-find-your-twitter-worth/</guid>
+      <description>Well i just finished an application to find your twitter worth, it uses a very basic secret formula to do it ha ha ….
+well jokes apart fire it up and see what is your value, blog widget coming soon
+http://twitworth.com
+Now i think i should start doing some real work. More applications later in the week.</description>
+    </item>
+    
+    <item>
+      <title>I am an Indian</title>
+      <link>https://www.desinerd.com/posts/i-am-an-indian/</link>
+      <pubDate>Fri, 25 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/i-am-an-indian/</guid>
+      <description>“I AM AN INDIAN, I AM A MUSLIM” - Omar Abdullah
+We need more politicians like him, ready to say the right thing. Willing to make a choice for the nation first, then their religion. I can understand all the things we say about Kashmir, the truth is that in pure financial terms nation building is a costly exercise …. splitting into a separate state may look like the best but it will take tremendous amounts of help from its 2 warring neighbors.</description>
+    </item>
+    
+    <item>
+      <title>My first post at kwippy blog</title>
+      <link>https://www.desinerd.com/posts/my-first-post-at-kwippy-blog/</link>
+      <pubDate>Fri, 04 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/my-first-post-at-kwippy-blog/</guid>
+      <description>http://blog.kwippy.com/2008/07/03/technology-behind-kwippy-and-scaling/
+A post about how kwippy works and scaling strategies involved. Feel free to ramble and comment.</description>
+    </item>
+    
+    <item>
+      <title>[story]I stood</title>
+      <link>https://www.desinerd.com/posts/story-i-stood/</link>
+      <pubDate>Sat, 21 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/story-i-stood/</guid>
+      <description>I stood, to look over my fallen countrymen. It used to be all about the nation before i turned into stone, a mere statue to the stuff happening in our America today. We fought for what was right and ours … but our children today have forgotten those values.
+It was the war for independence, I lead my army with the only possession that i really cared about …. my hand-made notebook.</description>
+    </item>
+    
+    <item>
+      <title>ILUG-Delhi workshop</title>
+      <link>https://www.desinerd.com/posts/ilug-delhi-workshop/</link>
+      <pubDate>Sun, 08 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/ilug-delhi-workshop/</guid>
+      <description>http://wiki.linux-delhi.org/twiki/pub/Main/InderprasthaWorkshop/ip-june7.ppt
+Today i participated in ILUG-Delhi’s workshop, it was interesting to the end that i figured out how important it is to break down information into chewy bits. I was supposed to give a presentation on “building social networking applications using python”, i made the wrong assumption about the people present there.
+But then one has to learn the hard way to do better the next time. I do look forward to taking part in more such events, ILUG-Delhi does require some more technical talks though tad bit more basic to start off with.</description>
+    </item>
+    
+    <item>
+      <title>[story] big bird</title>
+      <link>https://www.desinerd.com/posts/story-big-bird/</link>
+      <pubDate>Mon, 02 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/story-big-bird/</guid>
+      <description>http://www.cnn.com/2008/WORLD/americas/05/30/brazil.tribes/index.html?iref=topnews
+(CNN) – Researchers have produced aerial photos of jungle dwellers who they say are among the few remaining peoples on Earth who have had no contact with the outside world.
+A very random story on this picture, njoi
+Vellan and Tipsy were sitting, happily looking at Bela their ummm hot wife, well this is one of the few surviving matriarchal societies (isolated from society, now you know why). If you do notice, there is a slight smirk on Bela’s face … thats is where the story starts.</description>
+    </item>
+    
+    <item>
+      <title>[story] The blue painted sky</title>
+      <link>https://www.desinerd.com/posts/story-the-blue-painted-sky/</link>
+      <pubDate>Sun, 25 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/story-the-blue-painted-sky/</guid>
+      <description>Another picture story by my gurl, Maitrayee
+It was a beautiful summer’s day and the ocean was placid…just right for a lazy day on the beach. Tsanto and her surfer friends were disappointed as the sea dozed and occasionally snorted. Teenage hormones and tame activities don’t go together! So they clowned around…made a couple of human pyramids on the sand and tossed the ball around from one towering team to the other.</description>
+    </item>
+    
+    <item>
+      <title>[story] the want of boy</title>
+      <link>https://www.desinerd.com/posts/story-the-want-of-boy/</link>
+      <pubDate>Fri, 23 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/story-the-want-of-boy/</guid>
+      <description>Second in the series of stories based on photos. kaa and supreet have also added their stories on their blogs.
+This was yet another trip for Dan to Delhi … the huge capital of India, it was all looking good. Camera in hand, some crisp dollars in his pocket-this was a great place to be in. Sophistication was in the air, atleast when he was visiting the forts and monuments around … eveyone spoke in accented English.</description>
+    </item>
+    
+    <item>
+      <title>[story] it all about meme</title>
+      <link>https://www.desinerd.com/posts/story-it-all-about-meme/</link>
+      <pubDate>Thu, 15 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/story-it-all-about-meme/</guid>
+      <description>My friend Supreet started this meme of writing a story based on this picture. He had given me 100 words. I have taken my artistic license a lil far beyond. And I am writing it as a parable. More posts from supreet and kaa
+Once upon a time in a land far far away existed a magical creature called meme, it had wings it could fly and all the jazz.</description>
+    </item>
+    
+    <item>
+      <title>Barcamp Delhi 4</title>
+      <link>https://www.desinerd.com/posts/barcamp-delhi-4/</link>
+      <pubDate>Thu, 15 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/barcamp-delhi-4/</guid>
+      <description>Delhi which is traditionally not known for technology is having its Barcamp, here is some blurb and links to get people started. Check them out and register for this awesome event.
+For the uninitiated Barcamp is an unconference where all sorts of people come in for all sorts of reasons (freebies, free wifi included) . Those who are willing to present/speak on a topic simply add their names in the wiki and they are allocated a time slot to present.</description>
+    </item>
+    
+    <item>
+      <title>bandwidth leeching</title>
+      <link>https://www.desinerd.com/posts/bandwidth-leeching/</link>
+      <pubDate>Tue, 13 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/bandwidth-leeching/</guid>
+      <description>Lately desinerd.com has been under some tremendous bandwidth leeching from anonymous proxies. I am getting tired banning multiple IPs because they managed to eat up my monthly bandwidth quota in less than a week. Here are the public IPs which have hit me pretty hard
+89.149.242.226 67.202.58.232 89.122.29.40 85.91.82.38 89.149.241.126 203.162.2.135
+Time to use public IP ban lists, so that these leechers can’t attack me like this. All this has forced me to upgrade my setup and think a bit more about my content, so thanks to the guys who were using their brains so hard to pull my site down.</description>
+    </item>
+    
+    <item>
+      <title>Slideshare gets funding and other news</title>
+      <link>https://www.desinerd.com/posts/slideshare-gets-funding-and-other-news/</link>
+      <pubDate>Fri, 09 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/slideshare-gets-funding-and-other-news/</guid>
+      <description>So congrats to the slieshare team who just got funding, three cheers to my mates there. So after a long wait they have finally found a match for their funding needs. Hopefully they will keep up the good work at http://slideshare.net.
+In other news, i started using EC2 seriously and have found it to be an awesome service. My virtual machine was up for about 8 days before i finally pulled it down (bad choice it was as i ended up losing a lot of data).</description>
+    </item>
+    
+    <item>
+      <title>Anagram on twitter</title>
+      <link>https://www.desinerd.com/posts/anagram-on-twitter/</link>
+      <pubDate>Fri, 18 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/anagram-on-twitter/</guid>
+      <description>After a long struggle to write something interesting, i have finally released an uncut version of my twitter anagram bot. This bot can be found here at http://twitter.com/anagram101 . This took some homework initially, now i intend to make this bot healthier coz it seems to freak out with some encoding issue in the wordlist :D.
+This is looking fun to use, so i really think you all guys out there will njoi it as well.</description>
+    </item>
+    
+    <item>
+      <title>job boards</title>
+      <link>https://www.desinerd.com/posts/job-boards/</link>
+      <pubDate>Tue, 08 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/job-boards/</guid>
+      <description>So one of my friends was asking about job boards, so here are some of the good ones i know about Alootechie job boards venture jobs Joel on software job board Craig’s list
+These are pretty good ones from my understanding for a short gig or a great startup job …. If you guys know more please feel free to comment n add it here</description>
+    </item>
+    
+    <item>
+      <title>the much more work syndrome</title>
+      <link>https://www.desinerd.com/posts/the-much-more-work-syndrome/</link>
+      <pubDate>Mon, 07 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/the-much-more-work-syndrome/</guid>
+      <description>I used to think that i am pretty smart when it comes to managing time, turns out it aint the case most times. At any given point of time , my management(or lack of it) ;) invariably leads to wierd complexities (which obviously cannot be disclosed). So here goes list of things i want done asap Upgrade the wordpress, apparently the new admin GUI is uber-coool. Change my current theme, because it sucks and i want to rebuild it using bluecss Finish work on the projects i have started, coz they are blocking available bandwidth Make http://kwippy.</description>
+    </item>
+    
+    <item>
+      <title>kwippy !!</title>
+      <link>https://www.desinerd.com/posts/kwippy/</link>
+      <pubDate>Wed, 02 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/kwippy/</guid>
+      <description>What is kwippy? - a micro/nanoblogging webapp + IM status logger + social network Why another microblogging app when there are already plenty out there? - There is twitter, pownce, jaiku, and 10 other similar ones. Though all of these promote small posts, each has a different kind of social network.
+On twitter you mostly meet strangers. By strangers I mean people you don’t know in the real world. It’s like barcamp, or a conference where you go partly to network.</description>
+    </item>
+    
+    <item>
+      <title>whole lotta fonts</title>
+      <link>https://www.desinerd.com/posts/whole-lotta-fonts/</link>
+      <pubDate>Thu, 27 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/whole-lotta-fonts/</guid>
+      <description>Now that i do part-time design work for my projects, i decided it was time to get all the free fonts available. As i am using ubuntu here are some awesome packages and links for fonts.
+Packages : (command to install on ubuntu)
+sudo apt-get install ttf-gentium ttf-dustin ttf-georgewilliams ttf-sjfonts sun-java6-fonts ttf-larabie-deco ttf-larabie-straight ttf-larabie-uncommon
+Another cool site:
+http://crunchbang.org/archives/2007/10/13/465-free-fonts-for-ubuntu/</description>
+    </item>
+    
+    <item>
+      <title>observing the internet</title>
+      <link>https://www.desinerd.com/posts/observing-the-internet/</link>
+      <pubDate>Tue, 25 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/observing-the-internet/</guid>
+      <description>I was thinking about the book The long tail , its a great read even if it is bit old. The ideas are very much relevant in today’s businesses and will continue to be as long as the Gaussian bells are around. After some discussions with my friends i chanced upon this interesting idea that using the long tail model you can effectively change the consumer usage patterns, much like the Heisenberg principle in physics.</description>
+    </item>
+    
+    <item>
+      <title>sending smses</title>
+      <link>https://www.desinerd.com/posts/sending-smses/</link>
+      <pubDate>Tue, 25 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/sending-smses/</guid>
+      <description>Recently, i went to gaffar(New Delhi) and got 2 cell phones to muck around with it ….
+One is a sony ericksson another a nokia
+Turns out i needed a CA42 cable(Nokia), but it still does not work. The sony Ericksson rocks …..</description>
+    </item>
+    
+    <item>
+      <title>Some cool new additions</title>
+      <link>https://www.desinerd.com/posts/some-cool-new-additions/</link>
+      <pubDate>Tue, 25 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/some-cool-new-additions/</guid>
+      <description>So i have been working on fixing my internet stuff, so here are my new new things. http://www.kwippy.com - This is an awesome twitter replacement http://www.dipankar.name - A little bit of self promotion, uses blueprintcss (i am still learning he he) http://apps.facebook.com/dipankar - A test facebook application which demonstrates minifb.py
+More later, i am working on some more interesting things …. will write more soon</description>
+    </item>
+    
+    <item>
+      <title>my site ... more python</title>
+      <link>https://www.desinerd.com/posts/my-site-more-python/</link>
+      <pubDate>Sun, 16 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/my-site-more-python/</guid>
+      <description>So i decided to finish off http://dipankar.name and used blueprintcss with web.py as the backend. Very minimilatistic , i will wrap up the “internet asset” section with RSS feeds from the respective networks soon.</description>
+    </item>
+    
+    <item>
+      <title>outsourcing development work to india ...</title>
+      <link>https://www.desinerd.com/posts/outsourcing-development-work-to-india/</link>
+      <pubDate>Tue, 12 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/outsourcing-development-work-to-india/</guid>
+      <description>Hmmm, unlike what most people have to say I have started to feel that Indians working in “outsourced” development teams are getting a real bad deal. In my recent experience, i have felt that in spite of all the big talk on how India has become costlier blah blah …. its my firm belief that there is very good quality of work being done here ….
+So quality development work on cutting edge platforms is still termed as outsourcing, that was a rude shock to a guy like me :).</description>
+    </item>
+    
+    <item>
+      <title>are you a startup ?</title>
+      <link>https://www.desinerd.com/posts/are-you-a-startup/</link>
+      <pubDate>Mon, 11 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/are-you-a-startup/</guid>
+      <description>So this post is devoted to my conception of a startup and the differences (or at least perceived ones) it has from a big firm. (Warning: These are very subjective differences) Startups are built for people who are ambitious and driven , thus this gives them the momentum going forward even if resources are scarce. From the above point it can be agreed easily that people who work at such places are to some extent different.</description>
+    </item>
+    
+    <item>
+      <title>Start of phase 2</title>
+      <link>https://www.desinerd.com/posts/start-of-phase-2/</link>
+      <pubDate>Sun, 10 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/start-of-phase-2/</guid>
+      <description>Wierd title for a blog post :) , but its truly the start of the second phase in my rather short career. This week I have decided to move on from slideshare.net , to some other stuff. Lately I have started realizing how badly i needed to give time to my own ideas (and there are lots of them), with such short product life spans on the internet and the boom taking place interms of web valuations how can I possibly miss out on trying……</description>
+    </item>
+    
+    <item>
+      <title>Stocks and more</title>
+      <link>https://www.desinerd.com/posts/stocks-and-more/</link>
+      <pubDate>Fri, 07 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/stocks-and-more/</guid>
+      <description>Lately i have been in the market, and trying to understand how it all works. After reading some decent books about how to play the game, i have finally entered it wit a testing capital of about 10000 rps (~$250). Till now i have got back 4000 rps ($100) on the initial inverstment. But till now the ride has not be all smooth actually, getting one of these online buying / selling interfaces is definitely a hassle.</description>
+    </item>
+    
+    <item>
+      <title>Some new movie reviews and a bit of E17</title>
+      <link>https://www.desinerd.com/posts/some-new-movie-reviews-and-a-bit-of-e17/</link>
+      <pubDate>Sun, 04 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/some-new-movie-reviews-and-a-bit-of-e17/</guid>
+      <description>So today i watched “Stardust” , a fantasy romance to keep it simple actually. Interesting watch … a 7 out of 10. Stardust : IMDB So this last week i have been playing around with couple of really cool things. First of all i tried out e17 which i am loving right now .. and then i setup Samba(a windows network share) on QNX. So i had an embedded board lying around, and this Thursday i was really frustrated with work … so i decided that i needed to setup the file server i long wished for.</description>
+    </item>
+    
+    <item>
+      <title>al gore and climate</title>
+      <link>https://www.desinerd.com/posts/al-gore-and-climate/</link>
+      <pubDate>Sat, 13 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/al-gore-and-climate/</guid>
+      <description>The Controvery</description>
+    </item>
+    
+    <item>
+      <title>Can Waiting Tables Teach You How to be an Entrepreneur?</title>
+      <link>https://www.desinerd.com/posts/can-waiting-tables-teach-you-how-to-be-an-entrepreneur/</link>
+      <pubDate>Thu, 11 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/can-waiting-tables-teach-you-how-to-be-an-entrepreneur/</guid>
+      <description>Sometimes when I look over my business experience, I kind of wonder how I got here. I have no fancy MBA, I ’ve never held a job for someone else, and my college degree is in Holistic Psychology. In fact, when I started my first business, I had little experience to lean on other than working as a waitress. Hear are 6 lessons I learned waiting tables.read more | digg story</description>
+    </item>
+    
+    <item>
+      <title>Essay: What if Internet Bandwidth Was Infinite?</title>
+      <link>https://www.desinerd.com/posts/essay-what-if-internet-bandwidth-was-infinite/</link>
+      <pubDate>Thu, 11 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/essay-what-if-internet-bandwidth-was-infinite/</guid>
+      <description>What would happen if Internet bandwidth was infinite — what would that change about the Internet itself?read more | digg story</description>
+    </item>
+    
+    <item>
+      <title>Internet2 hits 100Gbps, could scale 10x beyond that</title>
+      <link>https://www.desinerd.com/posts/internet2-hits-100gbps-could-scale-10x-beyond-that/</link>
+      <pubDate>Thu, 11 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/internet2-hits-100gbps-could-scale-10x-beyond-that/</guid>
+      <description>Internet2 now rockets along at 100Gbps, and it also allows researchers to set up dedicated 10Gbps point-to-point links on the fly. Want to transfer a third of a terabyte in the time it takes to order a burger? Now you can.read more | digg story</description>
+    </item>
+    
+    <item>
+      <title>Linux Not Ready for the Desktop? Really?</title>
+      <link>https://www.desinerd.com/posts/linux-not-ready-for-the-desktop-really/</link>
+      <pubDate>Thu, 11 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/linux-not-ready-for-the-desktop-really/</guid>
+      <description>Some technology analysts feel that Linux is still not ready for the desktop. Please don’t tell that to any of the community members who last year logged in 40,000 times to the 28 Linux stations in our small town library and community center.read more | digg story</description>
+    </item>
+    
+    <item>
+      <title>Now that Google has Jaiku, is Yahoo after Twitter?</title>
+      <link>https://www.desinerd.com/posts/now-that-google-has-jaiku-is-yahoo-after-twitter/</link>
+      <pubDate>Thu, 11 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/now-that-google-has-jaiku-is-yahoo-after-twitter/</guid>
+      <description>Yahoo may be after Jaiku rival Twitter, the company that put “microblog” in everybody’s mouths when it hit the scene at this spring’s South by Southwest Interactive Festival.read more | digg story</description>
+    </item>
+    
+    <item>
+      <title>Alexa Ranking Facts</title>
+      <link>https://www.desinerd.com/posts/alexa-ranking-facts/</link>
+      <pubDate>Wed, 10 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/alexa-ranking-facts/</guid>
+      <description>Alexa is a subsidiary of Amazon.com, and it has been popular because of the website ranking service offered for the websites. Alexa evaluates a website on the basis of its popularity among the Alexa Toolbar users and assigns a rank to it. The lower the rank value, the higher is the popularity. But do you really know the workings of Alexa?read more | digg story</description>
+    </item>
+    
+    <item>
+      <title>Creative Fights - The New Era of Mortal Combat</title>
+      <link>https://www.desinerd.com/posts/creative-fights-the-new-era-of-mortal-combat/</link>
+      <pubDate>Wed, 10 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/creative-fights-the-new-era-of-mortal-combat/</guid>
+      <description>Every action indeed has equal and opposite reaction! Who says universe is infinite. Can it beat imagination in infinity?read more | digg story</description>
+    </item>
+    
+    <item>
+      <title>Dell to go &#39;carbon neutral&#39; by late 2008</title>
+      <link>https://www.desinerd.com/posts/dell-to-go-carbon-neutral-by-late-2008/</link>
+      <pubDate>Wed, 10 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/dell-to-go-carbon-neutral-by-late-2008/</guid>
+      <description>Dell will neutralize its carbon emissions and become carbon neutral by the end of 2008, chairman and CEO Michael Dell announced Wednesday.
+“Carbon Credits” are hotter than ever. We have had reliance selling them, will this trend continue? I do think it is a good money making concept, but doubt its actual +ve environmental impact.read more | digg story</description>
+    </item>
+    
+    <item>
+      <title>Exploits of a Mom (xkcd)</title>
+      <link>https://www.desinerd.com/posts/exploits-of-a-mom-xkcd/</link>
+      <pubDate>Wed, 10 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/exploits-of-a-mom-xkcd/</guid>
+      <description>A mother’s wrath against poorly sanitized data inputs.
+http://imgs.xkcd.com/comics/exploits_of_a_mom.pngread more | digg story</description>
+    </item>
+    
+    <item>
+      <title>Google phone will take on Microsoft, not Apple</title>
+      <link>https://www.desinerd.com/posts/google-phone-will-take-on-microsoft-not-apple/</link>
+      <pubDate>Wed, 10 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/google-phone-will-take-on-microsoft-not-apple/</guid>
+      <description>Rumors about a Google phone have been flying for months. And since they started around the time that Apple was releasing its game-changing iPhone, it should come as no surprise that we all started to get the idea that Google might get into the hardware game and release a gPhone handset featuring Google software.
+“Google taking on Microsoft” old news …. Though the windows mobiles are really decent, i wonder how the gphone can crack it all so easliy.</description>
+    </item>
+    
+    <item>
+      <title>Here’s How to Stop Worrying About Google Once and for All</title>
+      <link>https://www.desinerd.com/posts/heres-how-to-stop-worrying-about-google-once-and-for-all/</link>
+      <pubDate>Wed, 10 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/heres-how-to-stop-worrying-about-google-once-and-for-all/</guid>
+      <description>Boy, people don’t see very happy with Google lately, huh?
+read more | digg story
+Doing 350-001 is not as hard as 350-029. However people still go for the latter as then they are qualified for 640-801 or 640-816. However for those who want to pursue 640-822, a better option would be to try the former.</description>
+    </item>
+    
+    <item>
+      <title>Hitler&#39;s secret Indian army</title>
+      <link>https://www.desinerd.com/posts/hitler-s-secret-indian-army/</link>
+      <pubDate>Wed, 10 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/hitler-s-secret-indian-army/</guid>
+      <description>“…thousands of Indian soldiers who had joined Britain in the fight against fascism swapped their oaths to the British king for others to Adolf Hitler - an astonishing tale of loyalty, despair and betrayal that threatened to rock British rule in India, known as the Raj.”read more | digg story</description>
+    </item>
+    
+    <item>
+      <title>Red vs Blue in Halo 3</title>
+      <link>https://www.desinerd.com/posts/red-vs-blue-in-halo-3/</link>
+      <pubDate>Wed, 10 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/red-vs-blue-in-halo-3/</guid>
+      <description>Here’s a montage of the RvB Easter Egg in Halo 3, with different audio on different difficulties. This is an awesome game …. i so want to play it….read more | digg story</description>
+    </item>
+    
+    <item>
+      <title>The new British empire? UK plans to annex south Atlantic</title>
+      <link>https://www.desinerd.com/posts/the-new-british-empire-uk-plans-to-annex-south-atlantic/</link>
+      <pubDate>Wed, 10 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/the-new-british-empire-uk-plans-to-annex-south-atlantic/</guid>
+      <description>Britain is preparing territorial claims on tens of thousands of square miles of the Atlantic Ocean floor around the Falklands, Ascension Island and Rockall, a region in which seismic tests suggest there could be about 60bn barrels of oil under the ocean floor.read more | digg story</description>
+    </item>
+    
+    <item>
+      <title>The Ultimate Guide to Workstation Ergonomics</title>
+      <link>https://www.desinerd.com/posts/the-ultimate-guide-to-workstation-ergonomics/</link>
+      <pubDate>Wed, 10 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/the-ultimate-guide-to-workstation-ergonomics/</guid>
+      <description>“If you’re like most people, you spend a good portion of your waking hours sitting at a desk or working with a computer. This time can become painful if you don’t take steps to properly set up your workstation to work with your body and not against it. Creating an ergonomic workstation is easier than you might think, and the rewards can be huge…”read more | digg story</description>
+    </item>
+    
+    <item>
+      <title>Web 3.0 will be a mobile web revolution</title>
+      <link>https://www.desinerd.com/posts/web-3-0-will-be-a-mobile-web-revolution/</link>
+      <pubDate>Wed, 10 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/web-3-0-will-be-a-mobile-web-revolution/</guid>
+      <description>Everyone has an opinion on Web 3.0 lately. Personally, I think they are all wrong. And while I won ’t profess to carry the official definition of Web 3.0 (personally, i think the definitions are stupid and misguided) I’ll tell you what I think the future of the web holds.read more | digg story</description>
+    </item>
+    
+    <item>
+      <title>LinkedIn profile</title>
+      <link>https://www.desinerd.com/posts/linkedin-profile/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/linkedin-profile/</guid>
+      <description>I did some work on my LinkedIn profile, fixed the information there. Updated stuff, so my new public professional profile is here. It looks very good and hopefully it will appear on google search as well.
+As long as it does not beat “Dipankar Sarkar” for google search I am happy ;). Plus it seems with Dipankar in the profile I have a good chance of making it up in the “Dipankar” search.</description>
+    </item>
+    
+    <item>
+      <title>10 million ruppees and Porsche911</title>
+      <link>https://www.desinerd.com/posts/10-million-ruppees-and-porsche911/</link>
+      <pubDate>Tue, 25 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/10-million-ruppees-and-porsche911/</guid>
+      <description>The following video of Yuvraj singh hitting Broad for 6 sixes in one over in an do or die match, it is worth 10 million ruppes and a Porsche 911 (BCCI presented him with both). This is great for the game and puts being a cricketer back into fashion :).
+Enjoi it, i did. Awesome….. even better now that we are world champions.</description>
+    </item>
+    
+    <item>
+      <title>today is &#34;young india day&#34;</title>
+      <link>https://www.desinerd.com/posts/today-is-young-india-day/</link>
+      <pubDate>Mon, 24 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/today-is-young-india-day/</guid>
+      <description>Today young India is back with a bang, be it politics or cricket. Earlier today the Congress (the majority party in the ruling coalition) announced some young changes to the cabinet and their party positions. Leaders like Rahul Gandhi and Priya Dutt, have been given big-time responsibility, I am sure they will deliver and take our nation to greater heights. Congress i must add is here to stay.
+And how can we forget the ICC Twenty20 world cup, India played 4 pressure matches to take the cup.</description>
+    </item>
+    
+    <item>
+      <title>Payment gateways</title>
+      <link>https://www.desinerd.com/posts/payment-gateways/</link>
+      <pubDate>Thu, 20 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/payment-gateways/</guid>
+      <description>I have been doing some work lately on how one can take payments or pay the client in the easiest way possible. This leads me to doing some research on currently available gateways. Some of the contenders are:
+Paypal - a decent service, but takes a lot of money for transferring money. Its ok ..
+Google Checkout - I am gonna checkout what it has to offer, should have a great API like all the other google products.</description>
+    </item>
+    
+    <item>
+      <title>Monty Python - International Philosophy</title>
+      <link>https://www.desinerd.com/posts/monty-python-international-philosophy/</link>
+      <pubDate>Tue, 18 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/monty-python-international-philosophy/</guid>
+      <description>Too funny, check out the team lineups. Monty python so rocks …..</description>
+    </item>
+    
+    <item>
+      <title>More monty python</title>
+      <link>https://www.desinerd.com/posts/more-monty-python/</link>
+      <pubDate>Tue, 18 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/more-monty-python/</guid>
+      <description>Monty python - Black knight (star wars)
+Love star wars, and this is too funny ….
+Monty Python - Hitler in England</description>
+    </item>
+    
+    <item>
+      <title>Progress post</title>
+      <link>https://www.desinerd.com/posts/progress-post/</link>
+      <pubDate>Fri, 14 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/progress-post/</guid>
+      <description>What progress have i made on the various things i have started to work on :
+Something really cool that i have been working on with a really great partner of mine will be released soon. This is going to change how collaboration works across the internet :P.
+The really cool slideshare upload features are done, next comes some really hard core stuff .. which i will definitely blog about so stay tuned…</description>
+    </item>
+    
+    <item>
+      <title>Enabling wordpress for iphone</title>
+      <link>https://www.desinerd.com/posts/enabling-wordpress-for-iphone/</link>
+      <pubDate>Thu, 13 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/enabling-wordpress-for-iphone/</guid>
+      <description>http://iwphone.contentrobot.com/2007/07/04/iwphone-wordpress-plugin-and-theme/
+Awesome plugin to create a iphone compatible wordpress layout …. now my site can be viewed on an iphone without ay layout issues
+from the plugin creators :-
+“Feature List Formats your blog content for optimized viewing on the iPhone. Automatically detects the iPhone’s Safari browser and only displays the custom theme to iPhone visitors, other visitors get your standard theme. Simple iPhone-like theme with common interface elements that compliments the iPhone’s internal applications.</description>
+    </item>
+    
+    <item>
+      <title>Slideshare releases URL and email uploads</title>
+      <link>https://www.desinerd.com/posts/slideshare-releases-url-and-email-uploads/</link>
+      <pubDate>Thu, 13 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/slideshare-releases-url-and-email-uploads/</guid>
+      <description>Today , after a seriously long deployment at slideshare we have released URL and email upload. These add to the exisiting means of pushing content into slideshare. Let me list the ways of pushing content into slideshare.net .. Normal uploads Single - works on all machines Bulk (multiple uploads at one go) - fails on firefox on linux.
+URL uploads Bulk - basically copy a bunch of urls, which will be uploaded to slideshare Using plugins - We at slideshare have made two plugins (one for firefox another for IE) which will allow the user to upload into slideshare any online presentation they like with a single click.</description>
+    </item>
+    
+    <item>
+      <title>interesting take on Entrepreneurship</title>
+      <link>https://www.desinerd.com/posts/interesting-take-on-entrepreneurship/</link>
+      <pubDate>Wed, 12 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/interesting-take-on-entrepreneurship/</guid>
+      <description>Cool presentation … its sarcastic as one of my friends stated … but its fun nevertheless</description>
+    </item>
+    
+    <item>
+      <title>virality with a kapital &#39;V&#39;</title>
+      <link>https://www.desinerd.com/posts/virality-with-a-kapital-v/</link>
+      <pubDate>Tue, 11 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/virality-with-a-kapital-v/</guid>
+      <description>The web is currently obsessed with this concept of virality, how can a site grow exponentially in terms of traffic, user registrations and ten thousand other metrics. This reminds me of some sort of a gold rush, very little analysis behind what is right or wrong … people seem to be blinded by success and attempt to replicate it rather blindly.
+With the advent of web 2.0, the metrics for measuring the success of an application has been the number of users in the system, how the social network evolves ….</description>
+    </item>
+    
+    <item>
+      <title>Dipankars on the net</title>
+      <link>https://www.desinerd.com/posts/dipankars-on-the-net/</link>
+      <pubDate>Mon, 10 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/dipankars-on-the-net/</guid>
+      <description>Well like all geeks and nerds i am obsessed about the ranking of my page when i search for “Dipankar Sarkar” , “Dipankar” :) . The good part is that there are very few “Dipankar Sarkar” to challenge me …. the sad part is that there is some competition on the “Dipankar” space … and i am 12th on that list …
+So the challenger’s are : (google term : ‘dipankar’) Dipankar Bhattacharya - http://www.</description>
+    </item>
+    
+    <item>
+      <title>Entrepreneurial Proverbs</title>
+      <link>https://www.desinerd.com/posts/entrepreneurial-proverbs/</link>
+      <pubDate>Mon, 10 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/entrepreneurial-proverbs/</guid>
+      <description>http://radar.oreilly.com/archives/2006/03/entrepreneurial_proverbs.html
+Some really interesting proverbs for the entrepreneur in all of us
+“Cool ideas are useless without great needs”
+“Start with nothing, and have nothing for as long as possible”
+“For investors, the product is nothing”
+“Great things are made by people who share a passion, not by those who have been talked into one”
+Ahh goto run … a new bug to resolve and so much more to think about in my spare time :p</description>
+    </item>
+    
+    <item>
+      <title>Start of another blog</title>
+      <link>https://www.desinerd.com/posts/start-of-another-blog/</link>
+      <pubDate>Thu, 06 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/start-of-another-blog/</guid>
+      <description>So today marks the beginning of a new blog here . This will be a blog dedicated to my financial ambitions on and off the internet. The content of this blog will be completely non-technical and will look at what drives most people in my honest view ($$$). In an effort to improve my rather sad looking blog, i have gone for a looks upgrade. The following changes have been made : After looking at techcruch’s 900px+ width, i have decided to increase the width of both the blogs for maximum space utilization.</description>
+    </item>
+    
+    <item>
+      <title>Whats up ....</title>
+      <link>https://www.desinerd.com/posts/whats-up/</link>
+      <pubDate>Mon, 03 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/whats-up/</guid>
+      <description>Just a reminder post on what all i am tackling this week :
+Joomla extension development , its awesome fun . Will release something real useful soon.
+pidgin(formerly known as gaim) development. I think i will join their patch submission group soon.
+Fixing Net::POP3 on ruby … i think its kinda buggy …. lets see if i need to dive into some hacking to get it working for me …. :(</description>
+    </item>
+    
+    <item>
+      <title>Run Fatboy Run - A Wildfire campaigns</title>
+      <link>https://www.desinerd.com/posts/run-fatboy-run-a-wildfire-campaigns/</link>
+      <pubDate>Fri, 31 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/run-fatboy-run-a-wildfire-campaigns/</guid>
+      <description>Cool ad campaigns and games from wildfire.
+This is about new movie being released :Run Fatboy Run “New British comedy hitting cinemas on 28 September 2007.
+Overly lazy and commitment-phobic, Dennis (Simon Pegg) suffers a minor breakdown and ditches his pregnant girlfriend Libby (Thandie Newton) at the altar. Five years later, Dennis realizes just how big a mistake he made. But just as Dennis sets out with his young son to woo her back, he learns that a flashy new suitor (Hank Azaria) has claimed her heart.</description>
+    </item>
+    
+    <item>
+      <title>Must read books</title>
+      <link>https://www.desinerd.com/posts/must-read-books/</link>
+      <pubDate>Wed, 22 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/must-read-books/</guid>
+      <description>Here are some awesome books i have read in the last month or so…
+Byomkesh Bakshi - 19 short stories
+The menagerie - 4 novellas - Byomkesh Bakshi
+Micheal Lewis - Liar’s poker
+Cool book about his short stint at Salomon brother… must read for Rs.150 :P
+Micheal Lewis - The new new thing Story of Jim Clarke , the founder of Netscape …
+Reading : God Delusional … Richard Dawkins (must read)</description>
+    </item>
+    
+    <item>
+      <title>Slideshare &#34;recipe&#34; for PMWiki</title>
+      <link>https://www.desinerd.com/posts/slideshare-recipe-for-pmwiki/</link>
+      <pubDate>Tue, 17 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/slideshare-recipe-for-pmwiki/</guid>
+      <description>PMWiki is this really cool wiki platform, which is used all over the internet for all kinds of collaborative purposes. Today, we at slideshare have put out a “recipe” which allows you to easily embed a presentation in PMWiki
+The download link for the recipe is here
+You can just unzip and put the contents of this file into the cookbook/ directory of PMWiki. Then you can use the following tag to embed a slideshow</description>
+    </item>
+    
+    <item>
+      <title>Google subscribed links</title>
+      <link>https://www.desinerd.com/posts/google-subscribed-links/</link>
+      <pubDate>Fri, 13 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/google-subscribed-links/</guid>
+      <description>Here is some really cool stuff about google search. For a start let me introduce the concept of google subscribed link, think of it as an filter which allows you to share your content through the normal google search page. Its called a coop search because the user has to add this to his google search, if you send in bad content the user will stop using your specialized search .</description>
+    </item>
+    
+    <item>
+      <title>Creative commons and slideshare.net</title>
+      <link>https://www.desinerd.com/posts/creative-commons-and-slideshare-net/</link>
+      <pubDate>Thu, 12 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/creative-commons-and-slideshare-net/</guid>
+      <description>http://creativecommons.org/weblog/entry/7566
+Checkout the Slideshare karaoke application built on top of the SlideShare API, a very cool tool which allows you to randomly pickup sideshows and have some really random fun ….
+The API has been released some days back and hence the documentation is very sparse, but rest assured that with some more applications coming up there will be enough open source documentation around. This really cool piece of Javascript using the prototype library has been developed by Lalit patel , who is a specialist at JS and cross-browser issues.</description>
+    </item>
+    
+    <item>
+      <title>News about the slideshare application</title>
+      <link>https://www.desinerd.com/posts/news-about-the-slideshare-application/</link>
+      <pubDate>Mon, 09 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/news-about-the-slideshare-application/</guid>
+      <description>Checkout these links reviewing the slideshare application , the coolest presentation sharing application on the planet :) …. Worlds top ten facebook application UK web focus Another SlideShare review
+These are some of the links which are talking about the Slideshare facebook application, so have you added the application yet ??? if not, go get it ….
+Screenshot</description>
+    </item>
+    
+    <item>
+      <title>shift happens</title>
+      <link>https://www.desinerd.com/posts/shift-happens/</link>
+      <pubDate>Mon, 09 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/shift-happens/</guid>
+      <description>A brillant presentation, winner of the slideshare.net competition ….. Must see slideshow ….</description>
+    </item>
+    
+    <item>
+      <title>SlideShare for developers - I</title>
+      <link>https://www.desinerd.com/posts/slideshare-for-developers-i/</link>
+      <pubDate>Thu, 05 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/slideshare-for-developers-i/</guid>
+      <description>Today, SlideShare has shown the way and has become the first of presentation sharing site to become developer friendly. The long-awaited API has been released and yes, I have a series of tutorials in the works for using the really cool REST API released. There is some PHP helper code (ref: SSUtil) which allows a developer to start off using the code, that code also contains some functions which can generate a SlideShare RSS feed for you.</description>
+    </item>
+    
+    <item>
+      <title>Facebook : Make your app social , Part 1</title>
+      <link>https://www.desinerd.com/posts/facebook-make-your-app-social-part-1/</link>
+      <pubDate>Wed, 04 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/facebook-make-your-app-social-part-1/</guid>
+      <description>This is going to be a series of article about the facebook application platform, my story with it started a month back. Till now I have put in a lot of effort on this for SlideShare (Which has a sizeable audience now) . To add to it I am working on a new set of applications which will be released soon. i would love to share the experiences I had with this evolving platform till now, to strart off I would like to list out some important things before starting :</description>
+    </item>
+    
+    <item>
+      <title>Opensearch standard : Get your site on Firefox/IE7</title>
+      <link>https://www.desinerd.com/posts/opensearch-standard-get-your-site-on-firefox-ie7/</link>
+      <pubDate>Wed, 04 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/opensearch-standard-get-your-site-on-firefox-ie7/</guid>
+      <description>There is this concept of a search plugin, something which most browsers have now-a-days (Post Mozilla .. Netscape Navigator) , look at the top right corner , right next to the URL bar. I had little idea how you created this so-called search plugin. After a bit of googling , I came across the following links:
+Creating OpenSearch plugins for Firefox Search plugins for firefox/IE7 The first site has this very nerdy approach of explaining how this opensearch plugin works, to keep it very simple its an XML file defining the following : [xml] Desinerd Search Search Desinerd Search desinerd search cool desi technology web20 web — Image Data —-</description>
+    </item>
+    
+    <item>
+      <title>Welcome to desinerd.com</title>
+      <link>https://www.desinerd.com/posts/welcome-to-desinerd-com/</link>
+      <pubDate>Wed, 04 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/welcome-to-desinerd-com/</guid>
+      <description>Hi all,
+This is the introductory post to desinerd.com. I, Dipankar Sarkar welcome you to my portal where I keep track of all the latest tech (very web 2.0) specific news. So from today , you want news about the web come to desinerd.com :) …</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>

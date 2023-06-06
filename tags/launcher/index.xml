@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>launcher on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/launcher/</link>
+    <description>Recent content in launcher on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Mar 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/launcher/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Samsung i9103 ROM android</title>
+      <link>https://www.desinerd.com/posts/best-samsung-i9103-rom-android/</link>
+      <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/best-samsung-i9103-rom-android/</guid>
+      <description>I have been using the Samsung i9103 for quite a while and have tried out most of the available experimental ROM out there. Most of today was spent trying to find out the right combination to make the phone usable again. Here are the steps to having a really good setup on this phone
+First follow the guide below and install the XXKPE ROM following the guide below. You will need to use Odin to flash this ROM onto your device.</description>
+    </item>
+    
+  </channel>
+</rss>

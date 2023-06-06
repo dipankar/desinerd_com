@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Technical on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/technical/</link>
+    <description>Recent content in Technical on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/technical/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing huginn on ubuntu 20.04</title>
+      <link>https://www.desinerd.com/posts/installing-huginn-on-ubuntu-20-04/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/installing-huginn-on-ubuntu-20-04/</guid>
+      <description>The default guide for Huginn installation works pretty well. The only part where you do get stuck is
+sudo bundle exec rake production:export So what really happens is that the console looks like it stuck, which is quite frustrating. Lets say you force quit this (Crtl^C). Try running it again and you will get an error like.
+root@localhost:/home/huginn/huginn# sudo bundle exec rake production:export --trace ** Invoke production:export (first_time) ** Invoke production:check (first_time) ** Execute production:check ** Execute production:export ** Execute production:stop Stopping huginn .</description>
+    </item>
+    
+  </channel>
+</rss>

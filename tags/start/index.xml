@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>start on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/start/</link>
+    <description>Recent content in start on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 09 Jan 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/start/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Whats up, world !</title>
+      <link>https://www.desinerd.com/posts/whats-up-world/</link>
+      <pubDate>Mon, 09 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/whats-up-world/</guid>
+      <description>Wow, that was a long break. Lately not spent any time on writing or thinking, guess that is usually visible in the output ! Need to make it a real habit of writing more and more. Happy new year to anyone who reads this ! Looking forward to kick starting good stuff !</description>
+    </item>
+    
+  </channel>
+</rss>

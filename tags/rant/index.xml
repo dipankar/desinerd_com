@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>rant on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/rant/</link>
+    <description>Recent content in rant on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Apr 2009 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/rant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thinking about different things</title>
+      <link>https://www.desinerd.com/posts/thinking-about-different-things/</link>
+      <pubDate>Tue, 07 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/thinking-about-different-things/</guid>
+      <description>I have been wondering how to write better things, and faster things. But more often than not I realize technology is nothing more than a tool to enable living things (like humans) perform more than their physical abilities (or extend the limitations).
+The idea is to focus on the core ideas of human needs, which are fundamentally simple anyways. Not everything needs a google search and most of the Earth’s population seems to survive without it.</description>
+    </item>
+    
+    <item>
+      <title>government aka sarkar</title>
+      <link>https://www.desinerd.com/posts/government-aka-sarkar/</link>
+      <pubDate>Wed, 26 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/government-aka-sarkar/</guid>
+      <description>Well, my name is Dipankar Sarkar. And Sarkar is hindi for goverment … so one my friends (specifically Varun Gulshan) would keep calling me that which to be honest is a fantastic nickname ;). Jokes apart, I guess i am a bit frustrated with how things work around me. As an individual who says “chop, chop” as he is in a perennial hurry, it kills me to see how things work.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,6325 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/</link>
+    <description>Recent content in Tags on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>migration</title>
+      <link>https://www.desinerd.com/tags/migration/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multisite</title>
+      <link>https://www.desinerd.com/tags/multisite/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/multisite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>single</title>
+      <link>https://www.desinerd.com/tags/single/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/single/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wordpress</title>
+      <link>https://www.desinerd.com/tags/wordpress/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/wordpress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Articles</title>
+      <link>https://www.desinerd.com/tags/articles/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/articles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>huginn</title>
+      <link>https://www.desinerd.com/tags/huginn/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/huginn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ruby</title>
+      <link>https://www.desinerd.com/tags/ruby/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/ruby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>runit</title>
+      <link>https://www.desinerd.com/tags/runit/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/runit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical</title>
+      <link>https://www.desinerd.com/tags/technical/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/technical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://www.desinerd.com/tags/ubuntu/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>developer</title>
+      <link>https://www.desinerd.com/tags/developer/</link>
+      <pubDate>Fri, 24 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/developer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>firefoxos</title>
+      <link>https://www.desinerd.com/tags/firefoxos/</link>
+      <pubDate>Fri, 24 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/firefoxos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geeksphone</title>
+      <link>https://www.desinerd.com/tags/geeksphone/</link>
+      <pubDate>Fri, 24 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/geeksphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keon</title>
+      <link>https://www.desinerd.com/tags/keon/</link>
+      <pubDate>Fri, 24 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/keon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mobile</title>
+      <link>https://www.desinerd.com/tags/mobile/</link>
+      <pubDate>Fri, 24 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>preview</title>
+      <link>https://www.desinerd.com/tags/preview/</link>
+      <pubDate>Fri, 24 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/preview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bijan</title>
+      <link>https://www.desinerd.com/tags/bijan/</link>
+      <pubDate>Tue, 12 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/bijan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chance</title>
+      <link>https://www.desinerd.com/tags/chance/</link>
+      <pubDate>Tue, 12 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/chance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>founder</title>
+      <link>https://www.desinerd.com/tags/founder/</link>
+      <pubDate>Tue, 12 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/founder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>goals</title>
+      <link>https://www.desinerd.com/tags/goals/</link>
+      <pubDate>Tue, 12 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/goals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>product</title>
+      <link>https://www.desinerd.com/tags/product/</link>
+      <pubDate>Tue, 12 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/product/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sabet</title>
+      <link>https://www.desinerd.com/tags/sabet/</link>
+      <pubDate>Tue, 12 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/sabet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>startup</title>
+      <link>https://www.desinerd.com/tags/startup/</link>
+      <pubDate>Tue, 12 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/startup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>team</title>
+      <link>https://www.desinerd.com/tags/team/</link>
+      <pubDate>Tue, 12 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>academic</title>
+      <link>https://www.desinerd.com/tags/academic/</link>
+      <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>advice</title>
+      <link>https://www.desinerd.com/tags/advice/</link>
+      <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/advice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bosh</title>
+      <link>https://www.desinerd.com/tags/bosh/</link>
+      <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/bosh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>career</title>
+      <link>https://www.desinerd.com/tags/career/</link>
+      <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hoffman</title>
+      <link>https://www.desinerd.com/tags/hoffman/</link>
+      <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/hoffman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ietf</title>
+      <link>https://www.desinerd.com/tags/ietf/</link>
+      <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/ietf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linkedin</title>
+      <link>https://www.desinerd.com/tags/linkedin/</link>
+      <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/linkedin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>referly</title>
+      <link>https://www.desinerd.com/tags/referly/</link>
+      <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/referly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reid</title>
+      <link>https://www.desinerd.com/tags/reid/</link>
+      <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/reid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rfc</title>
+      <link>https://www.desinerd.com/tags/rfc/</link>
+      <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/rfc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>startups</title>
+      <link>https://www.desinerd.com/tags/startups/</link>
+      <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/startups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>websockets</title>
+      <link>https://www.desinerd.com/tags/websockets/</link>
+      <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/websockets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xmpp</title>
+      <link>https://www.desinerd.com/tags/xmpp/</link>
+      <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/xmpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zombie</title>
+      <link>https://www.desinerd.com/tags/zombie/</link>
+      <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/zombie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>android</title>
+      <link>https://www.desinerd.com/tags/android/</link>
+      <pubDate>Sat, 09 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chromebook</title>
+      <link>https://www.desinerd.com/tags/chromebook/</link>
+      <pubDate>Sat, 09 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/chromebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>firefox OS</title>
+      <link>https://www.desinerd.com/tags/firefox-os/</link>
+      <pubDate>Sat, 09 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/firefox-os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>internet</title>
+      <link>https://www.desinerd.com/tags/internet/</link>
+      <pubDate>Sat, 09 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ios</title>
+      <link>https://www.desinerd.com/tags/ios/</link>
+      <pubDate>Sat, 09 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2013</title>
+      <link>https://www.desinerd.com/tags/2013/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>antivirus</title>
+      <link>https://www.desinerd.com/tags/antivirus/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/antivirus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>avast</title>
+      <link>https://www.desinerd.com/tags/avast/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/avast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hog</title>
+      <link>https://www.desinerd.com/tags/hog/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/hog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intel</title>
+      <link>https://www.desinerd.com/tags/intel/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/intel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KAV</title>
+      <link>https://www.desinerd.com/tags/kav/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/kav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>memory</title>
+      <link>https://www.desinerd.com/tags/memory/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microsoft</title>
+      <link>https://www.desinerd.com/tags/microsoft/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/microsoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nexus</title>
+      <link>https://www.desinerd.com/tags/nexus/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/nexus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>windows 7</title>
+      <link>https://www.desinerd.com/tags/windows-7/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/windows-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ace</title>
+      <link>https://www.desinerd.com/tags/ace/</link>
+      <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/ace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>airtel</title>
+      <link>https://www.desinerd.com/tags/airtel/</link>
+      <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/airtel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bandwidth</title>
+      <link>https://www.desinerd.com/tags/bandwidth/</link>
+      <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/bandwidth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cheating</title>
+      <link>https://www.desinerd.com/tags/cheating/</link>
+      <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/cheating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>complaints</title>
+      <link>https://www.desinerd.com/tags/complaints/</link>
+      <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/complaints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cwm</title>
+      <link>https://www.desinerd.com/tags/cwm/</link>
+      <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/cwm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>galaxy</title>
+      <link>https://www.desinerd.com/tags/galaxy/</link>
+      <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/galaxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>i9103</title>
+      <link>https://www.desinerd.com/tags/i9103/</link>
+      <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/i9103/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>launcher</title>
+      <link>https://www.desinerd.com/tags/launcher/</link>
+      <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/launcher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MTNL</title>
+      <link>https://www.desinerd.com/tags/mtnl/</link>
+      <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/mtnl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>odin</title>
+      <link>https://www.desinerd.com/tags/odin/</link>
+      <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/odin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rom</title>
+      <link>https://www.desinerd.com/tags/rom/</link>
+      <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/rom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>root</title>
+      <link>https://www.desinerd.com/tags/root/</link>
+      <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/root/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>samsung</title>
+      <link>https://www.desinerd.com/tags/samsung/</link>
+      <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/samsung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smartbytes</title>
+      <link>https://www.desinerd.com/tags/smartbytes/</link>
+      <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/smartbytes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xda</title>
+      <link>https://www.desinerd.com/tags/xda/</link>
+      <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/xda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>carriage return</title>
+      <link>https://www.desinerd.com/tags/carriage-return/</link>
+      <pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/carriage-return/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dump</title>
+      <link>https://www.desinerd.com/tags/dump/</link>
+      <pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/dump/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>encoding</title>
+      <link>https://www.desinerd.com/tags/encoding/</link>
+      <pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/encoding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>export</title>
+      <link>https://www.desinerd.com/tags/export/</link>
+      <pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/export/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>latin1</title>
+      <link>https://www.desinerd.com/tags/latin1/</link>
+      <pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/latin1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mysql</title>
+      <link>https://www.desinerd.com/tags/mysql/</link>
+      <pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mysqldump</title>
+      <link>https://www.desinerd.com/tags/mysqldump/</link>
+      <pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/mysqldump/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>perl</title>
+      <link>https://www.desinerd.com/tags/perl/</link>
+      <pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/perl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sql</title>
+      <link>https://www.desinerd.com/tags/sql/</link>
+      <pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unicode</title>
+      <link>https://www.desinerd.com/tags/unicode/</link>
+      <pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/unicode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>utf</title>
+      <link>https://www.desinerd.com/tags/utf/</link>
+      <pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/utf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>experiment</title>
+      <link>https://www.desinerd.com/tags/experiment/</link>
+      <pubDate>Wed, 10 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/experiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life</title>
+      <link>https://www.desinerd.com/tags/life/</link>
+      <pubDate>Wed, 10 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>loyalty</title>
+      <link>https://www.desinerd.com/tags/loyalty/</link>
+      <pubDate>Wed, 10 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/loyalty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>objectivity</title>
+      <link>https://www.desinerd.com/tags/objectivity/</link>
+      <pubDate>Wed, 10 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/objectivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>outspoken</title>
+      <link>https://www.desinerd.com/tags/outspoken/</link>
+      <pubDate>Wed, 10 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/outspoken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>perception management</title>
+      <link>https://www.desinerd.com/tags/perception-management/</link>
+      <pubDate>Wed, 10 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/perception-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1920s</title>
+      <link>https://www.desinerd.com/tags/1920s/</link>
+      <pubDate>Tue, 11 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/1920s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>midnight in paris</title>
+      <link>https://www.desinerd.com/tags/midnight-in-paris/</link>
+      <pubDate>Tue, 11 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/midnight-in-paris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>past</title>
+      <link>https://www.desinerd.com/tags/past/</link>
+      <pubDate>Tue, 11 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/past/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>woody allen</title>
+      <link>https://www.desinerd.com/tags/woody-allen/</link>
+      <pubDate>Tue, 11 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/woody-allen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alonso</title>
+      <link>https://www.desinerd.com/tags/alonso/</link>
+      <pubDate>Sat, 08 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/alonso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F1</title>
+      <link>https://www.desinerd.com/tags/f1/</link>
+      <pubDate>Sat, 08 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/f1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ferrari</title>
+      <link>https://www.desinerd.com/tags/ferrari/</link>
+      <pubDate>Sat, 08 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/ferrari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hamilton</title>
+      <link>https://www.desinerd.com/tags/hamilton/</link>
+      <pubDate>Sat, 08 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/hamilton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mclaren</title>
+      <link>https://www.desinerd.com/tags/mclaren/</link>
+      <pubDate>Sat, 08 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/mclaren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sauber</title>
+      <link>https://www.desinerd.com/tags/sauber/</link>
+      <pubDate>Sat, 08 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/sauber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aliexpress</title>
+      <link>https://www.desinerd.com/tags/aliexpress/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/aliexpress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>battery</title>
+      <link>https://www.desinerd.com/tags/battery/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/battery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>boilerplate</title>
+      <link>https://www.desinerd.com/tags/boilerplate/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/boilerplate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bootstrap</title>
+      <link>https://www.desinerd.com/tags/bootstrap/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bottle</title>
+      <link>https://www.desinerd.com/tags/bottle/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/bottle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bottle.py</title>
+      <link>https://www.desinerd.com/tags/bottle.py/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/bottle.py/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chinapost</title>
+      <link>https://www.desinerd.com/tags/chinapost/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/chinapost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>courier</title>
+      <link>https://www.desinerd.com/tags/courier/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/courier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fedex</title>
+      <link>https://www.desinerd.com/tags/fedex/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/fedex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML5</title>
+      <link>https://www.desinerd.com/tags/html5/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/html5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>laptop</title>
+      <link>https://www.desinerd.com/tags/laptop/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/laptop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mako</title>
+      <link>https://www.desinerd.com/tags/mako/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/mako/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>marketplace</title>
+      <link>https://www.desinerd.com/tags/marketplace/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/marketplace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>memcached</title>
+      <link>https://www.desinerd.com/tags/memcached/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/memcached/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project structure</title>
+      <link>https://www.desinerd.com/tags/project-structure/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/project-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://www.desinerd.com/tags/python/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redis</title>
+      <link>https://www.desinerd.com/tags/redis/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/redis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>singpost</title>
+      <link>https://www.desinerd.com/tags/singpost/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/singpost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>citrix</title>
+      <link>https://www.desinerd.com/tags/citrix/</link>
+      <pubDate>Wed, 29 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/citrix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>classifieds</title>
+      <link>https://www.desinerd.com/tags/classifieds/</link>
+      <pubDate>Wed, 29 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/classifieds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>debian</title>
+      <link>https://www.desinerd.com/tags/debian/</link>
+      <pubDate>Wed, 29 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/debian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ebay</title>
+      <link>https://www.desinerd.com/tags/ebay/</link>
+      <pubDate>Wed, 29 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/ebay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ecommerce</title>
+      <link>https://www.desinerd.com/tags/ecommerce/</link>
+      <pubDate>Wed, 29 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/ecommerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>freebsd</title>
+      <link>https://www.desinerd.com/tags/freebsd/</link>
+      <pubDate>Wed, 29 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/freebsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>indai</title>
+      <link>https://www.desinerd.com/tags/indai/</link>
+      <pubDate>Wed, 29 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/indai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nodejs</title>
+      <link>https://www.desinerd.com/tags/nodejs/</link>
+      <pubDate>Wed, 29 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/nodejs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>portmaster</title>
+      <link>https://www.desinerd.com/tags/portmaster/</link>
+      <pubDate>Wed, 29 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/portmaster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rocket internet</title>
+      <link>https://www.desinerd.com/tags/rocket-internet/</link>
+      <pubDate>Wed, 29 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/rocket-internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>samwer brothers</title>
+      <link>https://www.desinerd.com/tags/samwer-brothers/</link>
+      <pubDate>Wed, 29 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/samwer-brothers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tradus</title>
+      <link>https://www.desinerd.com/tags/tradus/</link>
+      <pubDate>Wed, 29 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/tradus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virtual machine</title>
+      <link>https://www.desinerd.com/tags/virtual-machine/</link>
+      <pubDate>Wed, 29 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/virtual-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>x64</title>
+      <link>https://www.desinerd.com/tags/x64/</link>
+      <pubDate>Wed, 29 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/x64/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xencenter</title>
+      <link>https://www.desinerd.com/tags/xencenter/</link>
+      <pubDate>Wed, 29 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/xencenter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>beos</title>
+      <link>https://www.desinerd.com/tags/beos/</link>
+      <pubDate>Tue, 28 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/beos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chrome</title>
+      <link>https://www.desinerd.com/tags/chrome/</link>
+      <pubDate>Tue, 28 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/chrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FF</title>
+      <link>https://www.desinerd.com/tags/ff/</link>
+      <pubDate>Tue, 28 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/ff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>haiku</title>
+      <link>https://www.desinerd.com/tags/haiku/</link>
+      <pubDate>Tue, 28 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/haiku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opera</title>
+      <link>https://www.desinerd.com/tags/opera/</link>
+      <pubDate>Tue, 28 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/opera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSS</title>
+      <link>https://www.desinerd.com/tags/oss/</link>
+      <pubDate>Tue, 28 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/oss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photongui</title>
+      <link>https://www.desinerd.com/tags/photongui/</link>
+      <pubDate>Tue, 28 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/photongui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>qnx</title>
+      <link>https://www.desinerd.com/tags/qnx/</link>
+      <pubDate>Tue, 28 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/qnx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vlcplayer</title>
+      <link>https://www.desinerd.com/tags/vlcplayer/</link>
+      <pubDate>Tue, 28 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/vlcplayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>distributed</title>
+      <link>https://www.desinerd.com/tags/distributed/</link>
+      <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nosql</title>
+      <link>https://www.desinerd.com/tags/nosql/</link>
+      <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/nosql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transactions</title>
+      <link>https://www.desinerd.com/tags/transactions/</link>
+      <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/transactions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>b2g</title>
+      <link>https://www.desinerd.com/tags/b2g/</link>
+      <pubDate>Tue, 21 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/b2g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>firefox</title>
+      <link>https://www.desinerd.com/tags/firefox/</link>
+      <pubDate>Tue, 21 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/firefox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gekko</title>
+      <link>https://www.desinerd.com/tags/gekko/</link>
+      <pubDate>Tue, 21 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/gekko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>independence day</title>
+      <link>https://www.desinerd.com/tags/independence-day/</link>
+      <pubDate>Tue, 21 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/independence-day/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>india</title>
+      <link>https://www.desinerd.com/tags/india/</link>
+      <pubDate>Tue, 21 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/india/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mintlinux</title>
+      <link>https://www.desinerd.com/tags/mintlinux/</link>
+      <pubDate>Tue, 21 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/mintlinux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nationalism</title>
+      <link>https://www.desinerd.com/tags/nationalism/</link>
+      <pubDate>Tue, 21 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/nationalism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>republic day</title>
+      <link>https://www.desinerd.com/tags/republic-day/</link>
+      <pubDate>Tue, 21 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/republic-day/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vande mataram</title>
+      <link>https://www.desinerd.com/tags/vande-mataram/</link>
+      <pubDate>Tue, 21 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/vande-mataram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dreamhost</title>
+      <link>https://www.desinerd.com/tags/dreamhost/</link>
+      <pubDate>Sun, 22 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/dreamhost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>paste</title>
+      <link>https://www.desinerd.com/tags/paste/</link>
+      <pubDate>Sun, 22 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/paste/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wsgi</title>
+      <link>https://www.desinerd.com/tags/wsgi/</link>
+      <pubDate>Sun, 22 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/wsgi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2010</title>
+      <link>https://www.desinerd.com/tags/2010/</link>
+      <pubDate>Mon, 09 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>end</title>
+      <link>https://www.desinerd.com/tags/end/</link>
+      <pubDate>Mon, 09 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/end/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>merry christmas</title>
+      <link>https://www.desinerd.com/tags/merry-christmas/</link>
+      <pubDate>Mon, 09 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/merry-christmas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>new year</title>
+      <link>https://www.desinerd.com/tags/new-year/</link>
+      <pubDate>Mon, 09 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/new-year/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>start</title>
+      <link>https://www.desinerd.com/tags/start/</link>
+      <pubDate>Mon, 09 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/start/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book</title>
+      <link>https://www.desinerd.com/tags/book/</link>
+      <pubDate>Tue, 31 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cookbook</title>
+      <link>https://www.desinerd.com/tags/cookbook/</link>
+      <pubDate>Tue, 31 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/cookbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nginx</title>
+      <link>https://www.desinerd.com/tags/nginx/</link>
+      <pubDate>Tue, 31 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>a1200</title>
+      <link>https://www.desinerd.com/tags/a1200/</link>
+      <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/a1200/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>configuration</title>
+      <link>https://www.desinerd.com/tags/configuration/</link>
+      <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/configuration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>e6</title>
+      <link>https://www.desinerd.com/tags/e6/</link>
+      <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/e6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kannel</title>
+      <link>https://www.desinerd.com/tags/kannel/</link>
+      <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/kannel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>motorola</title>
+      <link>https://www.desinerd.com/tags/motorola/</link>
+      <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/motorola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>air force</title>
+      <link>https://www.desinerd.com/tags/air-force/</link>
+      <pubDate>Sat, 18 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/air-force/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>art of war</title>
+      <link>https://www.desinerd.com/tags/art-of-war/</link>
+      <pubDate>Sat, 18 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/art-of-war/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Boyd</title>
+      <link>https://www.desinerd.com/tags/john-boyd/</link>
+      <pubDate>Sat, 18 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/john-boyd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OODA</title>
+      <link>https://www.desinerd.com/tags/ooda/</link>
+      <pubDate>Sat, 18 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/ooda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>usaf</title>
+      <link>https://www.desinerd.com/tags/usaf/</link>
+      <pubDate>Sat, 18 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/usaf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bullshit</title>
+      <link>https://www.desinerd.com/tags/bullshit/</link>
+      <pubDate>Thu, 16 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/bullshit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>drdo</title>
+      <link>https://www.desinerd.com/tags/drdo/</link>
+      <pubDate>Thu, 16 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/drdo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fun</title>
+      <link>https://www.desinerd.com/tags/fun/</link>
+      <pubDate>Thu, 16 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/fun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IAF</title>
+      <link>https://www.desinerd.com/tags/iaf/</link>
+      <pubDate>Thu, 16 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/iaf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kali</title>
+      <link>https://www.desinerd.com/tags/kali/</link>
+      <pubDate>Thu, 16 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/kali/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mig</title>
+      <link>https://www.desinerd.com/tags/mig/</link>
+      <pubDate>Thu, 16 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/mig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mirv</title>
+      <link>https://www.desinerd.com/tags/mirv/</link>
+      <pubDate>Thu, 16 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/mirv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>missile shields</title>
+      <link>https://www.desinerd.com/tags/missile-shields/</link>
+      <pubDate>Thu, 16 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/missile-shields/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>patriot</title>
+      <link>https://www.desinerd.com/tags/patriot/</link>
+      <pubDate>Thu, 16 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/patriot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quotes</title>
+      <link>https://www.desinerd.com/tags/quotes/</link>
+      <pubDate>Thu, 16 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/quotes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>random</title>
+      <link>https://www.desinerd.com/tags/random/</link>
+      <pubDate>Thu, 16 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/random/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spy sats</title>
+      <link>https://www.desinerd.com/tags/spy-sats/</link>
+      <pubDate>Thu, 16 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/spy-sats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>star wars</title>
+      <link>https://www.desinerd.com/tags/star-wars/</link>
+      <pubDate>Thu, 16 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/star-wars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>weapons</title>
+      <link>https://www.desinerd.com/tags/weapons/</link>
+      <pubDate>Thu, 16 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/weapons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agriculture</title>
+      <link>https://www.desinerd.com/tags/agriculture/</link>
+      <pubDate>Thu, 09 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/agriculture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bollywood</title>
+      <link>https://www.desinerd.com/tags/bollywood/</link>
+      <pubDate>Thu, 09 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/bollywood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kargil war</title>
+      <link>https://www.desinerd.com/tags/kargil-war/</link>
+      <pubDate>Thu, 09 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/kargil-war/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movie</title>
+      <link>https://www.desinerd.com/tags/movie/</link>
+      <pubDate>Thu, 09 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/movie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>peepli live</title>
+      <link>https://www.desinerd.com/tags/peepli-live/</link>
+      <pubDate>Thu, 09 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/peepli-live/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rajneeti</title>
+      <link>https://www.desinerd.com/tags/rajneeti/</link>
+      <pubDate>Thu, 09 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/rajneeti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rural</title>
+      <link>https://www.desinerd.com/tags/rural/</link>
+      <pubDate>Thu, 09 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/rural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>solutions</title>
+      <link>https://www.desinerd.com/tags/solutions/</link>
+      <pubDate>Thu, 09 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/solutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>auction</title>
+      <link>https://www.desinerd.com/tags/auction/</link>
+      <pubDate>Tue, 07 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/auction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bidding</title>
+      <link>https://www.desinerd.com/tags/bidding/</link>
+      <pubDate>Tue, 07 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/bidding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>delhi</title>
+      <link>https://www.desinerd.com/tags/delhi/</link>
+      <pubDate>Tue, 07 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/delhi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>effects</title>
+      <link>https://www.desinerd.com/tags/effects/</link>
+      <pubDate>Tue, 07 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>freecycle</title>
+      <link>https://www.desinerd.com/tags/freecycle/</link>
+      <pubDate>Tue, 07 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/freecycle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health</title>
+      <link>https://www.desinerd.com/tags/health/</link>
+      <pubDate>Tue, 07 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>indians</title>
+      <link>https://www.desinerd.com/tags/indians/</link>
+      <pubDate>Tue, 07 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/indians/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iphones</title>
+      <link>https://www.desinerd.com/tags/iphones/</link>
+      <pubDate>Tue, 07 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/iphones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mock</title>
+      <link>https://www.desinerd.com/tags/mock/</link>
+      <pubDate>Tue, 07 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/mock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>psychology</title>
+      <link>https://www.desinerd.com/tags/psychology/</link>
+      <pubDate>Tue, 07 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/psychology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>suck</title>
+      <link>https://www.desinerd.com/tags/suck/</link>
+      <pubDate>Tue, 07 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/suck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>touchscreen</title>
+      <link>https://www.desinerd.com/tags/touchscreen/</link>
+      <pubDate>Tue, 07 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/touchscreen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>comments</title>
+      <link>https://www.desinerd.com/tags/comments/</link>
+      <pubDate>Mon, 02 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/comments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>files</title>
+      <link>https://www.desinerd.com/tags/files/</link>
+      <pubDate>Mon, 02 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/files/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gd</title>
+      <link>https://www.desinerd.com/tags/gd/</link>
+      <pubDate>Mon, 02 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/gd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jpeg</title>
+      <link>https://www.desinerd.com/tags/jpeg/</link>
+      <pubDate>Mon, 02 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/jpeg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>languages</title>
+      <link>https://www.desinerd.com/tags/languages/</link>
+      <pubDate>Mon, 02 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/languages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nested</title>
+      <link>https://www.desinerd.com/tags/nested/</link>
+      <pubDate>Mon, 02 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/nested/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>otrs</title>
+      <link>https://www.desinerd.com/tags/otrs/</link>
+      <pubDate>Mon, 02 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/otrs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>php</title>
+      <link>https://www.desinerd.com/tags/php/</link>
+      <pubDate>Mon, 02 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://www.desinerd.com/tags/programming/</link>
+      <pubDate>Mon, 02 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>support</title>
+      <link>https://www.desinerd.com/tags/support/</link>
+      <pubDate>Mon, 02 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/support/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clock</title>
+      <link>https://www.desinerd.com/tags/clock/</link>
+      <pubDate>Fri, 28 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/clock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cms</title>
+      <link>https://www.desinerd.com/tags/cms/</link>
+      <pubDate>Fri, 28 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/cms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>django</title>
+      <link>https://www.desinerd.com/tags/django/</link>
+      <pubDate>Fri, 28 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>djangocms</title>
+      <link>https://www.desinerd.com/tags/djangocms/</link>
+      <pubDate>Fri, 28 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/djangocms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>extension</title>
+      <link>https://www.desinerd.com/tags/extension/</link>
+      <pubDate>Fri, 28 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/extension/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>feincms</title>
+      <link>https://www.desinerd.com/tags/feincms/</link>
+      <pubDate>Fri, 28 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/feincms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>google</title>
+      <link>https://www.desinerd.com/tags/google/</link>
+      <pubDate>Fri, 28 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>strength</title>
+      <link>https://www.desinerd.com/tags/strength/</link>
+      <pubDate>Fri, 28 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/strength/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>weak</title>
+      <link>https://www.desinerd.com/tags/weak/</link>
+      <pubDate>Fri, 28 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/weak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>world</title>
+      <link>https://www.desinerd.com/tags/world/</link>
+      <pubDate>Fri, 28 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>add</title>
+      <link>https://www.desinerd.com/tags/add/</link>
+      <pubDate>Sun, 16 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/add/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cello</title>
+      <link>https://www.desinerd.com/tags/cello/</link>
+      <pubDate>Sun, 16 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/cello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gen</title>
+      <link>https://www.desinerd.com/tags/gen/</link>
+      <pubDate>Sun, 16 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/gen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pen</title>
+      <link>https://www.desinerd.com/tags/pen/</link>
+      <pubDate>Sun, 16 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/pen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lotus</title>
+      <link>https://www.desinerd.com/tags/lotus/</link>
+      <pubDate>Sun, 04 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/lotus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>malayasia</title>
+      <link>https://www.desinerd.com/tags/malayasia/</link>
+      <pubDate>Sun, 04 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/malayasia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Newey</title>
+      <link>https://www.desinerd.com/tags/newey/</link>
+      <pubDate>Sun, 04 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/newey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redbull</title>
+      <link>https://www.desinerd.com/tags/redbull/</link>
+      <pubDate>Sun, 04 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/redbull/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sepang</title>
+      <link>https://www.desinerd.com/tags/sepang/</link>
+      <pubDate>Sun, 04 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/sepang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>error</title>
+      <link>https://www.desinerd.com/tags/error/</link>
+      <pubDate>Sat, 03 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/error/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imagecreatetruecolor</title>
+      <link>https://www.desinerd.com/tags/imagecreatetruecolor/</link>
+      <pubDate>Sat, 03 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/imagecreatetruecolor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>library</title>
+      <link>https://www.desinerd.com/tags/library/</link>
+      <pubDate>Sat, 03 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/library/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>php5</title>
+      <link>https://www.desinerd.com/tags/php5/</link>
+      <pubDate>Sat, 03 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/php5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cron</title>
+      <link>https://www.desinerd.com/tags/cron/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/cron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cron_last</title>
+      <link>https://www.desinerd.com/tags/cron_last/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/cron_last/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cron_semaphore</title>
+      <link>https://www.desinerd.com/tags/cron_semaphore/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/cron_semaphore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>drupal</title>
+      <link>https://www.desinerd.com/tags/drupal/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/drupal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://www.desinerd.com/tags/index/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>integration</title>
+      <link>https://www.desinerd.com/tags/integration/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>issues</title>
+      <link>https://www.desinerd.com/tags/issues/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/issues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>php.ini</title>
+      <link>https://www.desinerd.com/tags/php.ini/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/php.ini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rhel5</title>
+      <link>https://www.desinerd.com/tags/rhel5/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/rhel5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>search</title>
+      <link>https://www.desinerd.com/tags/search/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>semaphore</title>
+      <link>https://www.desinerd.com/tags/semaphore/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/semaphore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>solr</title>
+      <link>https://www.desinerd.com/tags/solr/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/solr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tomcat</title>
+      <link>https://www.desinerd.com/tags/tomcat/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/tomcat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>https://www.desinerd.com/tags/blog/</link>
+      <pubDate>Tue, 30 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blogosphere</title>
+      <link>https://www.desinerd.com/tags/blogosphere/</link>
+      <pubDate>Tue, 30 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/blogosphere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>list</title>
+      <link>https://www.desinerd.com/tags/list/</link>
+      <pubDate>Tue, 30 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tinyurl</title>
+      <link>https://www.desinerd.com/tags/tinyurl/</link>
+      <pubDate>Tue, 30 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/tinyurl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wordpresslib</title>
+      <link>https://www.desinerd.com/tags/wordpresslib/</link>
+      <pubDate>Tue, 30 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/wordpresslib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>casey</title>
+      <link>https://www.desinerd.com/tags/casey/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/casey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chuck</title>
+      <link>https://www.desinerd.com/tags/chuck/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/chuck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cook.season 4</title>
+      <link>https://www.desinerd.com/tags/cook.season-4/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/cook.season-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dark</title>
+      <link>https://www.desinerd.com/tags/dark/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/dark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>desi</title>
+      <link>https://www.desinerd.com/tags/desi/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/desi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>effy</title>
+      <link>https://www.desinerd.com/tags/effy/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/effy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>espisode 10</title>
+      <link>https://www.desinerd.com/tags/espisode-10/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/espisode-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>freddie</title>
+      <link>https://www.desinerd.com/tags/freddie/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/freddie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>installation</title>
+      <link>https://www.desinerd.com/tags/installation/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/installation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>john</title>
+      <link>https://www.desinerd.com/tags/john/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/john/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>media</title>
+      <link>https://www.desinerd.com/tags/media/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>monit</title>
+      <link>https://www.desinerd.com/tags/monit/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/monit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>munin</title>
+      <link>https://www.desinerd.com/tags/munin/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/munin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>munin-node</title>
+      <link>https://www.desinerd.com/tags/munin-node/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/munin-node/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nerd</title>
+      <link>https://www.desinerd.com/tags/nerd/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/nerd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>randy</title>
+      <link>https://www.desinerd.com/tags/randy/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/randy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>repo</title>
+      <link>https://www.desinerd.com/tags/repo/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/repo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rhel</title>
+      <link>https://www.desinerd.com/tags/rhel/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/rhel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>season 3</title>
+      <link>https://www.desinerd.com/tags/season-3/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/season-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>skins</title>
+      <link>https://www.desinerd.com/tags/skins/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/skins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social</title>
+      <link>https://www.desinerd.com/tags/social/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technically</title>
+      <link>https://www.desinerd.com/tags/technically/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/technically/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tony</title>
+      <link>https://www.desinerd.com/tags/tony/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/tony/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yum</title>
+      <link>https://www.desinerd.com/tags/yum/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/yum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>budget</title>
+      <link>https://www.desinerd.com/tags/budget/</link>
+      <pubDate>Thu, 11 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/budget/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bull</title>
+      <link>https://www.desinerd.com/tags/bull/</link>
+      <pubDate>Thu, 11 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/bull/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>caps</title>
+      <link>https://www.desinerd.com/tags/caps/</link>
+      <pubDate>Thu, 11 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/caps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cfd</title>
+      <link>https://www.desinerd.com/tags/cfd/</link>
+      <pubDate>Thu, 11 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/cfd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>espn</title>
+      <link>https://www.desinerd.com/tags/espn/</link>
+      <pubDate>Thu, 11 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/espn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fantasy</title>
+      <link>https://www.desinerd.com/tags/fantasy/</link>
+      <pubDate>Thu, 11 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/fantasy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fw32</title>
+      <link>https://www.desinerd.com/tags/fw32/</link>
+      <pubDate>Thu, 11 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/fw32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>league</title>
+      <link>https://www.desinerd.com/tags/league/</link>
+      <pubDate>Thu, 11 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/league/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nick</title>
+      <link>https://www.desinerd.com/tags/nick/</link>
+      <pubDate>Thu, 11 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/nick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nico</title>
+      <link>https://www.desinerd.com/tags/nico/</link>
+      <pubDate>Thu, 11 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/nico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>private.india</title>
+      <link>https://www.desinerd.com/tags/private.india/</link>
+      <pubDate>Thu, 11 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/private.india/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rb6</title>
+      <link>https://www.desinerd.com/tags/rb6/</link>
+      <pubDate>Thu, 11 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/rb6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reb</title>
+      <link>https://www.desinerd.com/tags/reb/</link>
+      <pubDate>Thu, 11 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/reb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vettel</title>
+      <link>https://www.desinerd.com/tags/vettel/</link>
+      <pubDate>Thu, 11 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/vettel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webber</title>
+      <link>https://www.desinerd.com/tags/webber/</link>
+      <pubDate>Thu, 11 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/webber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wirth</title>
+      <link>https://www.desinerd.com/tags/wirth/</link>
+      <pubDate>Thu, 11 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/wirth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>art</title>
+      <link>https://www.desinerd.com/tags/art/</link>
+      <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>arthashastra</title>
+      <link>https://www.desinerd.com/tags/arthashastra/</link>
+      <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/arthashastra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>books</title>
+      <link>https://www.desinerd.com/tags/books/</link>
+      <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>borgia</title>
+      <link>https://www.desinerd.com/tags/borgia/</link>
+      <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/borgia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>caesar</title>
+      <link>https://www.desinerd.com/tags/caesar/</link>
+      <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/caesar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>entrepreneur</title>
+      <link>https://www.desinerd.com/tags/entrepreneur/</link>
+      <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/entrepreneur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>journeys</title>
+      <link>https://www.desinerd.com/tags/journeys/</link>
+      <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/journeys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>manu</title>
+      <link>https://www.desinerd.com/tags/manu/</link>
+      <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/manu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mitra</title>
+      <link>https://www.desinerd.com/tags/mitra/</link>
+      <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/mitra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prince</title>
+      <link>https://www.desinerd.com/tags/prince/</link>
+      <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/prince/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sramana</title>
+      <link>https://www.desinerd.com/tags/sramana/</link>
+      <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/sramana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>war</title>
+      <link>https://www.desinerd.com/tags/war/</link>
+      <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/war/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>abhay</title>
+      <link>https://www.desinerd.com/tags/abhay/</link>
+      <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/abhay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alps</title>
+      <link>https://www.desinerd.com/tags/alps/</link>
+      <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/alps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>benegal</title>
+      <link>https://www.desinerd.com/tags/benegal/</link>
+      <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/benegal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cinema</title>
+      <link>https://www.desinerd.com/tags/cinema/</link>
+      <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/cinema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deol</title>
+      <link>https://www.desinerd.com/tags/deol/</link>
+      <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/deol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dev</title>
+      <link>https://www.desinerd.com/tags/dev/</link>
+      <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gender</title>
+      <link>https://www.desinerd.com/tags/gender/</link>
+      <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/gender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genderless</title>
+      <link>https://www.desinerd.com/tags/genderless/</link>
+      <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/genderless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>it</title>
+      <link>https://www.desinerd.com/tags/it/</link>
+      <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/it/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kutch</title>
+      <link>https://www.desinerd.com/tags/kutch/</link>
+      <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/kutch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open</title>
+      <link>https://www.desinerd.com/tags/open/</link>
+      <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/open/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open source budget</title>
+      <link>https://www.desinerd.com/tags/open-source-budget/</link>
+      <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/open-source-budget/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rann</title>
+      <link>https://www.desinerd.com/tags/rann/</link>
+      <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/rann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>road</title>
+      <link>https://www.desinerd.com/tags/road/</link>
+      <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/road/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>https://www.desinerd.com/tags/software/</link>
+      <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>source</title>
+      <link>https://www.desinerd.com/tags/source/</link>
+      <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>srk</title>
+      <link>https://www.desinerd.com/tags/srk/</link>
+      <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/srk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>utah</title>
+      <link>https://www.desinerd.com/tags/utah/</link>
+      <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/utah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>women</title>
+      <link>https://www.desinerd.com/tags/women/</link>
+      <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/women/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>install</title>
+      <link>https://www.desinerd.com/tags/install/</link>
+      <pubDate>Mon, 08 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/install/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jail</title>
+      <link>https://www.desinerd.com/tags/jail/</link>
+      <pubDate>Mon, 08 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/jail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://www.desinerd.com/tags/linux/</link>
+      <pubDate>Mon, 08 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>portsnap</title>
+      <link>https://www.desinerd.com/tags/portsnap/</link>
+      <pubDate>Mon, 08 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/portsnap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>abbas</title>
+      <link>https://www.desinerd.com/tags/abbas/</link>
+      <pubDate>Wed, 03 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/abbas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cup</title>
+      <link>https://www.desinerd.com/tags/cup/</link>
+      <pubDate>Wed, 03 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/cup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dragflicks</title>
+      <link>https://www.desinerd.com/tags/dragflicks/</link>
+      <pubDate>Wed, 03 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/dragflicks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hockey</title>
+      <link>https://www.desinerd.com/tags/hockey/</link>
+      <pubDate>Wed, 03 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/hockey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pakistan</title>
+      <link>https://www.desinerd.com/tags/pakistan/</link>
+      <pubDate>Wed, 03 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/pakistan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sohail</title>
+      <link>https://www.desinerd.com/tags/sohail/</link>
+      <pubDate>Wed, 03 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/sohail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>taekema</title>
+      <link>https://www.desinerd.com/tags/taekema/</link>
+      <pubDate>Wed, 03 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/taekema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>calling</title>
+      <link>https://www.desinerd.com/tags/calling/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/calling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>club</title>
+      <link>https://www.desinerd.com/tags/club/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/club/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>egg</title>
+      <link>https://www.desinerd.com/tags/egg/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/egg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fight</title>
+      <link>https://www.desinerd.com/tags/fight/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/fight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>karthik</title>
+      <link>https://www.desinerd.com/tags/karthik/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/karthik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MPD</title>
+      <link>https://www.desinerd.com/tags/mpd/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/mpd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phalnuck</title>
+      <link>https://www.desinerd.com/tags/phalnuck/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/phalnuck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phone</title>
+      <link>https://www.desinerd.com/tags/phone/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/phone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technology</title>
+      <link>https://www.desinerd.com/tags/technology/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chandok</title>
+      <link>https://www.desinerd.com/tags/chandok/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/chandok/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chris</title>
+      <link>https://www.desinerd.com/tags/chris/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/chris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cosworth</title>
+      <link>https://www.desinerd.com/tags/cosworth/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/cosworth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dallara</title>
+      <link>https://www.desinerd.com/tags/dallara/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/dallara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dexter</title>
+      <link>https://www.desinerd.com/tags/dexter/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/dexter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>disfunctional</title>
+      <link>https://www.desinerd.com/tags/disfunctional/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/disfunctional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>formula</title>
+      <link>https://www.desinerd.com/tags/formula/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/formula/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golf</title>
+      <link>https://www.desinerd.com/tags/golf/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/golf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>home</title>
+      <link>https://www.desinerd.com/tags/home/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>karun</title>
+      <link>https://www.desinerd.com/tags/karun/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/karun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>renault</title>
+      <link>https://www.desinerd.com/tags/renault/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/renault/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>season</title>
+      <link>https://www.desinerd.com/tags/season/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/season/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sitcom</title>
+      <link>https://www.desinerd.com/tags/sitcom/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/sitcom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sports</title>
+      <link>https://www.desinerd.com/tags/sports/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/sports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stefan</title>
+      <link>https://www.desinerd.com/tags/stefan/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/stefan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tennis</title>
+      <link>https://www.desinerd.com/tags/tennis/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/tennis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uk</title>
+      <link>https://www.desinerd.com/tags/uk/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/uk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>USf1</title>
+      <link>https://www.desinerd.com/tags/usf1/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/usf1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virgin</title>
+      <link>https://www.desinerd.com/tags/virgin/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/virgin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virginf1</title>
+      <link>https://www.desinerd.com/tags/virginf1/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/virginf1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vulture</title>
+      <link>https://www.desinerd.com/tags/vulture/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/vulture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wii</title>
+      <link>https://www.desinerd.com/tags/wii/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/wii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>basics</title>
+      <link>https://www.desinerd.com/tags/basics/</link>
+      <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/basics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>corenetworks</title>
+      <link>https://www.desinerd.com/tags/corenetworks/</link>
+      <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/corenetworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>desinerd</title>
+      <link>https://www.desinerd.com/tags/desinerd/</link>
+      <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/desinerd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dipankar</title>
+      <link>https://www.desinerd.com/tags/dipankar/</link>
+      <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/dipankar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dipankar.name</title>
+      <link>https://www.desinerd.com/tags/dipankar.name/</link>
+      <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/dipankar.name/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>new</title>
+      <link>https://www.desinerd.com/tags/new/</link>
+      <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sarkar</title>
+      <link>https://www.desinerd.com/tags/sarkar/</link>
+      <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/sarkar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>server</title>
+      <link>https://www.desinerd.com/tags/server/</link>
+      <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>started</title>
+      <link>https://www.desinerd.com/tags/started/</link>
+      <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/started/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>starting</title>
+      <link>https://www.desinerd.com/tags/starting/</link>
+      <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/starting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>subjective</title>
+      <link>https://www.desinerd.com/tags/subjective/</link>
+      <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/subjective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>electrosocial</title>
+      <link>https://www.desinerd.com/tags/electrosocial/</link>
+      <pubDate>Wed, 02 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/electrosocial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>family</title>
+      <link>https://www.desinerd.com/tags/family/</link>
+      <pubDate>Wed, 02 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/family/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kwippy</title>
+      <link>https://www.desinerd.com/tags/kwippy/</link>
+      <pubDate>Wed, 02 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/kwippy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mpower</title>
+      <link>https://www.desinerd.com/tags/mpower/</link>
+      <pubDate>Wed, 02 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/mpower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>posts</title>
+      <link>https://www.desinerd.com/tags/posts/</link>
+      <pubDate>Wed, 02 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sirtaj</title>
+      <link>https://www.desinerd.com/tags/sirtaj/</link>
+      <pubDate>Wed, 02 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/sirtaj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stir-e</title>
+      <link>https://www.desinerd.com/tags/stir-e/</link>
+      <pubDate>Wed, 02 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/stir-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>supreet</title>
+      <link>https://www.desinerd.com/tags/supreet/</link>
+      <pubDate>Wed, 02 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/supreet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tweet</title>
+      <link>https://www.desinerd.com/tags/tweet/</link>
+      <pubDate>Wed, 02 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/tweet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>afganisan</title>
+      <link>https://www.desinerd.com/tags/afganisan/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/afganisan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>archive</title>
+      <link>https://www.desinerd.com/tags/archive/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/archive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bangalore</title>
+      <link>https://www.desinerd.com/tags/bangalore/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/bangalore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chennai</title>
+      <link>https://www.desinerd.com/tags/chennai/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/chennai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>economic crisis</title>
+      <link>https://www.desinerd.com/tags/economic-crisis/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/economic-crisis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iraq</title>
+      <link>https://www.desinerd.com/tags/iraq/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/iraq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>japan</title>
+      <link>https://www.desinerd.com/tags/japan/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/japan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lookup</title>
+      <link>https://www.desinerd.com/tags/lookup/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/lookup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mla</title>
+      <link>https://www.desinerd.com/tags/mla/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/mla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multi-polar</title>
+      <link>https://www.desinerd.com/tags/multi-polar/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/multi-polar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mumbai</title>
+      <link>https://www.desinerd.com/tags/mumbai/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/mumbai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>politician</title>
+      <link>https://www.desinerd.com/tags/politician/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/politician/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>politics</title>
+      <link>https://www.desinerd.com/tags/politics/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>queue</title>
+      <link>https://www.desinerd.com/tags/queue/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/queue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rails</title>
+      <link>https://www.desinerd.com/tags/rails/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/rails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sets</title>
+      <link>https://www.desinerd.com/tags/sets/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/sets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social media</title>
+      <link>https://www.desinerd.com/tags/social-media/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uni-polar</title>
+      <link>https://www.desinerd.com/tags/uni-polar/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/uni-polar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>US</title>
+      <link>https://www.desinerd.com/tags/us/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/us/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>background</title>
+      <link>https://www.desinerd.com/tags/background/</link>
+      <pubDate>Fri, 18 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/background/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chills</title>
+      <link>https://www.desinerd.com/tags/chills/</link>
+      <pubDate>Fri, 18 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/chills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>https://www.desinerd.com/tags/code/</link>
+      <pubDate>Fri, 18 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>efficient</title>
+      <link>https://www.desinerd.com/tags/efficient/</link>
+      <pubDate>Fri, 18 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fatigue</title>
+      <link>https://www.desinerd.com/tags/fatigue/</link>
+      <pubDate>Fri, 18 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/fatigue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fever</title>
+      <link>https://www.desinerd.com/tags/fever/</link>
+      <pubDate>Fri, 18 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/fever/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flu</title>
+      <link>https://www.desinerd.com/tags/flu/</link>
+      <pubDate>Fri, 18 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/flu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fonts</title>
+      <link>https://www.desinerd.com/tags/fonts/</link>
+      <pubDate>Fri, 18 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/fonts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>h1n1</title>
+      <link>https://www.desinerd.com/tags/h1n1/</link>
+      <pubDate>Fri, 18 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/h1n1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>j2ee</title>
+      <link>https://www.desinerd.com/tags/j2ee/</link>
+      <pubDate>Fri, 18 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/j2ee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jms</title>
+      <link>https://www.desinerd.com/tags/jms/</link>
+      <pubDate>Fri, 18 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/jms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>marketing</title>
+      <link>https://www.desinerd.com/tags/marketing/</link>
+      <pubDate>Fri, 18 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>memcache</title>
+      <link>https://www.desinerd.com/tags/memcache/</link>
+      <pubDate>Fri, 18 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/memcache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pil</title>
+      <link>https://www.desinerd.com/tags/pil/</link>
+      <pubDate>Fri, 18 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/pil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swine</title>
+      <link>https://www.desinerd.com/tags/swine/</link>
+      <pubDate>Fri, 18 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/swine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transparency</title>
+      <link>https://www.desinerd.com/tags/transparency/</link>
+      <pubDate>Fri, 18 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/transparency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>twitter</title>
+      <link>https://www.desinerd.com/tags/twitter/</link>
+      <pubDate>Fri, 18 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visible</title>
+      <link>https://www.desinerd.com/tags/visible/</link>
+      <pubDate>Fri, 18 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/visible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bank</title>
+      <link>https://www.desinerd.com/tags/bank/</link>
+      <pubDate>Thu, 17 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/bank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>entrepreneurship</title>
+      <link>https://www.desinerd.com/tags/entrepreneurship/</link>
+      <pubDate>Thu, 17 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/entrepreneurship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fund</title>
+      <link>https://www.desinerd.com/tags/fund/</link>
+      <pubDate>Thu, 17 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/fund/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>good</title>
+      <link>https://www.desinerd.com/tags/good/</link>
+      <pubDate>Thu, 17 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/good/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>non profit</title>
+      <link>https://www.desinerd.com/tags/non-profit/</link>
+      <pubDate>Thu, 17 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/non-profit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>passionate</title>
+      <link>https://www.desinerd.com/tags/passionate/</link>
+      <pubDate>Thu, 17 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/passionate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stire</title>
+      <link>https://www.desinerd.com/tags/stire/</link>
+      <pubDate>Thu, 17 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/stire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unique</title>
+      <link>https://www.desinerd.com/tags/unique/</link>
+      <pubDate>Thu, 17 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/unique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>venture</title>
+      <link>https://www.desinerd.com/tags/venture/</link>
+      <pubDate>Thu, 17 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/venture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>youth</title>
+      <link>https://www.desinerd.com/tags/youth/</link>
+      <pubDate>Thu, 17 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/youth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plugin</title>
+      <link>https://www.desinerd.com/tags/plugin/</link>
+      <pubDate>Thu, 20 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/plugin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>upload</title>
+      <link>https://www.desinerd.com/tags/upload/</link>
+      <pubDate>Thu, 20 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/upload/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>airport</title>
+      <link>https://www.desinerd.com/tags/airport/</link>
+      <pubDate>Fri, 17 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/airport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bad</title>
+      <link>https://www.desinerd.com/tags/bad/</link>
+      <pubDate>Fri, 17 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/bad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>corruption</title>
+      <link>https://www.desinerd.com/tags/corruption/</link>
+      <pubDate>Fri, 17 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/corruption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hyderabad</title>
+      <link>https://www.desinerd.com/tags/hyderabad/</link>
+      <pubDate>Fri, 17 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/hyderabad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>infrastrucure</title>
+      <link>https://www.desinerd.com/tags/infrastrucure/</link>
+      <pubDate>Fri, 17 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/infrastrucure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>private</title>
+      <link>https://www.desinerd.com/tags/private/</link>
+      <pubDate>Fri, 17 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/private/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>public</title>
+      <link>https://www.desinerd.com/tags/public/</link>
+      <pubDate>Fri, 17 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/public/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>taxi</title>
+      <link>https://www.desinerd.com/tags/taxi/</link>
+      <pubDate>Fri, 17 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/taxi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ugly</title>
+      <link>https://www.desinerd.com/tags/ugly/</link>
+      <pubDate>Fri, 17 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/ugly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>actions</title>
+      <link>https://www.desinerd.com/tags/actions/</link>
+      <pubDate>Wed, 15 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/actions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>change</title>
+      <link>https://www.desinerd.com/tags/change/</link>
+      <pubDate>Wed, 15 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>china</title>
+      <link>https://www.desinerd.com/tags/china/</link>
+      <pubDate>Wed, 15 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/china/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>climate</title>
+      <link>https://www.desinerd.com/tags/climate/</link>
+      <pubDate>Wed, 15 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/climate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>future</title>
+      <link>https://www.desinerd.com/tags/future/</link>
+      <pubDate>Wed, 15 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/future/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>green</title>
+      <link>https://www.desinerd.com/tags/green/</link>
+      <pubDate>Wed, 15 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/green/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>july</title>
+      <link>https://www.desinerd.com/tags/july/</link>
+      <pubDate>Wed, 15 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/july/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>monsoon</title>
+      <link>https://www.desinerd.com/tags/monsoon/</link>
+      <pubDate>Wed, 15 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/monsoon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>peace</title>
+      <link>https://www.desinerd.com/tags/peace/</link>
+      <pubDate>Wed, 15 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/peace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rbi</title>
+      <link>https://www.desinerd.com/tags/rbi/</link>
+      <pubDate>Wed, 15 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/rbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>@Work</title>
+      <link>https://www.desinerd.com/tags/@work/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/@work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>https://www.desinerd.com/tags/2/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clean</title>
+      <link>https://www.desinerd.com/tags/clean/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/clean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>focus</title>
+      <link>https://www.desinerd.com/tags/focus/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/focus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grid</title>
+      <link>https://www.desinerd.com/tags/grid/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/grid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>heat</title>
+      <link>https://www.desinerd.com/tags/heat/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/heat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hours</title>
+      <link>https://www.desinerd.com/tags/hours/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/hours/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interesting</title>
+      <link>https://www.desinerd.com/tags/interesting/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/interesting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>https://www.desinerd.com/tags/javascript/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>may</title>
+      <link>https://www.desinerd.com/tags/may/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/may/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>permanent</title>
+      <link>https://www.desinerd.com/tags/permanent/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/permanent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rainfall</title>
+      <link>https://www.desinerd.com/tags/rainfall/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/rainfall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>relief</title>
+      <link>https://www.desinerd.com/tags/relief/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/relief/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seo</title>
+      <link>https://www.desinerd.com/tags/seo/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/seo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stats</title>
+      <link>https://www.desinerd.com/tags/stats/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/stats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tastes</title>
+      <link>https://www.desinerd.com/tags/tastes/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/tastes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>urls</title>
+      <link>https://www.desinerd.com/tags/urls/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/urls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>attempt</title>
+      <link>https://www.desinerd.com/tags/attempt/</link>
+      <pubDate>Sun, 21 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/attempt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>beat</title>
+      <link>https://www.desinerd.com/tags/beat/</link>
+      <pubDate>Sun, 21 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/beat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>https://www.desinerd.com/tags/first/</link>
+      <pubDate>Sun, 21 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>https://www.desinerd.com/tags/music/</link>
+      <pubDate>Sun, 21 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>techno</title>
+      <link>https://www.desinerd.com/tags/techno/</link>
+      <pubDate>Sun, 21 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/techno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trance</title>
+      <link>https://www.desinerd.com/tags/trance/</link>
+      <pubDate>Sun, 21 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/trance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2009</title>
+      <link>https://www.desinerd.com/tags/2009/</link>
+      <pubDate>Sat, 20 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>challenge</title>
+      <link>https://www.desinerd.com/tags/challenge/</link>
+      <pubDate>Sat, 20 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/challenge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>design</title>
+      <link>https://www.desinerd.com/tags/design/</link>
+      <pubDate>Sat, 20 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interface</title>
+      <link>https://www.desinerd.com/tags/interface/</link>
+      <pubDate>Sat, 20 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/interface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mozilla</title>
+      <link>https://www.desinerd.com/tags/mozilla/</link>
+      <pubDate>Sat, 20 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/mozilla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>user</title>
+      <link>https://www.desinerd.com/tags/user/</link>
+      <pubDate>Sat, 20 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/user/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emergence</title>
+      <link>https://www.desinerd.com/tags/emergence/</link>
+      <pubDate>Wed, 17 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/emergence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ethics</title>
+      <link>https://www.desinerd.com/tags/ethics/</link>
+      <pubDate>Wed, 17 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>internship</title>
+      <link>https://www.desinerd.com/tags/internship/</link>
+      <pubDate>Wed, 17 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/internship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>outsourcing</title>
+      <link>https://www.desinerd.com/tags/outsourcing/</link>
+      <pubDate>Wed, 17 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/outsourcing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tools</title>
+      <link>https://www.desinerd.com/tags/tools/</link>
+      <pubDate>Wed, 17 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>greep</title>
+      <link>https://www.desinerd.com/tags/greep/</link>
+      <pubDate>Mon, 25 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/greep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ministry</title>
+      <link>https://www.desinerd.com/tags/ministry/</link>
+      <pubDate>Mon, 25 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/ministry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>olympiad</title>
+      <link>https://www.desinerd.com/tags/olympiad/</link>
+      <pubDate>Mon, 25 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/olympiad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tera</title>
+      <link>https://www.desinerd.com/tags/tera/</link>
+      <pubDate>Mon, 25 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/tera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terraquiz</title>
+      <link>https://www.desinerd.com/tags/terraquiz/</link>
+      <pubDate>Mon, 25 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/terraquiz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gandhi</title>
+      <link>https://www.desinerd.com/tags/gandhi/</link>
+      <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/gandhi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nomination</title>
+      <link>https://www.desinerd.com/tags/nomination/</link>
+      <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/nomination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pravin</title>
+      <link>https://www.desinerd.com/tags/pravin/</link>
+      <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/pravin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proto</title>
+      <link>https://www.desinerd.com/tags/proto/</link>
+      <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/proto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pune</title>
+      <link>https://www.desinerd.com/tags/pune/</link>
+      <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/pune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seedfund</title>
+      <link>https://www.desinerd.com/tags/seedfund/</link>
+      <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/seedfund/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortlist</title>
+      <link>https://www.desinerd.com/tags/shortlist/</link>
+      <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/shortlist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tally</title>
+      <link>https://www.desinerd.com/tags/tally/</link>
+      <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/tally/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>company</title>
+      <link>https://www.desinerd.com/tags/company/</link>
+      <pubDate>Wed, 15 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/company/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA</title>
+      <link>https://www.desinerd.com/tags/dna/</link>
+      <pubDate>Wed, 15 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/dna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ethical</title>
+      <link>https://www.desinerd.com/tags/ethical/</link>
+      <pubDate>Wed, 15 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/ethical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>importer</title>
+      <link>https://www.desinerd.com/tags/importer/</link>
+      <pubDate>Wed, 15 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/importer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>job</title>
+      <link>https://www.desinerd.com/tags/job/</link>
+      <pubDate>Wed, 15 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/job/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jobbing</title>
+      <link>https://www.desinerd.com/tags/jobbing/</link>
+      <pubDate>Wed, 15 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/jobbing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kavan</title>
+      <link>https://www.desinerd.com/tags/kavan/</link>
+      <pubDate>Wed, 15 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/kavan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mosambe</title>
+      <link>https://www.desinerd.com/tags/mosambe/</link>
+      <pubDate>Wed, 15 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/mosambe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>platform</title>
+      <link>https://www.desinerd.com/tags/platform/</link>
+      <pubDate>Wed, 15 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/platform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>posting</title>
+      <link>https://www.desinerd.com/tags/posting/</link>
+      <pubDate>Wed, 15 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/posting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ravi</title>
+      <link>https://www.desinerd.com/tags/ravi/</link>
+      <pubDate>Wed, 15 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/ravi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>different</title>
+      <link>https://www.desinerd.com/tags/different/</link>
+      <pubDate>Tue, 07 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/different/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>focusing</title>
+      <link>https://www.desinerd.com/tags/focusing/</link>
+      <pubDate>Tue, 07 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/focusing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://www.desinerd.com/tags/personal/</link>
+      <pubDate>Tue, 07 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>problems</title>
+      <link>https://www.desinerd.com/tags/problems/</link>
+      <pubDate>Tue, 07 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rant</title>
+      <link>https://www.desinerd.com/tags/rant/</link>
+      <pubDate>Tue, 07 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/rant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>right</title>
+      <link>https://www.desinerd.com/tags/right/</link>
+      <pubDate>Tue, 07 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/right/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aspx</title>
+      <link>https://www.desinerd.com/tags/aspx/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/aspx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bugs</title>
+      <link>https://www.desinerd.com/tags/bugs/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/bugs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C</title>
+      <link>https://www.desinerd.com/tags/c/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clickable</title>
+      <link>https://www.desinerd.com/tags/clickable/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/clickable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coder</title>
+      <link>https://www.desinerd.com/tags/coder/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/coder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>engine</title>
+      <link>https://www.desinerd.com/tags/engine/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/engine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>experience</title>
+      <link>https://www.desinerd.com/tags/experience/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mvc</title>
+      <link>https://www.desinerd.com/tags/mvc/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/mvc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>net</title>
+      <link>https://www.desinerd.com/tags/net/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>painful</title>
+      <link>https://www.desinerd.com/tags/painful/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/painful/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sem</title>
+      <link>https://www.desinerd.com/tags/sem/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/sem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>death</title>
+      <link>https://www.desinerd.com/tags/death/</link>
+      <pubDate>Mon, 23 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/death/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>director</title>
+      <link>https://www.desinerd.com/tags/director/</link>
+      <pubDate>Mon, 23 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/director/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iit</title>
+      <link>https://www.desinerd.com/tags/iit/</link>
+      <pubDate>Mon, 23 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/iit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>indian</title>
+      <link>https://www.desinerd.com/tags/indian/</link>
+      <pubDate>Mon, 23 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/indian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>institute</title>
+      <link>https://www.desinerd.com/tags/institute/</link>
+      <pubDate>Mon, 23 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/institute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kharagpur</title>
+      <link>https://www.desinerd.com/tags/kharagpur/</link>
+      <pubDate>Mon, 23 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/kharagpur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>suspension</title>
+      <link>https://www.desinerd.com/tags/suspension/</link>
+      <pubDate>Mon, 23 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/suspension/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bra</title>
+      <link>https://www.desinerd.com/tags/bra/</link>
+      <pubDate>Fri, 20 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/bra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>camp</title>
+      <link>https://www.desinerd.com/tags/camp/</link>
+      <pubDate>Fri, 20 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/camp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kashmir</title>
+      <link>https://www.desinerd.com/tags/kashmir/</link>
+      <pubDate>Fri, 20 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/kashmir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mir</title>
+      <link>https://www.desinerd.com/tags/mir/</link>
+      <pubDate>Fri, 20 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/mir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nazim</title>
+      <link>https://www.desinerd.com/tags/nazim/</link>
+      <pubDate>Fri, 20 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/nazim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sethi</title>
+      <link>https://www.desinerd.com/tags/sethi/</link>
+      <pubDate>Fri, 20 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/sethi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>version</title>
+      <link>https://www.desinerd.com/tags/version/</link>
+      <pubDate>Fri, 20 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/version/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video</title>
+      <link>https://www.desinerd.com/tags/video/</link>
+      <pubDate>Fri, 20 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>awesome</title>
+      <link>https://www.desinerd.com/tags/awesome/</link>
+      <pubDate>Wed, 18 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/awesome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iti</title>
+      <link>https://www.desinerd.com/tags/iti/</link>
+      <pubDate>Wed, 18 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/iti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uncyclopedia</title>
+      <link>https://www.desinerd.com/tags/uncyclopedia/</link>
+      <pubDate>Wed, 18 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/uncyclopedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>day</title>
+      <link>https://www.desinerd.com/tags/day/</link>
+      <pubDate>Tue, 10 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/day/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quote</title>
+      <link>https://www.desinerd.com/tags/quote/</link>
+      <pubDate>Tue, 10 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/quote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reward</title>
+      <link>https://www.desinerd.com/tags/reward/</link>
+      <pubDate>Tue, 10 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/reward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>anime</title>
+      <link>https://www.desinerd.com/tags/anime/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/anime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>europe</title>
+      <link>https://www.desinerd.com/tags/europe/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/europe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ghost</title>
+      <link>https://www.desinerd.com/tags/ghost/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/ghost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gits</title>
+      <link>https://www.desinerd.com/tags/gits/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/gits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>in</title>
+      <link>https://www.desinerd.com/tags/in/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/in/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jd</title>
+      <link>https://www.desinerd.com/tags/jd/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/jd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>laughing</title>
+      <link>https://www.desinerd.com/tags/laughing/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/laughing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>man</title>
+      <link>https://www.desinerd.com/tags/man/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/man/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mann</title>
+      <link>https://www.desinerd.com/tags/mann/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/mann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mediator</title>
+      <link>https://www.desinerd.com/tags/mediator/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/mediator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>salinger</title>
+      <link>https://www.desinerd.com/tags/salinger/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/salinger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shell</title>
+      <link>https://www.desinerd.com/tags/shell/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/shell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>short</title>
+      <link>https://www.desinerd.com/tags/short/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/short/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stories</title>
+      <link>https://www.desinerd.com/tags/stories/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/stories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>the</title>
+      <link>https://www.desinerd.com/tags/the/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/the/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thomas</title>
+      <link>https://www.desinerd.com/tags/thomas/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/thomas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vanishing</title>
+      <link>https://www.desinerd.com/tags/vanishing/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/vanishing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cool</title>
+      <link>https://www.desinerd.com/tags/cool/</link>
+      <pubDate>Tue, 03 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/cool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>micro</title>
+      <link>https://www.desinerd.com/tags/micro/</link>
+      <pubDate>Tue, 03 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/micro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>post</title>
+      <link>https://www.desinerd.com/tags/post/</link>
+      <pubDate>Tue, 03 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aircraft</title>
+      <link>https://www.desinerd.com/tags/aircraft/</link>
+      <pubDate>Sat, 07 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/aircraft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>comkbat</title>
+      <link>https://www.desinerd.com/tags/comkbat/</link>
+      <pubDate>Sat, 07 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/comkbat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fighter</title>
+      <link>https://www.desinerd.com/tags/fighter/</link>
+      <pubDate>Sat, 07 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/fighter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jet</title>
+      <link>https://www.desinerd.com/tags/jet/</link>
+      <pubDate>Sat, 07 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/jet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lca</title>
+      <link>https://www.desinerd.com/tags/lca/</link>
+      <pubDate>Sat, 07 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/lca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teja</title>
+      <link>https://www.desinerd.com/tags/teja/</link>
+      <pubDate>Sat, 07 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/teja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>how</title>
+      <link>https://www.desinerd.com/tags/how/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/how/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jan</title>
+      <link>https://www.desinerd.com/tags/jan/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/jan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>january</title>
+      <link>https://www.desinerd.com/tags/january/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/january/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lord</title>
+      <link>https://www.desinerd.com/tags/lord/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/lord/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network</title>
+      <link>https://www.desinerd.com/tags/network/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>networking</title>
+      <link>https://www.desinerd.com/tags/networking/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opdrage</title>
+      <link>https://www.desinerd.com/tags/opdrage/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/opdrage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proto.in</title>
+      <link>https://www.desinerd.com/tags/proto.in/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/proto.in/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>to</title>
+      <link>https://www.desinerd.com/tags/to/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/to/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>feed</title>
+      <link>https://www.desinerd.com/tags/feed/</link>
+      <pubDate>Thu, 22 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/feed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>real</title>
+      <link>https://www.desinerd.com/tags/real/</link>
+      <pubDate>Thu, 22 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/real/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>time</title>
+      <link>https://www.desinerd.com/tags/time/</link>
+      <pubDate>Thu, 22 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poster</title>
+      <link>https://www.desinerd.com/tags/poster/</link>
+      <pubDate>Tue, 20 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4</title>
+      <link>https://www.desinerd.com/tags/4/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>america</title>
+      <link>https://www.desinerd.com/tags/america/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/america/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>application</title>
+      <link>https://www.desinerd.com/tags/application/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>client</title>
+      <link>https://www.desinerd.com/tags/client/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/client/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contiki</title>
+      <link>https://www.desinerd.com/tags/contiki/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/contiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>distro</title>
+      <link>https://www.desinerd.com/tags/distro/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/distro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>imaging</title>
+      <link>https://www.desinerd.com/tags/imaging/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>late</title>
+      <link>https://www.desinerd.com/tags/late/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/late/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>more</title>
+      <link>https://www.desinerd.com/tags/more/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/more/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nes</title>
+      <link>https://www.desinerd.com/tags/nes/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/nes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>optimization</title>
+      <link>https://www.desinerd.com/tags/optimization/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>philosphy</title>
+      <link>https://www.desinerd.com/tags/philosphy/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/philosphy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pragmatism</title>
+      <link>https://www.desinerd.com/tags/pragmatism/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/pragmatism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rdesktop</title>
+      <link>https://www.desinerd.com/tags/rdesktop/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/rdesktop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>savers</title>
+      <link>https://www.desinerd.com/tags/savers/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/savers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>screen</title>
+      <link>https://www.desinerd.com/tags/screen/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/screen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shotgun</title>
+      <link>https://www.desinerd.com/tags/shotgun/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/shotgun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>timeout</title>
+      <link>https://www.desinerd.com/tags/timeout/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/timeout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>windows</title>
+      <link>https://www.desinerd.com/tags/windows/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>working</title>
+      <link>https://www.desinerd.com/tags/working/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/working/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>years</title>
+      <link>https://www.desinerd.com/tags/years/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/years/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>10</title>
+      <link>https://www.desinerd.com/tags/10/</link>
+      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2008</title>
+      <link>https://www.desinerd.com/tags/2008/</link>
+      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>abdullah</title>
+      <link>https://www.desinerd.com/tags/abdullah/</link>
+      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/abdullah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>final</title>
+      <link>https://www.desinerd.com/tags/final/</link>
+      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/final/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>happy</title>
+      <link>https://www.desinerd.com/tags/happy/</link>
+      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/happy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>moments</title>
+      <link>https://www.desinerd.com/tags/moments/</link>
+      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/moments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>omar</title>
+      <link>https://www.desinerd.com/tags/omar/</link>
+      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/omar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>register</title>
+      <link>https://www.desinerd.com/tags/register/</link>
+      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/register/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>special</title>
+      <link>https://www.desinerd.com/tags/special/</link>
+      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/special/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ten</title>
+      <link>https://www.desinerd.com/tags/ten/</link>
+      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/ten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>top</title>
+      <link>https://www.desinerd.com/tags/top/</link>
+      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/top/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>year</title>
+      <link>https://www.desinerd.com/tags/year/</link>
+      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/year/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recession</title>
+      <link>https://www.desinerd.com/tags/recession/</link>
+      <pubDate>Sat, 03 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/recession/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>strategy</title>
+      <link>https://www.desinerd.com/tags/strategy/</link>
+      <pubDate>Sat, 03 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/strategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>https://www.desinerd.com/tags/web/</link>
+      <pubDate>Sat, 03 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fastcgi</title>
+      <link>https://www.desinerd.com/tags/fastcgi/</link>
+      <pubDate>Fri, 26 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/fastcgi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>htaccess</title>
+      <link>https://www.desinerd.com/tags/htaccess/</link>
+      <pubDate>Fri, 26 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/htaccess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>joomla</title>
+      <link>https://www.desinerd.com/tags/joomla/</link>
+      <pubDate>Fri, 26 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/joomla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hit</title>
+      <link>https://www.desinerd.com/tags/hit/</link>
+      <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/hit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news</title>
+      <link>https://www.desinerd.com/tags/news/</link>
+      <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>old</title>
+      <link>https://www.desinerd.com/tags/old/</link>
+      <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/old/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pownce</title>
+      <link>https://www.desinerd.com/tags/pownce/</link>
+      <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/pownce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language</title>
+      <link>https://www.desinerd.com/tags/language/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>manmohan</title>
+      <link>https://www.desinerd.com/tags/manmohan/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/manmohan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>patil</title>
+      <link>https://www.desinerd.com/tags/patil/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/patil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shivraj</title>
+      <link>https://www.desinerd.com/tags/shivraj/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/shivraj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>singh</title>
+      <link>https://www.desinerd.com/tags/singh/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/singh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thackeray</title>
+      <link>https://www.desinerd.com/tags/thackeray/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/thackeray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bluestar</title>
+      <link>https://www.desinerd.com/tags/bluestar/</link>
+      <pubDate>Thu, 27 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/bluestar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>importan</title>
+      <link>https://www.desinerd.com/tags/importan/</link>
+      <pubDate>Thu, 27 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/importan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nsg</title>
+      <link>https://www.desinerd.com/tags/nsg/</link>
+      <pubDate>Thu, 27 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/nsg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terror</title>
+      <link>https://www.desinerd.com/tags/terror/</link>
+      <pubDate>Thu, 27 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/terror/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tv</title>
+      <link>https://www.desinerd.com/tags/tv/</link>
+      <pubDate>Thu, 27 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/tv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>foreign</title>
+      <link>https://www.desinerd.com/tags/foreign/</link>
+      <pubDate>Wed, 26 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/foreign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>policy</title>
+      <link>https://www.desinerd.com/tags/policy/</link>
+      <pubDate>Wed, 26 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>revolution</title>
+      <link>https://www.desinerd.com/tags/revolution/</link>
+      <pubDate>Wed, 26 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/revolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>awards</title>
+      <link>https://www.desinerd.com/tags/awards/</link>
+      <pubDate>Sun, 23 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/awards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>darwin</title>
+      <link>https://www.desinerd.com/tags/darwin/</link>
+      <pubDate>Sun, 23 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/darwin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>demise</title>
+      <link>https://www.desinerd.com/tags/demise/</link>
+      <pubDate>Sun, 23 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/demise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>human</title>
+      <link>https://www.desinerd.com/tags/human/</link>
+      <pubDate>Sun, 23 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/human/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>humor</title>
+      <link>https://www.desinerd.com/tags/humor/</link>
+      <pubDate>Sun, 23 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/humor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>species</title>
+      <link>https://www.desinerd.com/tags/species/</link>
+      <pubDate>Sun, 23 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/species/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>capitalistic</title>
+      <link>https://www.desinerd.com/tags/capitalistic/</link>
+      <pubDate>Thu, 20 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/capitalistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>earth</title>
+      <link>https://www.desinerd.com/tags/earth/</link>
+      <pubDate>Thu, 20 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/earth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>moon</title>
+      <link>https://www.desinerd.com/tags/moon/</link>
+      <pubDate>Thu, 20 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/moon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nations</title>
+      <link>https://www.desinerd.com/tags/nations/</link>
+      <pubDate>Thu, 20 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/nations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neutrality</title>
+      <link>https://www.desinerd.com/tags/neutrality/</link>
+      <pubDate>Thu, 20 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/neutrality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ngo</title>
+      <link>https://www.desinerd.com/tags/ngo/</link>
+      <pubDate>Thu, 20 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/ngo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>united</title>
+      <link>https://www.desinerd.com/tags/united/</link>
+      <pubDate>Thu, 20 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/united/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ci</title>
+      <link>https://www.desinerd.com/tags/ci/</link>
+      <pubDate>Wed, 19 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/ci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>codeigniter</title>
+      <link>https://www.desinerd.com/tags/codeigniter/</link>
+      <pubDate>Wed, 19 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/codeigniter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>facebook</title>
+      <link>https://www.desinerd.com/tags/facebook/</link>
+      <pubDate>Wed, 19 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/facebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>igniter</title>
+      <link>https://www.desinerd.com/tags/igniter/</link>
+      <pubDate>Wed, 19 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/igniter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>run</title>
+      <link>https://www.desinerd.com/tags/run/</link>
+      <pubDate>Wed, 19 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/run/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>database</title>
+      <link>https://www.desinerd.com/tags/database/</link>
+      <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>du</title>
+      <link>https://www.desinerd.com/tags/du/</link>
+      <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/du/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>everyone</title>
+      <link>https://www.desinerd.com/tags/everyone/</link>
+      <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/everyone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fast</title>
+      <link>https://www.desinerd.com/tags/fast/</link>
+      <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/fast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>help</title>
+      <link>https://www.desinerd.com/tags/help/</link>
+      <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/help/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multiple</title>
+      <link>https://www.desinerd.com/tags/multiple/</link>
+      <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/multiple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>off</title>
+      <link>https://www.desinerd.com/tags/off/</link>
+      <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/off/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smtp</title>
+      <link>https://www.desinerd.com/tags/smtp/</link>
+      <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/smtp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>students</title>
+      <link>https://www.desinerd.com/tags/students/</link>
+      <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/students/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>super</title>
+      <link>https://www.desinerd.com/tags/super/</link>
+      <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/super/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trade</title>
+      <link>https://www.desinerd.com/tags/trade/</link>
+      <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/trade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>https://www.desinerd.com/tags/tutorial/</link>
+      <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>university</title>
+      <link>https://www.desinerd.com/tags/university/</link>
+      <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/university/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>authentication</title>
+      <link>https://www.desinerd.com/tags/authentication/</link>
+      <pubDate>Sat, 15 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/authentication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>http</title>
+      <link>https://www.desinerd.com/tags/http/</link>
+      <pubDate>Sat, 15 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/http/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>views</title>
+      <link>https://www.desinerd.com/tags/views/</link>
+      <pubDate>Sat, 15 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/views/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>httpfuse</title>
+      <link>https://www.desinerd.com/tags/httpfuse/</link>
+      <pubDate>Wed, 27 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/httpfuse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>links</title>
+      <link>https://www.desinerd.com/tags/links/</link>
+      <pubDate>Wed, 27 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/links/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lots</title>
+      <link>https://www.desinerd.com/tags/lots/</link>
+      <pubDate>Wed, 27 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/lots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wikipedia</title>
+      <link>https://www.desinerd.com/tags/wikipedia/</link>
+      <pubDate>Wed, 27 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/wikipedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eagle</title>
+      <link>https://www.desinerd.com/tags/eagle/</link>
+      <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/eagle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fire</title>
+      <link>https://www.desinerd.com/tags/fire/</link>
+      <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/fire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fireeagle</title>
+      <link>https://www.desinerd.com/tags/fireeagle/</link>
+      <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/fireeagle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>location</title>
+      <link>https://www.desinerd.com/tags/location/</link>
+      <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/location/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yahoo</title>
+      <link>https://www.desinerd.com/tags/yahoo/</link>
+      <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/yahoo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>archiving</title>
+      <link>https://www.desinerd.com/tags/archiving/</link>
+      <pubDate>Wed, 13 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/archiving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortening</title>
+      <link>https://www.desinerd.com/tags/shortening/</link>
+      <pubDate>Wed, 13 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/shortening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>snipper</title>
+      <link>https://www.desinerd.com/tags/snipper/</link>
+      <pubDate>Wed, 13 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/snipper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>status</title>
+      <link>https://www.desinerd.com/tags/status/</link>
+      <pubDate>Wed, 13 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/status/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tool</title>
+      <link>https://www.desinerd.com/tags/tool/</link>
+      <pubDate>Wed, 13 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>url</title>
+      <link>https://www.desinerd.com/tags/url/</link>
+      <pubDate>Wed, 13 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/url/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kashmir omar abdullah video parliament india awesome</title>
+      <link>https://www.desinerd.com/tags/kashmir-omar-abdullah-video-parliament-india-awesome/</link>
+      <pubDate>Fri, 25 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/kashmir-omar-abdullah-video-parliament-india-awesome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scaling</title>
+      <link>https://www.desinerd.com/tags/scaling/</link>
+      <pubDate>Fri, 04 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/scaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amazon</title>
+      <link>https://www.desinerd.com/tags/amazon/</link>
+      <pubDate>Mon, 02 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/tags/amazon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

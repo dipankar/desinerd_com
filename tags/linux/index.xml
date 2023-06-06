@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>linux on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/linux/</link>
+    <description>Recent content in linux on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Mar 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jailed in FreeBSD</title>
+      <link>https://www.desinerd.com/posts/jailed-in-freebsd/</link>
+      <pubDate>Mon, 08 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/jailed-in-freebsd/</guid>
+      <description>Well, working on freeBSD right now some immediate learnings for most linux users Ports is as good as apt-get [and i would say much better, when i started installing stuff] You will need to start with installing vim and bash to make your life a lot easier
+So the target was to install python and nginx, both of which are very easy to install once you understand how the whole ports collection system works.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft remote terminal from linux</title>
+      <link>https://www.desinerd.com/posts/microsoft-remote-terminal-from-linux/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/microsoft-remote-terminal-from-linux/</guid>
+      <description>I know it would be simple for a lot of people reading this blog :). But the easiest way to remote desktop into a windows machine using a X based linux distro is to install rdesktop.
+http://www.rdesktop.org
+For ubuntu and debian based distro, fire up the console and type
+sudo apt-get install rdesktop
+This would install the client.
+rdesktop &amp;lt;server IP/domain&amp;gt;
+This would fire up the windows remote desktop stuff.</description>
+    </item>
+    
+  </channel>
+</rss>

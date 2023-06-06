@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>archiving on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/archiving/</link>
+    <description>Recent content in archiving on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Aug 2008 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/archiving/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kwippy facebook application</title>
+      <link>https://www.desinerd.com/posts/kwippy-facebook-application/</link>
+      <pubDate>Wed, 13 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/kwippy-facebook-application/</guid>
+      <description>Hello all kwippers and people who want to archive their status application, we just released an application which lets you do just that and more if you are integrate the application with kwippy.
+here is the link http://www.new.facebook.com/apps/application.php?id=6806564434
+We need more people ;) , feel free to invite your friends too ….</description>
+    </item>
+    
+  </channel>
+</rss>

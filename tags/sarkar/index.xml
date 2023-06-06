@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>sarkar on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/sarkar/</link>
+    <description>Recent content in sarkar on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Feb 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/sarkar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starting dipankar.name finally !</title>
+      <link>https://www.desinerd.com/posts/starting-dipankar-name-finally/</link>
+      <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/starting-dipankar-name-finally/</guid>
+      <description>I have been lately thinking about what to do with my “real” site, i figured out that i can cut out some of the more personal post into dipankar.name :). So see you there for more subjective crap.</description>
+    </item>
+    
+    <item>
+      <title>Kwippy feed for wordpress</title>
+      <link>https://www.desinerd.com/posts/kwippy-feed-for-wordpress/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/kwippy-feed-for-wordpress/</guid>
+      <description>If you notice i now have a RSS feed for kwippy on the sidebar. That is done by using RSS widget functionality within the wordpress theme section. The image below outline the complete setup which i use for my blog.
+Its really simple to set this up :).Enjoy.</description>
+    </item>
+    
+    <item>
+      <title>Twitter feed wall - great for projectors</title>
+      <link>https://www.desinerd.com/posts/twitter-feed-wall-great-for-projectors/</link>
+      <pubDate>Thu, 22 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/twitter-feed-wall-great-for-projectors/</guid>
+      <description>Inspired by http://twistori.com/. I wrote a generic tool which will allow people to setup a simple wall where people can post and it will automatically refresh. I built this tool specifically because it was needed at proto.in. I am very sure it will be useful to a lot of people out there.
+Uses JQuery and a Queues for javascript library. Maybe someone can do some transition magic with it, i am still a javascript n00b :).</description>
+    </item>
+    
+  </channel>
+</rss>

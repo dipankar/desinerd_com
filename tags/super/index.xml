@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>super on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/super/</link>
+    <description>Recent content in super on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 18 Nov 2008 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/super/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Django : Optimizations within the platform</title>
+      <link>https://www.desinerd.com/posts/django-optimizations-within-the-platform/</link>
+      <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/django-optimizations-within-the-platform/</guid>
+      <description>In my experience with both rails and django, i would have to admit that a lot of things need to be improved at the core of these platforms so that developers can truly deploy a really fast production site. Let talk about what we did at kwippy to make it that much more faster than the default Django setup. Use memcached properly : The trick in getting speed is to cache all logged out pages and heavy caching of the user objects when logged in.</description>
+    </item>
+    
+  </channel>
+</rss>

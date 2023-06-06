@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>wordpress on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/wordpress/</link>
+    <description>Recent content in wordpress on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Going from WordPress multisite to regular wordpress</title>
+      <link>https://www.desinerd.com/posts/going-from-wordpress-multisite-to-regular-wordpress/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/going-from-wordpress-multisite-to-regular-wordpress/</guid>
+      <description>We had a wordpress multi-site installation that was working just fine! However custom domain and SSL pose a clear problem, along with any specific changes one might have to make to the installation.
+NO CODE! NO SQL!
+So I decided to move back to regular wordpress. Now we are using the popular exponent theme, the challenge is that we are using a default demo setup which is modified. The goal was to make an easy shift, not make it into a week long project ;).</description>
+    </item>
+    
+    <item>
+      <title>GD Library Error: Imagecreatetruecolor Does Not Exist</title>
+      <link>https://www.desinerd.com/posts/gd-library-error-imagecreatetruecolor-does-not-exist/</link>
+      <pubDate>Sat, 03 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/gd-library-error-imagecreatetruecolor-does-not-exist/</guid>
+      <description>Well the simplest way of solving this is to run
+sudo apt-get install php5-gd
+That will install the necessary libraries that you need to keep continuing. If you are in windows then you need to go to your php.ini and uncomment the following lines
+;extension=php_gd.dll ;extension=php_gd2.dll
+[just remove the ; to uncomment them]
+Hope that solves your image issues.</description>
+    </item>
+    
+    <item>
+      <title>Listing all your blogposts</title>
+      <link>https://www.desinerd.com/posts/listing-all-your-blogposts/</link>
+      <pubDate>Tue, 30 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/listing-all-your-blogposts/</guid>
+      <description>So here is a quick snapshot at how to get all your wordpress blogposts using python [or wordpresslib to be specific]
+– #!/usr/bin/env python import wordpresslib import tinyurl wordpress = raw_input(&amp;lsquo;&amp;lsquo;Wordpress URL:&amp;rsquo;&amp;rsquo;) user = raw_input(&amp;lsquo;&amp;lsquo;Username:&amp;rsquo;&amp;rsquo;) password = raw_input(&amp;lsquo;&amp;lsquo;Password:&amp;rsquo;&amp;rsquo;)
+prepare client object wp = wordpresslib.WordPressClient(wordpress, user, password)
+select blog id wp.selectBlog(0) posts = wp.getRecentPosts(100) for p in posts: if p.title.find(&amp;ldquo;p=&amp;rdquo;)&amp;lt;0: print p.title,&amp;quot; - &amp;ldquo;,tinyurl.create_one(p.link) – Now that is real easy to use IMHO, i just started using this in one of my scripts.</description>
+    </item>
+    
+    <item>
+      <title>Pimp your blog up in an hour</title>
+      <link>https://www.desinerd.com/posts/pimp-your-blog-up-in-an-hour/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/pimp-your-blog-up-in-an-hour/</guid>
+      <description>Today, after a long time I decided that my blog needed a revamp. Hope you guys like what I have tried with it. The goals at the start of this exercise were as follows: Neat looking template reflecting my minimalist style Good quality SEO, and clean permanent URLs (same as before) Move from the last host (as they are shutting down) Feel fresh and upgrade all the moving parts of the blog</description>
+    </item>
+    
+    <item>
+      <title>Kwippy feed for wordpress</title>
+      <link>https://www.desinerd.com/posts/kwippy-feed-for-wordpress/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/kwippy-feed-for-wordpress/</guid>
+      <description>If you notice i now have a RSS feed for kwippy on the sidebar. That is done by using RSS widget functionality within the wordpress theme section. The image below outline the complete setup which i use for my blog.
+Its really simple to set this up :).Enjoy.</description>
+    </item>
+    
+    <item>
+      <title>First wordpress plugin : Kwippy poster 1.0</title>
+      <link>https://www.desinerd.com/posts/first-wordpress-plugin-kwippy-poster-1-0/</link>
+      <pubDate>Tue, 20 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/first-wordpress-plugin-kwippy-poster-1-0/</guid>
+      <description>Just created my first wordpress plugin, from concept to implementation in 3 hours :D. This plugin basically posts an update on kwippy when you publish a new blog post. This can be a good tutorial for someone trying to build their own plugins actually. Enjoy.
+Updated: Official Wordpress plugin page :http://snipper.in/86</description>
+    </item>
+    
+    <item>
+      <title>PHP &#43; nice URLS &#43; nginx</title>
+      <link>https://www.desinerd.com/posts/php-nice-urls-nginx/</link>
+      <pubDate>Fri, 26 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/php-nice-urls-nginx/</guid>
+      <description>Easiest way to get php with good looking urls running on your site . Works for drupal, wordpress and joomla.
+server { listen 80; server_name www.domain.com; index index.html index.htm index.php; root /path/to/domain/files; location / { error_page 404 = //e/index.php?q=$uri; } location ~ .php$ { include fastcgi_params; fastcgi_pass 127.0.0.1:9000; fastcgi_index index.php; fastcgi_param SCRIPT_FILENAME /path/to/domain/files$fastcgi_script_name; } access_log /usr/local/nginx/logs/domain.access_log; error_log /usr/local/nginx/logs/domain.error_log; }</description>
+    </item>
+    
+  </channel>
+</rss>

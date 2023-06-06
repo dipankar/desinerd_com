@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>add on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/add/</link>
+    <description>Recent content in add on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 16 May 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/add/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The good ol&#39; gel pen</title>
+      <link>https://www.desinerd.com/posts/the-good-ol-gel-pen/</link>
+      <pubDate>Sun, 16 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/the-good-ol-gel-pen/</guid>
+      <description>Well this is a post about something very common, the gel pen. Yesterday, i bought yet another one of them and i should say that my affair with them continues. It all goes back to school, at least in India when i started writing with an “adult” pen it was a messy ink pen, definitely something that would not lend itself to rough handling. Then the discovery of new lands in the form of the ball pen happened, in around 1997 there was a whole range of cool new pen which arrived one of them was the Mitsubishi ball point, one fine pen it was [still is].</description>
+    </item>
+    
+    <item>
+      <title>Pownce gone, use kwippy</title>
+      <link>https://www.desinerd.com/posts/pownce-gone-use-kwippy/</link>
+      <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/pownce-gone-use-kwippy/</guid>
+      <description>In a blatant act of self promotion, now that pownce is finished, I can confidently write that we are the only other django based micro-blogging network with some traction. I do admit the user interface needs a bit of work, but if you interact with our community, you will realize that they are a set of amazing people.
+So keeping in mind that you want to move on from pownce, try something new … or just try kwippy.</description>
+    </item>
+    
+  </channel>
+</rss>

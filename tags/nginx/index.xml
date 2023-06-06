@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>nginx on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/nginx/</link>
+    <description>Recent content in nginx on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 31 May 2011 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/nginx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New book : Nginx web server cookbook</title>
+      <link>https://www.desinerd.com/posts/new-book-nginx-web-server-cookbook/</link>
+      <pubDate>Tue, 31 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/new-book-nginx-web-server-cookbook/</guid>
+      <description>Guys after a long break, I have come out of my slumber to talk about my first publication with Packt publishing. In short the book is about tips and tricks around the upcoming Nginx web server. You can check it out using this link. This has been published by Packt publishing, a UK based technical publishing house.
+It would not have been possible without the tremendous support of the people around me, and in specific the many people I have worked with.</description>
+    </item>
+    
+    <item>
+      <title>Jailed in FreeBSD</title>
+      <link>https://www.desinerd.com/posts/jailed-in-freebsd/</link>
+      <pubDate>Mon, 08 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/jailed-in-freebsd/</guid>
+      <description>Well, working on freeBSD right now some immediate learnings for most linux users Ports is as good as apt-get [and i would say much better, when i started installing stuff] You will need to start with installing vim and bash to make your life a lot easier
+So the target was to install python and nginx, both of which are very easy to install once you understand how the whole ports collection system works.</description>
+    </item>
+    
+    <item>
+      <title>Nginx upload module - efficient uploads</title>
+      <link>https://www.desinerd.com/posts/nginx-upload-module-efficient-uploads/</link>
+      <pubDate>Thu, 20 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/nginx-upload-module-efficient-uploads/</guid>
+      <description>I was just having a look at some forums and saw some people talking about how to handle large parallel uploads. I have been having a look at this plugin which comes with NGINX and played around with it. Extremely useful if you use nginx in your stack and are getting killed by massive uploads.
+Have fun!!
+http://www.grid.net.ru/nginx/upload.en.html</description>
+    </item>
+    
+    <item>
+      <title>Nginx &#43; django fcgi lessons</title>
+      <link>https://www.desinerd.com/posts/nginx-django-fcgi-lessons/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/nginx-django-fcgi-lessons/</guid>
+      <description>Today was a good day as i learned some valuable lessons about django and nginx. ALWAYS close the database cursor in django, it can lead to some pretty wierd memory issues going forward. FIND the most optimal number of database connections you initialize for you connection pooling. This will let you optimize on memory going forward. ENSURE that you do not set a very high client_timeout, this means that if connections are not explicitly not closed by the client then the web server will not timeout.</description>
+    </item>
+    
+    <item>
+      <title>PHP &#43; nice URLS &#43; nginx</title>
+      <link>https://www.desinerd.com/posts/php-nice-urls-nginx/</link>
+      <pubDate>Fri, 26 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/php-nice-urls-nginx/</guid>
+      <description>Easiest way to get php with good looking urls running on your site . Works for drupal, wordpress and joomla.
+server { listen 80; server_name www.domain.com; index index.html index.htm index.php; root /path/to/domain/files; location / { error_page 404 = //e/index.php?q=$uri; } location ~ .php$ { include fastcgi_params; fastcgi_pass 127.0.0.1:9000; fastcgi_index index.php; fastcgi_param SCRIPT_FILENAME /path/to/domain/files$fastcgi_script_name; } access_log /usr/local/nginx/logs/domain.access_log; error_log /usr/local/nginx/logs/domain.error_log; }</description>
+    </item>
+    
+    <item>
+      <title>CodeIgniter &#43; nginx : Facebook application</title>
+      <link>https://www.desinerd.com/posts/codeigniter-nginx-facebook-application/</link>
+      <pubDate>Wed, 19 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/codeigniter-nginx-facebook-application/</guid>
+      <description>This is a basic tutorial on how to get CodeIgniter facebook application on nginx (with the gotchas). The nginx configuration would be like the following
+server { listen 80; server_name blah.com; location ~ /index.php/ { root /home/production/blah; index index.html index.htm index.php; include conf/fcgi.conf; fastcgi_param SCRIPT_FILENAME /home/production/fb_apps/quickdate/index.php; fastcgi_pass 127.0.0.1:9000; } access_log /usr/local/nginx/logs/blah.access_log; error_log /usr/local/nginx/logs/blah.error_log; }
+The critical line is the fastcgi_params parameter, that changes the whole game. In the code Igniter application you need to add the following file in [app]/system/application/libraries/FB_controller.</description>
+    </item>
+    
+  </channel>
+</rss>

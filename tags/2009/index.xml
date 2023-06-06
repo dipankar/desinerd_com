@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>2009 on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/2009/</link>
+    <description>Recent content in 2009 on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 20 Jun 2009 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/2009/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mozilla design challenge 2009</title>
+      <link>https://www.desinerd.com/posts/mozilla-design-challenge-2009/</link>
+      <pubDate>Sat, 20 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/mozilla-design-challenge-2009/</guid>
+      <description>Mozilla design challenge 2009 View more presentations or Upload your own.
+This is a presentation for the mozilla design challenge 2009, though the images are not very clear feel free to ask me at me@dipankar.name about any doubts. http://design-challenge.mozilla.com/summer09/ Note: I need to work on my GIMPing skills :) , so please be kind on me.</description>
+    </item>
+    
+    <item>
+      <title>Nominations for Proto.in Pune, are Open!</title>
+      <link>https://www.desinerd.com/posts/nominations-for-proto-in-pune-are-open/</link>
+      <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/nominations-for-proto-in-pune-are-open/</guid>
+      <description>Amidst much excitement that is bubbling up at the Proto.in camp, we are happy to announce that the nominations for the upcoming edition are now open! The nominations will stay open till June 15th, and that is just a short stint away. Do race to it, and if you are a startup in the Indian landscape and absolutely believe that you have something to share, then this is the platform you’ve been waiting for.</description>
+    </item>
+    
+    <item>
+      <title>Web startup strategy in times of recession</title>
+      <link>https://www.desinerd.com/posts/web-startup-strategy-in-times-of-recession/</link>
+      <pubDate>Sat, 03 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/web-startup-strategy-in-times-of-recession/</guid>
+      <description>I think that a lot of people think that its easy to start a web startup and get funding, well part of that is true. Yes, the barrier to start something on the web is extremely low, but lately with the recession getting money for the same is way more difficult than before. So if you are hooked into the web business, here are some simple tips to get through these difficult times.</description>
+    </item>
+    
+  </channel>
+</rss>

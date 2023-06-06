@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>lots on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/lots/</link>
+    <description>Recent content in lots on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Aug 2008 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/lots/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>httpfuse : best way to aggregate links</title>
+      <link>https://www.desinerd.com/posts/httpfuse-best-way-to-aggregate-links/</link>
+      <pubDate>Wed, 27 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/httpfuse-best-way-to-aggregate-links/</guid>
+      <description>Httpfuse is a very simple concept which allows collaborative link aggregation. The strength lies in the fact that a significant part of the functionality is developed and it is well populated with data. I have displayed one of the fuses i developed over at httpfuse, does it not look great. I have worked upon the data collection actually well it has 4 million odd links beat that :D. Its probably one of the very few Indian sites to have this amounts of data in its system to be honest.</description>
+    </item>
+    
+  </channel>
+</rss>

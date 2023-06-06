@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>chrome on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/chrome/</link>
+    <description>Recent content in chrome on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 28 Aug 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>haiku as your desktop</title>
+      <link>https://www.desinerd.com/posts/haiku-as-your-desktop/</link>
+      <pubDate>Tue, 28 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/haiku-as-your-desktop/</guid>
+      <description>For all the people who have been following the haiku project, it is truly playing out as a viable alternative to the desktop wars with Linux. In my opinion there were only a few that could have beaten the windows dominance, one was the photonGUI and then the BeOS. Turns out the Mac has won a huge chunk of the market, while BBM is killing the photonGUI slowly but steadily.</description>
+    </item>
+    
+    <item>
+      <title>Wold clock extension: Google chrome</title>
+      <link>https://www.desinerd.com/posts/wold-clock-extension-google-chrome/</link>
+      <pubDate>Fri, 28 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/wold-clock-extension-google-chrome/</guid>
+      <description>https://chrome.google.com/extensions/detail/loilmadfanbmmecbmjfcopplelaikmjc
+So here i present the google chome world clock extension ! Simple but works great. Developed it in January and has seen over 500 downloads.
+So go get the beta google chrome and install this cool plugin to keep track of time ;).</description>
+    </item>
+    
+  </channel>
+</rss>

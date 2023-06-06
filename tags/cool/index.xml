@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cool on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/cool/</link>
+    <description>Recent content in cool on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Mar 2009 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/cool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post on twitter/kwippy using .NET</title>
+      <link>https://www.desinerd.com/posts/post-on-twitter-kwippy-using-net/</link>
+      <pubDate>Tue, 03 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/post-on-twitter-kwippy-using-net/</guid>
+      <description>using System; using System.Collections.Generic; using System.Linq; using System.Text; using System.IO; using System.Net; using System.Web;
+namespace ConsoleApplication1 { class Program { static void Main(string[] args) { System.Net.ServicePointManager.Expect100Continue = false; Uri address = new Uri(“http://twitter.com/statuses/update.json”); // Create the web request HttpWebRequest request = WebRequest.Create(address) as HttpWebRequest; request.Method = “POST”; request.ContentType = “application/x-www-form-urlencoded”; request.Credentials = new NetworkCredential(“username”, “password”); StringBuilder data = new StringBuilder(); data.Append(“status=from%20.net”); // Create a byte array of the data we want to send byte[] byteData = UTF8Encoding.</description>
+    </item>
+    
+    <item>
+      <title>Kwippy feed for wordpress</title>
+      <link>https://www.desinerd.com/posts/kwippy-feed-for-wordpress/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/kwippy-feed-for-wordpress/</guid>
+      <description>If you notice i now have a RSS feed for kwippy on the sidebar. That is done by using RSS widget functionality within the wordpress theme section. The image below outline the complete setup which i use for my blog.
+Its really simple to set this up :).Enjoy.</description>
+    </item>
+    
+    <item>
+      <title>Twitter feed wall - great for projectors</title>
+      <link>https://www.desinerd.com/posts/twitter-feed-wall-great-for-projectors/</link>
+      <pubDate>Thu, 22 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/twitter-feed-wall-great-for-projectors/</guid>
+      <description>Inspired by http://twistori.com/. I wrote a generic tool which will allow people to setup a simple wall where people can post and it will automatically refresh. I built this tool specifically because it was needed at proto.in. I am very sure it will be useful to a lot of people out there.
+Uses JQuery and a Queues for javascript library. Maybe someone can do some transition magic with it, i am still a javascript n00b :).</description>
+    </item>
+    
+    <item>
+      <title>First wordpress plugin : Kwippy poster 1.0</title>
+      <link>https://www.desinerd.com/posts/first-wordpress-plugin-kwippy-poster-1-0/</link>
+      <pubDate>Tue, 20 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/first-wordpress-plugin-kwippy-poster-1-0/</guid>
+      <description>Just created my first wordpress plugin, from concept to implementation in 3 hours :D. This plugin basically posts an update on kwippy when you publish a new blog post. This can be a good tutorial for someone trying to build their own plugins actually. Enjoy.
+Updated: Official Wordpress plugin page :http://snipper.in/86</description>
+    </item>
+    
+    <item>
+      <title>The Screen Savers! - NES PC</title>
+      <link>https://www.desinerd.com/posts/the-screen-savers-nes-pc/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/the-screen-savers-nes-pc/</guid>
+      <description>Very cool … though i seem to be nearly 4 years late.</description>
+    </item>
+    
+    <item>
+      <title>Be a Shotgun Startup, at Proto.in January Edition</title>
+      <link>https://www.desinerd.com/posts/be-a-shotgun-startup-at-proto-in-january-edition/</link>
+      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/be-a-shotgun-startup-at-proto-in-january-edition/</guid>
+      <description>How many times have you had a cool idea that never saw the light? Or that amazing conversation you had with your best friends which resulted to nothing? It can be that amazing facebook application to solve all the problems of your single friends, or that Iphone game that will rock the world, or an android application, or that robot which will help elderly people remember their pill times. Whatever it is, this is a time to build it and ride the wave with the support of the entire startup community.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>installation on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/installation/</link>
+    <description>Recent content in installation on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Mar 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/installation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RHEL5 : Yum to munin</title>
+      <link>https://www.desinerd.com/posts/rhel5-yum-to-munin/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/rhel5-yum-to-munin/</guid>
+      <description>So here are some dead easy ways of getting munin and munin-node installed on your RHEL5 server.
+First add RPM Forge repository rpm -Uhv http://apt.sw.be/redhat/el5/en/i386/rpmforge/RPMS/rpmforge-release-0.3.6-1.el5.rf.i386.rpm
+Then just fire
+yum install munin munin-node
+Now, you have your munin running. Lets turn our attention to monit.
+First add this new repo to you rpm -Uvh http://download.fedora.redhat.com/pub/epel/5/i386/epel-release-5-3.noarch.rpm
+Then go ahead and install monit using yum install monit
+Now this my friend was real easy !</description>
+    </item>
+    
+    <item>
+      <title>Pimp your blog up in an hour</title>
+      <link>https://www.desinerd.com/posts/pimp-your-blog-up-in-an-hour/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/pimp-your-blog-up-in-an-hour/</guid>
+      <description>Today, after a long time I decided that my blog needed a revamp. Hope you guys like what I have tried with it. The goals at the start of this exercise were as follows: Neat looking template reflecting my minimalist style Good quality SEO, and clean permanent URLs (same as before) Move from the last host (as they are shutting down) Feel fresh and upgrade all the moving parts of the blog</description>
+    </item>
+    
+  </channel>
+</rss>

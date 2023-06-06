@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>dipankar on Dipankar&#39;s blog</title>
+    <link>https://www.desinerd.com/tags/dipankar/</link>
+    <description>Recent content in dipankar on Dipankar&#39;s blog</description>
+    <image>
+      <title>Dipankar&#39;s blog</title>
+      <url>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.desinerd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Feb 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://www.desinerd.com/tags/dipankar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting started</title>
+      <link>https://www.desinerd.com/posts/getting-started/</link>
+      <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/getting-started/</guid>
+      <description>This is the first post here, this will be work in progress for sometime ! So do bear with me, Going forward the attempt will be to create this personal mini-site with a on and off personal blog.
+For technical stuff do visit http://desinerd.com</description>
+    </item>
+    
+    <item>
+      <title>Starting dipankar.name finally !</title>
+      <link>https://www.desinerd.com/posts/starting-dipankar-name-finally/</link>
+      <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/starting-dipankar-name-finally/</guid>
+      <description>I have been lately thinking about what to do with my “real” site, i figured out that i can cut out some of the more personal post into dipankar.name :). So see you there for more subjective crap.</description>
+    </item>
+    
+    <item>
+      <title>Posts, tweets and nothing</title>
+      <link>https://www.desinerd.com/posts/posts-tweets-and-nothing/</link>
+      <pubDate>Wed, 02 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/posts-tweets-and-nothing/</guid>
+      <description>I am starting from nothing, very little tweeting @dipankarsarkar , and hardly any blog posts here. So 1st December is an attempt at reviving my non-existent web presence. So what keeps me so busy from even writing a simple blog post, i will try to summarize that over the next points Sometime a year back i realized that family was important :), so yes i definitely spend a lot more time with my family.</description>
+    </item>
+    
+    <item>
+      <title>Mosambe for starters</title>
+      <link>https://www.desinerd.com/posts/mosambe-for-starters/</link>
+      <pubDate>Wed, 15 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/mosambe-for-starters/</guid>
+      <description>Mosambe is a one-stop shop to find the right jobs and the right talent. It is a platform for you to network with your colleagues, gain greater visibility and find new opportunities. For companies- setting up a branded account, posting a job and finding the right talent is simple, easy, effective and hassle free. Mosambe(http://mosambe.com) is the creation of Kaasu info ventures private limited, a small team based out of Hyderabad.</description>
+    </item>
+    
+    <item>
+      <title>Awesome proto.in, jan 2009</title>
+      <link>https://www.desinerd.com/posts/awesome-proto-in-jan-2009/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/awesome-proto-in-jan-2009/</guid>
+      <description>Proto has been taking place for sometime, but Jan 2009 is my first proto.in attendance and it was worth the trip to Bangalore. I went in with some expectations and yes, they were fulfilled. The highlights of the event is given below. Awesome talks - There was one talk by Bob Young(founder of redhat) which was simply awesome. There were others as well which were informative and fun sessions. Great audience - People from all walks of professional life, met a lawyer, a HR guy, a finance guy and so on … with so much variety one can only choose to get bored of such company.</description>
+    </item>
+    
+    <item>
+      <title>Kwippy feed for wordpress</title>
+      <link>https://www.desinerd.com/posts/kwippy-feed-for-wordpress/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/kwippy-feed-for-wordpress/</guid>
+      <description>If you notice i now have a RSS feed for kwippy on the sidebar. That is done by using RSS widget functionality within the wordpress theme section. The image below outline the complete setup which i use for my blog.
+Its really simple to set this up :).Enjoy.</description>
+    </item>
+    
+    <item>
+      <title>Twitter feed wall - great for projectors</title>
+      <link>https://www.desinerd.com/posts/twitter-feed-wall-great-for-projectors/</link>
+      <pubDate>Thu, 22 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/twitter-feed-wall-great-for-projectors/</guid>
+      <description>Inspired by http://twistori.com/. I wrote a generic tool which will allow people to setup a simple wall where people can post and it will automatically refresh. I built this tool specifically because it was needed at proto.in. I am very sure it will be useful to a lot of people out there.
+Uses JQuery and a Queues for javascript library. Maybe someone can do some transition magic with it, i am still a javascript n00b :).</description>
+    </item>
+    
+    <item>
+      <title>Yet another URL shortening tool</title>
+      <link>https://www.desinerd.com/posts/yet-another-url-shortening-tool/</link>
+      <pubDate>Wed, 13 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.desinerd.com/posts/yet-another-url-shortening-tool/</guid>
+      <description>So here i post to introduce yet another short URL service …. snipper.in
+So i started this service for fun, built it in a record 3 hours he he … will open-source the code by the weekend. The service is dead simple … you get a short url and you can view stats about how many click / last 5 IPs who clicked.
+example:
+http://www.kwippy.com/rane/kwips/2008/aug/05/121113/ has the short url http://snipper.in/y</description>
+    </item>
+    
+  </channel>
+</rss>
